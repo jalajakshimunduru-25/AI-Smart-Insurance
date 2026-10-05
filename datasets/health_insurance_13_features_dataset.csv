@@ -1,0 +1,2001 @@
+Age,Sex,BMI,Children,Smoker,Region,Pre-existing Disease,Previous Hospitalization,Diagnosis,Length of Stay,Medical Expenses,Coverage Amount,Previous Claims,Insurance Charges
+56,Female,34.0,1,No,Northwest,No,Yes,General,2,13600.0,2000000,4,43482.14
+69,Male,24.2,2,No,Southwest,No,No,General,2,5600.0,100000,0,25045.03
+46,Female,30.0,1,No,Southwest,No,No,General,11,40400.0,1000000,2,43444.5
+32,Female,24.7,3,Yes,Northeast,Yes,Yes,General,15,61500.0,2000000,1,74279.25
+60,Male,21.7,2,No,Southwest,No,No,General,11,45100.0,500000,3,46332.63
+25,Female,27.8,4,No,Southeast,No,No,Heart Disease,2,20600.0,5000000,4,29292.88
+38,Female,22.5,0,Yes,Northeast,No,No,General,9,31800.0,500000,5,49584.37
+56,Male,35.0,1,No,Southwest,No,No,Hypertension,10,31700.0,300000,4,46582.07
+75,Female,22.8,4,Yes,Southwest,No,No,Heart Disease,3,31100.0,5000000,2,43889.92
+36,Female,30.2,3,Yes,Northeast,Yes,No,Hypertension,4,23700.0,5000000,2,40789.11
+40,Female,24.4,0,No,Southwest,No,Yes,Respiratory,15,42400.0,500000,0,62167.8
+28,Female,29.7,4,Yes,Northwest,No,No,General,5,20100.0,2000000,0,33195.85
+28,Male,24.9,0,No,Southeast,No,No,Heart Disease,14,64600.0,500000,5,71402.59
+41,Male,20.5,1,No,Southeast,No,Yes,Respiratory,4,31400.0,1000000,5,44721.95
+70,Male,30.9,3,No,Northwest,No,No,Respiratory,4,18500.0,300000,0,33430.23
+53,Female,26.6,0,No,Southwest,No,No,General,5,6200.0,5000000,3,17708.83
+57,Female,29.7,4,Yes,Southwest,No,No,General,10,28400.0,1000000,5,61724.18
+41,Male,25.4,1,No,Southeast,No,No,General,15,58300.0,2000000,0,54658.89
+20,Female,20.0,1,No,Southwest,No,No,Hypertension,9,27400.0,2000000,4,44626.11
+39,Female,34.5,4,No,Southeast,Yes,No,Heart Disease,12,56400.0,500000,0,68566.12
+70,Female,32.4,4,No,Southeast,No,No,General,9,31100.0,100000,3,40644.54
+19,Female,24.6,0,No,Northwest,No,No,Hypertension,14,50800.0,5000000,0,50250.37
+41,Male,28.4,2,No,Southeast,No,No,Hypertension,14,51900.0,5000000,0,56451.0
+61,Male,34.3,1,Yes,Southwest,No,Yes,Diabetes,6,25500.0,100000,4,51338.1
+47,Male,25.3,0,No,Southwest,No,Yes,Respiratory,11,47900.0,2000000,5,61559.77
+55,Female,26.2,4,Yes,Northeast,No,No,Heart Disease,12,46500.0,2000000,4,62454.87
+19,Male,29.5,0,No,Southwest,Yes,No,General,14,37900.0,5000000,4,53022.71
+38,Male,25.2,4,No,Northeast,Yes,Yes,Hypertension,3,20600.0,300000,0,40537.18
+50,Female,33.1,3,No,Southeast,No,No,General,6,24000.0,5000000,4,43097.92
+29,Female,27.0,4,No,Southwest,Yes,Yes,Hypertension,10,53400.0,2000000,2,63793.95
+75,Male,23.3,4,No,Northwest,Yes,No,Respiratory,4,23200.0,2000000,1,34173.97
+39,Male,31.7,4,Yes,Northwest,No,Yes,Respiratory,3,18100.0,300000,1,35710.91
+61,Male,21.1,2,No,Northwest,Yes,No,Diabetes,6,41300.0,1000000,4,55256.8
+42,Male,40.1,4,Yes,Southeast,No,No,General,15,64200.0,1000000,5,82251.51
+66,Female,37.5,1,No,Southeast,No,No,General,11,44700.0,300000,3,49559.01
+44,Male,31.1,1,No,Northeast,No,No,Hypertension,6,22700.0,300000,4,34131.88
+59,Male,30.6,0,No,Northwest,No,No,General,2,10800.0,1000000,5,39922.29
+45,Female,30.3,2,Yes,Northeast,No,No,Hypertension,9,33600.0,1000000,4,48995.78
+33,Male,25.1,0,No,Northeast,No,No,General,8,26800.0,1000000,0,24586.0
+32,Female,29.8,1,Yes,Southwest,Yes,No,General,6,25000.0,1000000,5,47062.23
+64,Female,22.5,1,Yes,Southwest,Yes,No,General,1,10600.0,5000000,3,33137.83
+68,Female,31.0,3,No,Northwest,Yes,No,Respiratory,12,41600.0,5000000,4,67225.07
+61,Male,33.2,4,No,Southeast,Yes,No,Heart Disease,2,30500.0,500000,2,48870.79
+72,Male,25.7,1,No,Southwest,Yes,No,General,15,40200.0,300000,5,61863.87
+69,Female,24.4,0,No,Southeast,No,No,General,4,20000.0,100000,1,29866.85
+74,Male,20.7,0,No,Northeast,No,No,Diabetes,7,32000.0,500000,5,50797.22
+20,Male,36.7,4,No,Northeast,No,No,General,9,35300.0,100000,2,46588.01
+54,Female,24.9,4,No,Northeast,Yes,No,Hypertension,10,38900.0,100000,2,49951.34
+68,Female,26.8,3,No,Northeast,No,No,Respiratory,5,30900.0,2000000,2,38095.63
+24,Male,29.8,2,No,Northwest,Yes,No,Hypertension,10,36800.0,300000,3,61357.5
+38,Female,29.7,0,No,Northeast,No,No,Hypertension,2,15300.0,5000000,3,27102.27
+26,Male,32.5,4,No,Southwest,No,Yes,Hypertension,15,56800.0,500000,5,76580.52
+56,Male,25.7,0,No,Northeast,Yes,No,Respiratory,13,45400.0,300000,3,63069.75
+35,Male,21.2,4,No,Southeast,No,No,Respiratory,11,43100.0,1000000,1,52873.61
+21,Male,20.1,1,No,Southwest,No,No,Diabetes,11,46300.0,300000,0,47541.79
+42,Female,24.5,0,No,Southeast,No,No,General,11,42400.0,100000,5,54939.48
+31,Female,22.3,1,No,Southeast,No,No,Diabetes,1,20700.0,5000000,4,31160.23
+67,Female,26.2,0,No,Northwest,Yes,No,General,10,35000.0,1000000,4,50622.83
+75,Female,35.8,2,No,Northwest,No,Yes,Hypertension,14,62500.0,300000,5,77118.96
+26,Male,25.7,3,No,Southeast,No,Yes,Diabetes,13,40700.0,300000,0,46406.8
+43,Male,25.7,1,Yes,Southeast,No,Yes,General,14,40600.0,5000000,4,60790.75
+70,Female,27.9,4,No,Northeast,Yes,No,General,1,14600.0,100000,5,39088.95
+19,Male,25.6,2,No,Southwest,No,No,Diabetes,5,21600.0,1000000,5,36573.8
+37,Male,27.6,0,No,Northeast,No,No,Respiratory,14,38700.0,100000,2,52888.79
+45,Male,31.2,1,No,Northwest,Yes,Yes,Hypertension,7,34600.0,5000000,1,49127.14
+64,Female,33.3,0,No,Northwest,No,No,Hypertension,9,24000.0,300000,4,49220.96
+24,Female,34.0,0,No,Northeast,Yes,No,General,9,39000.0,500000,1,46480.48
+61,Female,40.3,0,No,Southwest,No,No,Hypertension,8,24000.0,500000,5,47114.13
+25,Male,31.4,3,No,Southeast,No,No,Diabetes,1,13100.0,2000000,0,32037.17
+64,Female,41.4,3,No,Northeast,No,Yes,Hypertension,5,26400.0,500000,5,44545.74
+52,Female,23.3,4,No,Northwest,Yes,No,General,6,28100.0,5000000,4,45992.74
+31,Female,40.5,1,Yes,Southwest,Yes,No,Diabetes,6,36400.0,5000000,1,43290.24
+34,Female,25.7,2,No,Northwest,No,No,General,4,22100.0,5000000,2,32289.01
+53,Female,26.3,2,No,Southwest,No,Yes,General,1,9400.0,1000000,2,27038.42
+67,Female,27.3,2,No,Southwest,Yes,No,Respiratory,3,24700.0,2000000,5,48129.74
+57,Male,26.7,0,No,Southwest,No,Yes,General,10,39700.0,1000000,0,43879.0
+21,Male,28.5,3,No,Northeast,Yes,No,General,15,60200.0,500000,3,65282.34
+19,Female,24.5,1,No,Northeast,No,Yes,Diabetes,15,58400.0,500000,4,65978.26
+23,Female,33.0,0,No,Northeast,Yes,No,Respiratory,4,26400.0,300000,5,38132.37
+71,Male,24.7,3,No,Southwest,No,No,Diabetes,4,18500.0,1000000,2,38232.79
+59,Male,31.9,3,No,Southwest,No,No,Heart Disease,13,55400.0,100000,2,57008.02
+21,Female,37.2,1,No,Northwest,No,No,Respiratory,4,20800.0,300000,0,27051.7
+71,Female,25.9,1,No,Southeast,Yes,No,General,14,58500.0,1000000,2,67945.94
+46,Female,32.8,1,No,Northeast,No,Yes,Diabetes,5,26600.0,5000000,4,41728.78
+35,Female,31.4,0,No,Southwest,No,No,Diabetes,13,55000.0,2000000,0,47451.23
+43,Male,41.5,4,No,Northwest,No,No,Respiratory,15,42900.0,1000000,1,55851.12
+61,Female,25.0,1,No,Northwest,No,No,General,15,36000.0,2000000,0,42533.75
+51,Female,32.8,4,No,Northwest,Yes,No,General,11,46800.0,2000000,4,64894.86
+27,Female,18.2,0,Yes,Northeast,Yes,Yes,Hypertension,9,41400.0,500000,4,56918.32
+53,Female,25.0,4,No,Northeast,No,No,Hypertension,4,21700.0,100000,1,32118.78
+31,Male,30.1,2,No,Southeast,Yes,Yes,Diabetes,9,55600.0,1000000,5,60741.94
+48,Male,36.4,4,No,Northwest,Yes,Yes,Hypertension,9,31600.0,100000,0,54547.25
+65,Male,20.6,1,Yes,Northeast,Yes,No,General,1,14000.0,2000000,4,45091.53
+32,Female,32.7,0,No,Northwest,No,No,Diabetes,5,16000.0,500000,4,30616.62
+25,Female,27.6,1,No,Southwest,Yes,Yes,Diabetes,9,39200.0,100000,1,63759.35
+31,Male,18.9,2,No,Northwest,No,No,Respiratory,4,17500.0,300000,3,32995.22
+40,Female,29.1,1,No,Southeast,No,No,General,5,13600.0,2000000,0,23706.01
+74,Female,38.3,1,No,Northeast,Yes,No,Respiratory,4,30900.0,300000,4,50334.72
+57,Male,21.3,1,No,Southwest,No,No,Hypertension,13,44000.0,5000000,2,49757.99
+38,Male,27.3,3,Yes,Northeast,No,Yes,General,2,16900.0,100000,1,30760.68
+33,Male,22.1,2,Yes,Southwest,Yes,No,Heart Disease,10,47400.0,100000,3,62238.59
+62,Male,25.2,1,No,Northwest,Yes,No,General,2,10800.0,100000,3,33269.08
+35,Female,36.6,1,No,Northwest,No,Yes,Respiratory,2,24400.0,5000000,1,27964.86
+64,Female,26.4,1,Yes,Southeast,Yes,Yes,Respiratory,13,51400.0,1000000,3,80373.35
+70,Male,36.4,0,No,Southeast,No,No,General,1,6400.0,2000000,4,32612.47
+41,Female,34.7,3,No,Southwest,No,Yes,General,3,15000.0,2000000,3,42378.58
+43,Male,25.8,0,No,Southeast,Yes,No,Diabetes,15,65000.0,2000000,0,69084.51
+42,Male,25.0,3,No,Southeast,No,Yes,Diabetes,14,41300.0,1000000,2,60090.26
+62,Female,22.6,1,No,Southeast,No,No,Diabetes,11,37900.0,100000,4,47051.97
+58,Male,22.4,2,No,Southeast,No,No,General,10,36500.0,100000,1,47777.1
+46,Female,30.1,4,No,Northwest,No,No,Hypertension,1,10900.0,5000000,2,17520.53
+32,Female,27.9,4,No,Southeast,No,No,General,4,18100.0,300000,5,30944.74
+62,Female,24.3,1,No,Northwest,Yes,Yes,Respiratory,1,24100.0,1000000,4,56423.47
+18,Female,18.7,0,No,Northwest,Yes,No,Heart Disease,4,37400.0,500000,2,40846.5
+42,Male,28.6,2,Yes,Northeast,No,Yes,Diabetes,3,26100.0,1000000,3,43631.89
+24,Female,25.2,3,No,Northwest,Yes,Yes,Respiratory,9,54400.0,5000000,5,70269.73
+26,Male,26.8,1,No,Northwest,No,No,General,1,13100.0,300000,1,20524.46
+41,Male,29.8,2,Yes,Southeast,No,Yes,General,14,50300.0,300000,1,58452.56
+18,Male,16.0,2,Yes,Northwest,Yes,No,Hypertension,8,35200.0,300000,0,40564.67
+61,Male,18.8,3,No,Southwest,No,Yes,Diabetes,11,45300.0,100000,3,61450.63
+25,Female,41.8,2,No,Southeast,No,No,Hypertension,9,36300.0,500000,0,43381.22
+41,Female,25.0,0,No,Southeast,No,No,Respiratory,12,42700.0,300000,0,50593.71
+28,Male,16.0,0,Yes,Southeast,No,No,Respiratory,7,33900.0,2000000,3,46853.22
+68,Male,19.3,0,Yes,Northeast,Yes,No,Hypertension,1,17400.0,100000,4,42326.07
+34,Female,42.9,2,Yes,Southeast,No,No,Heart Disease,4,34800.0,500000,5,52426.39
+25,Male,23.8,0,No,Northwest,No,No,General,10,40300.0,2000000,0,41384.43
+52,Female,35.0,3,No,Southwest,No,Yes,General,1,6100.0,500000,2,25308.49
+52,Male,28.7,2,No,Southeast,No,No,Heart Disease,4,33400.0,5000000,5,45116.71
+50,Female,25.1,4,No,Southeast,No,No,Diabetes,15,63700.0,500000,4,72786.97
+22,Male,32.7,2,No,Southwest,No,No,Diabetes,3,17400.0,2000000,3,36254.16
+59,Male,16.0,3,No,Southeast,Yes,No,General,2,17500.0,1000000,1,24693.82
+56,Female,19.4,4,No,Northeast,Yes,No,Hypertension,1,23500.0,500000,4,51630.73
+75,Male,25.0,2,No,Northwest,No,Yes,General,6,21100.0,1000000,0,39821.82
+58,Male,19.9,0,No,Southwest,No,Yes,Hypertension,12,34300.0,500000,2,51516.77
+45,Female,24.5,1,No,Southwest,No,No,General,7,19500.0,5000000,5,34147.6
+24,Male,33.1,1,No,Northeast,Yes,No,General,6,26000.0,2000000,3,39084.44
+26,Female,28.8,0,No,Northwest,Yes,No,General,9,39100.0,500000,1,50459.79
+25,Female,36.0,1,No,Northeast,No,No,General,12,48800.0,300000,5,60098.88
+29,Male,29.2,1,No,Northwest,Yes,No,Respiratory,9,37600.0,5000000,2,44277.26
+51,Male,34.0,0,Yes,Northeast,No,Yes,General,2,12800.0,300000,1,29000.56
+50,Male,27.6,0,No,Southeast,No,No,General,15,43800.0,5000000,3,53129.34
+65,Male,24.5,2,No,Northeast,No,Yes,Hypertension,15,63100.0,5000000,5,72151.61
+72,Male,36.9,2,No,Southwest,No,No,Diabetes,2,17600.0,500000,4,38758.58
+40,Male,23.7,0,No,Southwest,No,No,General,9,36300.0,2000000,0,35022.98
+41,Male,30.1,3,Yes,Southwest,No,No,General,1,5600.0,2000000,3,31273.38
+54,Female,32.6,1,No,Northeast,No,No,Respiratory,5,25500.0,100000,2,31264.0
+52,Male,33.0,2,Yes,Southwest,No,No,Hypertension,1,17900.0,2000000,4,42467.84
+61,Female,21.0,1,No,Southwest,No,Yes,Diabetes,7,42900.0,1000000,5,69988.68
+57,Male,34.3,4,Yes,Southeast,No,No,Diabetes,9,37700.0,500000,1,55928.39
+39,Male,22.1,0,No,Southeast,No,Yes,General,6,22600.0,300000,4,36740.3
+44,Female,32.9,3,Yes,Northwest,No,No,General,14,51300.0,2000000,4,65015.95
+52,Male,31.2,4,No,Northwest,No,No,Hypertension,2,18300.0,300000,2,26415.18
+18,Male,32.9,4,No,Northwest,No,No,Respiratory,6,17800.0,100000,0,32649.74
+52,Female,20.8,4,No,Northeast,No,No,General,9,26800.0,500000,4,44657.59
+54,Male,31.5,0,Yes,Northwest,No,No,Respiratory,3,20200.0,2000000,4,32642.61
+64,Male,34.5,2,No,Northeast,No,No,General,9,31200.0,300000,0,35809.6
+31,Male,29.2,0,No,Northeast,No,No,General,8,29400.0,5000000,0,26938.9
+20,Female,23.1,2,Yes,Northwest,Yes,No,General,15,52000.0,2000000,1,67088.96
+18,Male,33.5,4,No,Northwest,No,No,General,13,43700.0,100000,5,52316.78
+22,Male,28.7,4,No,Northeast,No,No,Respiratory,12,38200.0,5000000,1,49693.42
+43,Male,18.0,3,No,Southeast,No,No,Diabetes,7,19500.0,300000,0,26838.09
+72,Male,22.6,2,No,Southwest,No,Yes,General,8,30700.0,300000,3,51959.23
+31,Female,24.8,4,Yes,Southwest,No,No,Respiratory,10,34100.0,500000,0,43805.87
+56,Female,37.0,1,No,Southwest,No,Yes,Respiratory,6,22100.0,500000,1,43484.28
+44,Male,36.0,3,No,Southeast,No,No,Heart Disease,3,27700.0,300000,2,34405.32
+26,Male,36.0,0,Yes,Northeast,Yes,No,Respiratory,7,39600.0,5000000,2,51099.26
+32,Female,29.4,3,No,Northwest,No,No,General,4,15200.0,500000,5,31593.0
+32,Female,33.5,1,No,Northeast,No,Yes,Respiratory,11,36400.0,300000,4,57216.91
+43,Male,21.2,2,No,Northeast,No,No,Hypertension,10,25400.0,5000000,2,34125.98
+59,Female,28.0,0,No,Northwest,Yes,Yes,Respiratory,14,45600.0,1000000,1,60630.34
+30,Male,30.7,0,No,Southeast,Yes,No,Heart Disease,5,35600.0,2000000,2,44806.27
+68,Female,21.6,2,Yes,Southwest,No,No,General,8,27400.0,1000000,3,49213.79
+49,Female,29.3,3,No,Southwest,Yes,No,Heart Disease,15,67400.0,1000000,0,70116.03
+56,Female,38.1,4,No,Northeast,No,No,General,7,16600.0,2000000,0,35507.34
+66,Female,31.4,3,No,Southeast,Yes,No,General,7,30400.0,300000,1,44076.82
+69,Male,33.5,1,No,Southwest,Yes,No,General,8,36400.0,300000,4,61530.54
+49,Female,16.0,4,Yes,Southeast,No,No,Respiratory,10,33800.0,500000,0,48779.31
+21,Female,37.3,3,Yes,Northwest,Yes,Yes,General,3,26900.0,100000,2,44301.13
+47,Male,26.9,2,No,Northeast,No,No,Diabetes,3,20500.0,300000,3,36674.67
+54,Female,23.4,1,No,Northeast,No,Yes,Diabetes,2,20600.0,2000000,4,32334.84
+40,Female,27.0,1,No,Southeast,No,No,Respiratory,15,57200.0,100000,4,66022.94
+56,Male,19.1,1,No,Southwest,Yes,No,General,1,16500.0,2000000,4,32129.43
+62,Female,34.3,4,No,Southeast,No,Yes,Heart Disease,10,55000.0,2000000,0,62298.91
+32,Male,26.0,0,No,Northwest,No,Yes,Respiratory,6,25000.0,2000000,5,42030.82
+60,Male,23.6,4,No,Southwest,Yes,Yes,Diabetes,6,29600.0,100000,4,49687.06
+46,Male,27.0,3,No,Southwest,No,No,Diabetes,13,38700.0,1000000,1,42018.28
+53,Male,34.7,0,No,Southeast,No,No,Heart Disease,10,41900.0,5000000,2,50903.28
+30,Female,28.8,3,No,Northwest,No,No,Respiratory,12,31900.0,2000000,5,55672.68
+49,Male,19.5,0,No,Southwest,No,No,Heart Disease,8,43800.0,500000,3,50984.04
+24,Female,30.8,4,No,Northeast,No,No,General,14,39200.0,300000,2,43046.76
+68,Female,22.4,1,No,Northwest,No,Yes,Respiratory,6,37400.0,5000000,1,45385.9
+39,Female,16.0,2,Yes,Southwest,Yes,Yes,Diabetes,6,31800.0,300000,1,54172.99
+45,Female,37.0,1,No,Southeast,Yes,No,Hypertension,1,17200.0,300000,5,38625.71
+19,Female,30.7,4,No,Southwest,No,No,Respiratory,12,50500.0,100000,2,50127.88
+59,Female,27.5,0,No,Northeast,No,Yes,General,7,27300.0,500000,0,46707.86
+62,Female,25.9,1,Yes,Northwest,No,No,Heart Disease,7,45600.0,500000,1,48893.87
+74,Female,36.4,4,Yes,Southwest,No,No,Hypertension,10,29500.0,5000000,4,55488.85
+70,Female,45.0,3,No,Northeast,No,No,Respiratory,9,35000.0,500000,3,50657.24
+23,Female,30.7,2,No,Southwest,No,No,General,14,38500.0,500000,3,53598.84
+45,Male,21.8,1,Yes,Southwest,Yes,Yes,Diabetes,15,45300.0,500000,1,67930.47
+45,Male,27.1,0,No,Northwest,No,No,Respiratory,12,47900.0,5000000,4,53719.0
+61,Male,30.6,3,No,Southeast,No,No,General,7,20700.0,1000000,2,34514.5
+61,Female,16.0,4,No,Southeast,Yes,No,General,8,33100.0,500000,3,51030.02
+37,Male,30.0,2,No,Northeast,No,Yes,Respiratory,4,24000.0,500000,4,41647.09
+47,Male,30.6,0,No,Northeast,No,Yes,General,9,28900.0,100000,4,46813.39
+28,Male,36.0,4,No,Northeast,No,No,Respiratory,15,39000.0,100000,0,47931.88
+75,Female,35.3,4,No,Northwest,No,No,General,14,34700.0,500000,1,47210.2
+72,Female,28.7,1,Yes,Southeast,Yes,No,Diabetes,1,10100.0,1000000,4,49012.16
+45,Female,37.1,1,No,Northeast,No,No,Heart Disease,8,35900.0,500000,2,49470.78
+42,Female,40.2,0,No,Northeast,Yes,No,Hypertension,3,28200.0,500000,3,44162.56
+56,Male,28.2,4,No,Southwest,Yes,No,Hypertension,14,59800.0,500000,0,71328.91
+50,Male,30.5,1,No,Southwest,Yes,No,Diabetes,1,17300.0,2000000,2,33311.96
+18,Male,17.4,2,No,Northeast,Yes,No,Respiratory,2,22500.0,1000000,3,30527.08
+74,Male,19.3,2,Yes,Southwest,No,No,General,15,57900.0,300000,1,68755.94
+44,Female,23.0,4,No,Southwest,No,Yes,Diabetes,6,30300.0,500000,2,42985.53
+74,Female,25.3,1,No,Southwest,No,No,General,5,15800.0,300000,3,42442.19
+69,Female,21.4,0,Yes,Northwest,No,No,Hypertension,14,37200.0,1000000,0,49125.19
+30,Male,27.8,0,No,Northeast,Yes,Yes,General,3,17900.0,500000,3,33216.39
+58,Female,25.5,0,Yes,Northeast,No,No,General,9,30300.0,300000,4,59970.59
+20,Female,34.4,2,No,Southwest,Yes,No,Diabetes,8,40900.0,5000000,0,52692.37
+56,Male,25.2,1,Yes,Northwest,Yes,No,General,13,45100.0,300000,2,67076.14
+23,Male,16.0,1,No,Southwest,Yes,No,General,3,19200.0,1000000,5,33173.95
+25,Female,28.8,2,No,Northwest,Yes,No,Hypertension,2,22600.0,500000,1,35043.75
+44,Female,27.9,0,No,Northeast,No,No,Diabetes,8,37700.0,2000000,0,35304.47
+26,Female,22.8,0,No,Southwest,No,Yes,Respiratory,14,58400.0,1000000,0,55758.68
+54,Female,28.6,4,No,Northeast,No,No,Hypertension,15,34700.0,2000000,0,43127.42
+50,Female,21.5,3,No,Northwest,No,No,General,5,16600.0,500000,3,29061.32
+68,Female,30.0,1,No,Southeast,No,No,Hypertension,15,55100.0,300000,4,62303.82
+59,Male,43.8,1,No,Northwest,Yes,No,General,9,29500.0,5000000,5,59770.56
+61,Male,17.2,1,No,Southeast,Yes,No,Heart Disease,1,24100.0,5000000,1,43889.39
+41,Male,24.9,3,No,Northeast,No,No,Respiratory,10,48700.0,1000000,1,55555.35
+32,Female,23.9,4,Yes,Northeast,No,No,Hypertension,3,21000.0,1000000,4,41613.16
+71,Male,25.4,3,No,Southwest,No,No,Hypertension,5,18800.0,1000000,3,35619.16
+49,Female,34.1,0,No,Southeast,No,Yes,General,2,14600.0,100000,3,33612.82
+49,Female,31.3,0,No,Northwest,No,No,Diabetes,3,18600.0,5000000,4,29693.93
+41,Male,33.1,1,No,Northeast,No,Yes,Respiratory,4,30200.0,5000000,4,38916.7
+58,Female,28.2,2,No,Southeast,No,No,General,4,18400.0,500000,2,26018.0
+69,Female,20.1,1,No,Northwest,No,No,General,11,40400.0,100000,3,46777.38
+66,Male,21.3,2,No,Southeast,No,Yes,Diabetes,9,49600.0,1000000,0,56801.29
+66,Male,32.5,3,Yes,Northwest,No,No,Heart Disease,1,20800.0,1000000,1,40670.45
+75,Male,29.0,0,No,Northwest,No,No,Diabetes,12,44600.0,2000000,3,53768.12
+69,Female,35.6,2,No,Northwest,No,No,Respiratory,9,42400.0,100000,4,58454.16
+29,Male,29.8,3,No,Northwest,No,No,General,15,61000.0,300000,0,64582.8
+56,Male,20.9,0,No,Southeast,Yes,No,Diabetes,9,45500.0,5000000,2,54898.4
+19,Female,24.9,2,No,Southeast,No,Yes,Heart Disease,11,38600.0,500000,5,50871.88
+20,Male,31.4,1,No,Southwest,No,No,General,6,26900.0,300000,2,32822.39
+66,Male,32.3,1,No,Southeast,Yes,Yes,Hypertension,11,43600.0,300000,0,65652.95
+54,Male,33.1,1,No,Southeast,No,No,General,1,10200.0,500000,0,21485.07
+66,Female,21.7,3,No,Southwest,Yes,No,General,11,43500.0,1000000,4,71511.75
+73,Female,20.8,1,No,Southeast,No,No,General,13,38100.0,5000000,5,54004.95
+34,Female,26.9,4,No,Northwest,No,Yes,Respiratory,12,49400.0,2000000,4,59339.38
+66,Female,36.6,0,No,Northeast,No,Yes,Hypertension,6,37600.0,1000000,1,41813.99
+19,Male,23.8,3,Yes,Northeast,No,No,Heart Disease,8,34700.0,1000000,5,55849.75
+19,Female,30.7,1,Yes,Southwest,No,No,General,5,15600.0,100000,5,37660.06
+45,Female,30.7,0,No,Southeast,No,No,Hypertension,5,14500.0,300000,1,23900.01
+71,Male,32.6,2,No,Southeast,No,No,Diabetes,1,12700.0,300000,2,27834.18
+40,Male,38.0,1,No,Southwest,No,No,Respiratory,1,14500.0,5000000,0,26174.56
+54,Male,37.4,0,Yes,Northeast,No,Yes,Heart Disease,8,43600.0,300000,2,55396.32
+49,Female,24.4,4,No,Northwest,No,No,Heart Disease,13,66800.0,2000000,4,72477.2
+50,Female,16.0,2,No,Southeast,No,No,General,5,8900.0,2000000,3,30922.62
+18,Female,23.9,4,No,Southwest,No,No,Hypertension,8,37500.0,2000000,4,43686.04
+36,Male,28.5,0,Yes,Northwest,No,No,Diabetes,10,48000.0,500000,3,49248.06
+19,Male,25.8,4,No,Southwest,Yes,No,Respiratory,2,23100.0,5000000,0,30237.04
+70,Female,39.8,0,Yes,Southwest,No,No,General,15,40900.0,2000000,0,56291.69
+61,Male,28.1,0,No,Southwest,No,Yes,General,4,19200.0,100000,5,35433.79
+43,Male,31.9,4,No,Northeast,No,No,Diabetes,13,47600.0,100000,0,55697.46
+49,Male,29.3,0,No,Northeast,No,No,General,11,26400.0,1000000,1,42689.48
+23,Female,25.9,1,No,Southwest,Yes,No,General,14,45200.0,1000000,1,56013.93
+49,Male,16.5,0,No,Southeast,No,No,Respiratory,10,38000.0,5000000,3,45324.32
+72,Male,27.5,3,No,Northwest,No,No,Hypertension,9,23700.0,1000000,2,42733.05
+21,Female,45.0,0,Yes,Southeast,No,Yes,Respiratory,13,55800.0,1000000,5,69709.59
+72,Female,20.5,3,No,Northeast,Yes,No,Respiratory,3,28100.0,100000,2,46841.39
+28,Male,17.1,0,Yes,Northwest,No,Yes,General,6,29900.0,1000000,3,41713.86
+73,Male,39.6,0,No,Southwest,Yes,No,Hypertension,11,51500.0,100000,1,63028.56
+34,Female,32.5,4,Yes,Southeast,Yes,No,General,7,35900.0,2000000,4,56315.38
+55,Female,29.1,1,No,Southeast,No,Yes,Respiratory,3,25300.0,2000000,5,58630.49
+41,Male,36.2,1,Yes,Southwest,Yes,No,Diabetes,1,22600.0,5000000,3,38802.51
+22,Male,23.0,2,Yes,Southeast,No,Yes,Diabetes,2,16700.0,500000,2,30323.03
+69,Male,27.4,4,No,Northeast,Yes,No,General,11,46600.0,1000000,3,56332.28
+51,Male,33.7,4,No,Southwest,No,No,Diabetes,14,34700.0,2000000,3,54689.85
+23,Female,40.7,1,No,Southeast,No,Yes,General,10,36600.0,2000000,0,52856.18
+39,Male,21.0,4,No,Southwest,No,Yes,Diabetes,7,29700.0,5000000,1,39139.18
+28,Male,35.7,1,Yes,Northwest,Yes,No,Heart Disease,7,42600.0,300000,5,59600.95
+65,Female,30.3,4,No,Southwest,No,No,Respiratory,12,31600.0,300000,0,45685.43
+33,Male,29.0,0,No,Southeast,No,No,General,1,10800.0,5000000,1,24976.23
+50,Female,28.0,1,No,Northeast,No,Yes,Diabetes,10,37100.0,100000,3,58286.55
+26,Male,19.7,1,No,Southwest,No,No,Respiratory,7,24600.0,500000,1,27059.08
+23,Male,33.8,3,Yes,Southwest,No,Yes,General,15,41900.0,5000000,2,63000.78
+33,Female,23.3,4,No,Southeast,No,No,Respiratory,10,42700.0,300000,5,53706.69
+46,Female,21.5,4,No,Northeast,No,No,General,11,34000.0,500000,0,48381.31
+20,Male,33.3,1,No,Northeast,No,No,Hypertension,6,18900.0,2000000,5,46617.45
+37,Male,32.7,0,No,Northwest,No,No,Hypertension,11,34600.0,5000000,3,55598.63
+53,Male,28.5,0,No,Northwest,No,Yes,Hypertension,6,23000.0,100000,2,34451.89
+36,Female,34.5,0,No,Southeast,No,No,Respiratory,7,28000.0,500000,1,33368.26
+43,Male,36.6,4,No,Northeast,Yes,Yes,General,7,30000.0,300000,1,56372.94
+20,Female,35.8,3,No,Northeast,No,No,General,1,7600.0,2000000,2,20606.18
+36,Female,24.8,1,No,Northwest,Yes,No,Hypertension,10,49700.0,5000000,1,52056.57
+37,Male,34.1,2,No,Northwest,Yes,Yes,Heart Disease,5,47200.0,1000000,0,47730.93
+49,Female,29.3,3,No,Southeast,No,No,General,15,51400.0,2000000,4,64302.64
+24,Male,38.4,2,No,Northeast,No,No,Heart Disease,14,43600.0,300000,1,50642.99
+69,Male,27.3,3,No,Southwest,Yes,No,Diabetes,14,54800.0,5000000,3,72515.49
+58,Male,25.9,0,No,Northwest,No,Yes,General,8,39100.0,300000,1,48482.83
+50,Male,24.3,4,No,Southeast,No,Yes,Heart Disease,8,57600.0,1000000,5,60808.77
+57,Male,29.1,2,No,Northeast,No,No,General,3,14900.0,2000000,3,27894.24
+56,Female,30.8,3,Yes,Northeast,No,Yes,Diabetes,3,20200.0,500000,1,43549.84
+35,Female,30.9,4,No,Northwest,Yes,No,General,7,23100.0,500000,1,44614.26
+57,Male,30.1,2,No,Southeast,No,No,Diabetes,15,51000.0,2000000,3,61111.55
+18,Male,32.0,1,No,Southwest,No,Yes,Hypertension,4,21600.0,500000,0,30292.22
+28,Female,26.7,3,No,Northwest,No,No,Hypertension,6,24400.0,5000000,4,33302.66
+45,Female,22.8,1,No,Southeast,No,Yes,Diabetes,9,26900.0,2000000,4,45582.43
+74,Female,22.2,0,No,Northeast,No,No,Diabetes,10,34700.0,2000000,0,48810.01
+42,Female,33.9,1,No,Southwest,No,No,General,2,3000.0,300000,1,26749.38
+67,Male,30.8,1,No,Southeast,Yes,No,Diabetes,2,17900.0,100000,4,40588.71
+40,Male,16.9,3,No,Southwest,No,No,Respiratory,6,26300.0,300000,0,30468.11
+48,Female,34.6,0,No,Southeast,Yes,Yes,Respiratory,3,26000.0,500000,0,34148.99
+47,Male,39.3,1,No,Southeast,No,No,General,1,4700.0,100000,4,23555.88
+59,Female,23.7,4,No,Southeast,No,No,General,2,9400.0,2000000,3,27307.82
+52,Male,30.0,2,No,Southeast,No,No,Respiratory,14,43800.0,500000,2,54970.28
+24,Female,25.2,1,Yes,Southwest,No,No,Diabetes,13,47900.0,1000000,3,56032.28
+33,Male,31.8,0,No,Northwest,No,Yes,Hypertension,7,36700.0,500000,1,49060.88
+43,Female,21.0,1,No,Southwest,No,No,Heart Disease,4,26600.0,100000,3,38408.06
+65,Female,27.6,2,Yes,Southeast,Yes,No,General,12,47900.0,100000,5,71368.08
+74,Male,33.9,0,No,Southwest,Yes,Yes,Diabetes,2,22800.0,2000000,2,47373.51
+69,Female,35.4,3,No,Southwest,No,No,Respiratory,11,34100.0,5000000,2,50964.98
+66,Male,30.6,0,No,Southwest,No,Yes,Hypertension,12,47100.0,1000000,0,62868.7
+19,Male,26.0,3,Yes,Southeast,No,No,General,12,32400.0,2000000,5,49052.93
+18,Female,18.4,0,Yes,Southwest,No,No,General,8,27400.0,1000000,1,38018.97
+65,Male,23.5,2,No,Northeast,No,Yes,General,4,22600.0,1000000,0,24694.89
+29,Male,25.2,2,No,Southeast,No,No,Heart Disease,4,28200.0,2000000,3,35088.29
+22,Male,23.8,0,No,Southwest,Yes,No,General,2,17900.0,500000,3,32652.54
+54,Male,28.4,1,No,Northeast,Yes,No,General,14,33400.0,300000,4,56667.15
+49,Male,25.9,2,No,Southwest,No,No,Respiratory,1,16200.0,1000000,0,19203.5
+72,Female,29.0,3,No,Northwest,No,No,General,1,9700.0,100000,5,29520.81
+26,Male,35.2,3,No,Southwest,No,Yes,General,3,16500.0,2000000,0,23251.95
+58,Male,25.6,4,No,Southwest,Yes,No,General,6,25100.0,5000000,0,39635.79
+52,Male,19.7,3,No,Northwest,No,No,General,7,27600.0,500000,0,38348.95
+36,Male,23.8,4,No,Southeast,No,Yes,Diabetes,13,58000.0,1000000,2,61518.58
+65,Male,31.5,0,No,Northwest,Yes,No,Respiratory,9,43400.0,5000000,4,69405.17
+33,Female,32.1,0,Yes,Southeast,No,No,Respiratory,5,30600.0,500000,1,41521.95
+20,Male,30.4,0,No,Northwest,No,Yes,Diabetes,9,46600.0,2000000,1,40058.44
+37,Female,35.8,1,No,Southwest,No,Yes,Diabetes,8,35500.0,5000000,1,47133.24
+41,Female,26.9,1,No,Southwest,No,No,Hypertension,1,14700.0,100000,2,25220.22
+71,Female,40.3,4,No,Southeast,No,No,General,11,38000.0,1000000,4,63872.27
+73,Female,32.9,3,Yes,Southeast,No,No,General,12,30400.0,1000000,5,59175.62
+50,Male,16.0,3,No,Northeast,No,No,Respiratory,3,17400.0,5000000,4,31385.79
+41,Female,38.8,0,No,Northeast,No,No,General,8,24700.0,500000,2,48117.24
+69,Female,23.4,2,No,Southwest,Yes,Yes,General,9,35100.0,2000000,5,51121.33
+28,Male,21.8,1,No,Southwest,No,Yes,Diabetes,14,41900.0,300000,0,47604.79
+66,Male,31.1,1,No,Northeast,No,Yes,Diabetes,4,20600.0,1000000,3,41268.67
+25,Male,17.6,0,No,Northeast,No,No,General,14,40200.0,100000,0,41580.77
+53,Female,23.8,1,No,Southeast,Yes,Yes,General,14,39800.0,1000000,1,48830.38
+55,Male,37.3,0,No,Northwest,Yes,No,Diabetes,14,68400.0,1000000,0,73727.39
+57,Male,31.3,4,No,Southeast,No,No,Hypertension,12,41800.0,300000,2,51953.04
+37,Female,32.9,3,Yes,Northeast,No,No,General,6,23800.0,300000,1,38088.92
+52,Male,24.1,2,No,Southwest,Yes,No,Diabetes,4,27700.0,2000000,3,49552.86
+65,Male,18.8,3,Yes,Northeast,No,Yes,Hypertension,13,59800.0,1000000,5,77444.08
+42,Male,32.2,3,No,Southwest,No,No,Respiratory,15,52000.0,1000000,5,63320.85
+52,Male,33.6,4,No,Southwest,Yes,No,General,9,33500.0,500000,1,51784.15
+42,Female,33.3,1,No,Southwest,No,Yes,General,2,13700.0,500000,0,24308.92
+46,Male,29.3,2,No,Southwest,Yes,No,Diabetes,6,30800.0,5000000,4,48042.97
+35,Male,22.2,1,No,Northwest,Yes,Yes,Heart Disease,11,62300.0,5000000,4,75443.97
+63,Female,42.6,3,No,Northeast,No,No,General,13,37700.0,100000,5,57325.23
+35,Male,30.9,0,No,Southeast,Yes,No,Diabetes,3,23400.0,100000,4,43434.05
+19,Female,27.0,3,No,Southwest,Yes,Yes,General,10,37700.0,500000,1,49689.54
+71,Male,27.0,1,No,Southwest,No,No,General,4,8900.0,5000000,4,29639.25
+52,Female,28.9,3,No,Southeast,No,No,Diabetes,2,19200.0,100000,2,29056.89
+33,Female,34.4,0,No,Southeast,No,No,General,11,44300.0,1000000,5,53154.06
+58,Female,29.1,4,No,Southwest,No,No,Respiratory,8,29300.0,5000000,3,45839.69
+53,Female,33.2,1,No,Southeast,Yes,No,Hypertension,10,46500.0,300000,4,61474.67
+50,Male,28.9,3,No,Southeast,No,No,Diabetes,8,29300.0,5000000,2,48204.8
+21,Female,27.3,1,No,Northwest,No,No,Diabetes,1,10200.0,1000000,2,16776.92
+50,Male,31.8,4,No,Southeast,No,Yes,Diabetes,10,32500.0,500000,1,50118.03
+31,Female,31.6,3,No,Northeast,Yes,No,General,6,31200.0,2000000,5,55162.75
+38,Female,27.0,3,No,Northeast,No,No,Respiratory,1,20100.0,2000000,1,35135.57
+65,Female,23.5,1,No,Northeast,No,No,Respiratory,6,29200.0,500000,3,38712.02
+37,Male,30.1,1,No,Southwest,No,Yes,General,7,26900.0,1000000,3,46812.74
+73,Female,28.5,0,No,Northeast,No,Yes,General,15,59100.0,100000,0,66321.55
+25,Male,24.7,4,No,Northwest,No,No,General,2,10900.0,5000000,3,29276.09
+24,Male,22.9,0,No,Northeast,No,Yes,Hypertension,9,33300.0,5000000,5,45265.99
+20,Male,30.5,3,No,Southwest,No,No,Hypertension,8,30100.0,100000,5,43921.83
+34,Male,31.3,1,No,Northwest,No,No,Respiratory,9,32500.0,2000000,1,39327.43
+50,Male,25.8,3,Yes,Northeast,Yes,No,Heart Disease,15,53200.0,500000,2,69650.35
+65,Male,24.5,3,No,Northwest,No,No,Diabetes,10,34200.0,500000,0,44130.12
+29,Male,23.0,2,No,Northwest,No,No,Hypertension,13,23700.0,300000,3,52432.04
+68,Male,30.3,2,No,Southwest,No,No,Hypertension,4,18500.0,2000000,2,37448.96
+39,Male,23.2,3,No,Southwest,No,Yes,Diabetes,4,30400.0,500000,1,36320.95
+72,Female,41.4,1,No,Northwest,No,Yes,Diabetes,12,41900.0,300000,4,62048.19
+39,Female,25.5,3,No,Northeast,No,No,Hypertension,8,27200.0,100000,0,37761.48
+63,Female,16.0,2,Yes,Southwest,No,No,Hypertension,1,7900.0,2000000,5,31797.29
+47,Female,27.8,1,No,Northwest,No,No,Hypertension,8,32600.0,2000000,2,41652.19
+55,Female,27.6,3,No,Southeast,No,No,Hypertension,7,22500.0,500000,1,30851.68
+55,Male,34.7,4,Yes,Southeast,Yes,No,Heart Disease,12,59700.0,500000,1,73094.22
+62,Male,29.7,4,Yes,Southwest,No,No,Hypertension,7,27100.0,1000000,0,31278.47
+68,Male,23.0,3,No,Northeast,No,No,Diabetes,9,37200.0,100000,0,36827.16
+71,Male,26.3,1,Yes,Southeast,No,Yes,Hypertension,15,55600.0,100000,3,71757.61
+25,Male,30.0,3,No,Southeast,No,No,Diabetes,13,34800.0,5000000,3,51536.23
+44,Male,16.0,3,Yes,Southeast,No,No,General,10,25500.0,300000,5,55486.12
+44,Male,36.0,2,No,Northeast,No,No,General,7,34000.0,300000,5,50766.15
+51,Female,23.0,4,No,Northeast,No,No,Hypertension,15,49400.0,1000000,0,57484.05
+38,Female,36.5,2,No,Southwest,No,Yes,Hypertension,2,22400.0,5000000,0,32207.82
+47,Female,30.4,2,No,Southwest,No,No,Respiratory,1,10600.0,100000,2,29039.86
+50,Female,31.8,3,No,Southeast,Yes,Yes,Diabetes,1,24600.0,300000,3,44939.23
+45,Male,34.9,2,No,Northeast,No,Yes,Diabetes,7,37800.0,100000,1,48823.76
+64,Male,31.4,4,No,Northwest,No,No,General,5,16300.0,100000,3,29060.64
+50,Male,32.0,2,No,Southeast,Yes,No,General,4,20800.0,5000000,3,42083.33
+22,Female,27.0,4,No,Southwest,No,Yes,Heart Disease,5,34200.0,300000,0,38939.7
+65,Male,30.2,2,No,Northeast,No,Yes,General,10,44200.0,500000,0,50873.37
+36,Male,24.5,4,No,Southwest,No,No,Hypertension,10,39500.0,500000,3,47463.66
+21,Male,25.9,2,No,Southwest,No,Yes,Hypertension,6,24900.0,5000000,4,33924.67
+52,Female,39.8,2,Yes,Northeast,No,Yes,Diabetes,12,53200.0,300000,4,74164.89
+66,Male,23.2,1,No,Southeast,Yes,No,Respiratory,15,56600.0,1000000,5,75758.46
+34,Female,28.9,4,No,Northeast,No,No,Diabetes,10,44800.0,2000000,3,52908.44
+61,Female,28.7,4,No,Southeast,No,Yes,General,6,26200.0,5000000,4,47431.0
+45,Female,26.1,4,No,Southwest,Yes,No,Respiratory,1,18000.0,100000,5,34315.03
+47,Female,31.1,0,No,Northeast,Yes,No,Respiratory,2,20000.0,5000000,5,49597.95
+46,Male,31.5,2,No,Northwest,No,No,General,3,22100.0,2000000,3,38888.9
+63,Female,22.4,4,No,Southeast,No,No,General,4,17900.0,5000000,5,40729.77
+70,Female,28.6,0,No,Northwest,No,No,General,6,12700.0,300000,0,35113.33
+23,Male,21.5,1,No,Southeast,No,Yes,General,12,45400.0,100000,0,49200.03
+52,Male,32.7,4,No,Northeast,No,No,Respiratory,12,43400.0,2000000,0,50049.81
+58,Female,29.1,4,Yes,Northwest,No,No,Hypertension,11,44200.0,500000,1,58090.2
+54,Male,28.5,0,No,Northeast,Yes,No,Diabetes,13,57200.0,1000000,0,70016.2
+41,Female,32.0,2,No,Southeast,No,No,Respiratory,9,40100.0,5000000,0,40634.82
+46,Female,26.3,1,No,Southeast,No,No,Diabetes,12,37800.0,5000000,3,57286.47
+66,Female,33.5,4,No,Southeast,No,No,General,2,8000.0,2000000,4,25165.02
+63,Female,22.3,2,No,Southeast,No,No,Respiratory,8,38600.0,1000000,4,53427.86
+70,Male,36.5,1,No,Southwest,No,No,Respiratory,9,33700.0,5000000,0,49625.95
+48,Female,24.7,3,Yes,Southeast,No,No,Respiratory,2,24300.0,500000,0,36945.96
+52,Male,17.8,3,No,Northwest,Yes,No,Diabetes,9,34700.0,2000000,0,50767.99
+50,Male,26.0,1,No,Southeast,No,Yes,Heart Disease,7,49500.0,300000,5,59606.21
+69,Male,25.3,0,No,Northeast,No,No,General,9,31100.0,100000,3,40209.91
+38,Male,26.0,1,No,Southwest,No,No,Hypertension,6,23700.0,500000,3,40901.15
+49,Female,29.4,1,No,Northwest,No,No,Respiratory,2,8100.0,1000000,3,34620.77
+40,Male,34.6,0,No,Southwest,No,No,General,8,20000.0,1000000,4,38187.11
+50,Female,26.8,0,No,Southwest,Yes,No,Heart Disease,10,48000.0,500000,1,60217.73
+20,Male,23.9,2,No,Southwest,Yes,No,Diabetes,15,57200.0,300000,4,64218.24
+35,Male,21.2,2,No,Northeast,No,No,General,9,35800.0,5000000,3,40347.81
+42,Female,25.2,0,No,Southwest,No,Yes,Heart Disease,12,50800.0,300000,2,59024.07
+59,Female,16.7,3,No,Southwest,Yes,Yes,General,8,43000.0,5000000,1,51511.54
+48,Female,23.6,3,No,Southeast,No,No,Hypertension,2,13100.0,5000000,0,23245.99
+71,Male,35.5,1,No,Northeast,No,No,General,15,37200.0,1000000,5,74356.43
+75,Male,23.1,4,No,Northwest,No,No,Respiratory,8,28000.0,5000000,4,44306.53
+20,Female,31.8,1,No,Northwest,Yes,Yes,General,3,21800.0,500000,5,44701.0
+57,Female,20.6,1,No,Northwest,No,Yes,General,3,17800.0,5000000,1,22775.08
+63,Female,38.6,4,No,Northeast,Yes,No,General,9,34200.0,500000,2,56772.85
+41,Female,39.0,0,No,Northwest,Yes,No,Respiratory,13,53300.0,100000,1,60205.66
+67,Male,31.5,3,No,Northeast,No,No,Heart Disease,9,30900.0,1000000,4,51996.87
+49,Female,39.9,1,No,Southeast,Yes,No,Heart Disease,15,58700.0,300000,3,74918.51
+64,Female,30.1,4,No,Southeast,Yes,No,Diabetes,9,30700.0,2000000,0,48484.0
+39,Female,32.6,2,No,Northeast,No,No,Diabetes,4,12100.0,300000,3,25514.5
+40,Female,35.6,1,No,Northwest,No,No,General,12,31200.0,300000,3,46140.72
+19,Male,29.1,3,Yes,Northeast,No,Yes,Hypertension,14,51200.0,2000000,4,67838.73
+44,Female,18.7,0,No,Northeast,No,Yes,General,7,31000.0,1000000,3,41804.13
+59,Male,32.7,1,No,Southwest,No,No,Respiratory,13,38700.0,5000000,3,61140.88
+19,Female,25.2,1,Yes,Northeast,No,No,Heart Disease,8,45500.0,100000,4,54900.57
+43,Female,25.6,4,No,Southwest,No,Yes,Diabetes,15,65700.0,300000,4,69410.08
+34,Male,29.8,2,No,Southeast,Yes,No,General,15,61400.0,5000000,2,70955.45
+57,Female,31.4,2,No,Southwest,No,No,Heart Disease,13,65300.0,300000,3,58820.56
+50,Male,28.9,0,Yes,Northeast,No,No,General,15,56200.0,1000000,1,73238.97
+26,Male,31.8,3,Yes,Southeast,No,No,General,13,48200.0,1000000,0,47360.47
+60,Female,23.8,0,No,Southwest,No,No,General,5,25200.0,500000,5,45378.07
+71,Male,27.7,1,No,Northeast,No,No,Hypertension,13,43400.0,1000000,0,55509.55
+65,Male,33.1,1,No,Southeast,No,No,Heart Disease,15,55700.0,1000000,4,63980.57
+56,Male,38.6,2,No,Southwest,No,No,General,15,57900.0,300000,5,73730.56
+46,Male,40.8,3,No,Northeast,Yes,No,General,1,15500.0,100000,4,35436.33
+59,Male,30.6,4,No,Northeast,Yes,No,Diabetes,15,53600.0,300000,2,68198.57
+72,Male,33.0,3,No,Northwest,No,Yes,Heart Disease,9,56700.0,5000000,3,69056.79
+43,Male,39.9,1,Yes,Northwest,Yes,No,General,6,25100.0,1000000,4,51379.5
+52,Male,24.0,4,No,Southwest,Yes,No,General,3,21600.0,500000,4,37239.76
+67,Female,31.8,3,No,Southwest,No,No,Respiratory,3,21800.0,100000,0,34475.68
+42,Female,32.6,3,No,Southwest,Yes,No,Respiratory,14,54000.0,500000,3,67346.49
+41,Male,36.7,4,No,Northeast,Yes,No,Respiratory,14,58600.0,2000000,2,69483.26
+30,Female,21.2,1,No,Southwest,No,No,Heart Disease,10,53300.0,500000,4,56674.24
+75,Male,22.4,3,Yes,Northeast,No,No,General,1,3500.0,500000,4,25053.11
+24,Male,28.1,4,No,Southwest,No,No,General,13,28200.0,5000000,4,41188.76
+74,Female,30.3,1,No,Northeast,No,No,General,8,27100.0,1000000,0,36637.62
+53,Male,34.7,4,No,Northeast,Yes,No,General,2,15200.0,5000000,4,41212.49
+62,Male,31.1,4,Yes,Northwest,No,No,Respiratory,12,47700.0,1000000,4,62116.89
+37,Male,27.1,3,No,Southeast,Yes,No,Heart Disease,1,31200.0,5000000,0,42904.67
+18,Male,30.5,1,No,Northeast,Yes,No,Heart Disease,7,56200.0,1000000,4,62442.5
+25,Female,29.8,3,No,Southwest,No,No,General,14,44300.0,1000000,3,55918.7
+63,Male,38.5,0,Yes,Northwest,No,No,Respiratory,11,51300.0,1000000,3,64137.49
+33,Male,29.0,0,No,Southwest,No,No,Respiratory,9,33300.0,500000,0,31537.77
+31,Male,25.7,1,No,Southwest,No,No,General,6,18400.0,2000000,3,34509.63
+29,Female,30.7,4,Yes,Northeast,No,No,Respiratory,8,35500.0,1000000,5,50506.09
+68,Male,29.2,3,No,Northeast,No,No,General,8,25700.0,2000000,5,40587.48
+40,Female,18.6,3,No,Southeast,No,No,General,9,32800.0,2000000,5,43081.57
+32,Female,27.9,1,No,Northeast,Yes,No,Hypertension,7,37700.0,300000,2,47738.24
+45,Male,27.4,1,Yes,Northeast,No,Yes,Hypertension,9,34800.0,300000,4,44669.83
+51,Male,24.7,0,No,Southeast,No,Yes,General,15,63600.0,100000,2,66633.46
+19,Female,34.2,2,Yes,Southwest,No,No,General,9,25400.0,5000000,3,48143.46
+49,Male,23.3,1,No,Southeast,Yes,No,Respiratory,12,51100.0,300000,0,58097.88
+40,Female,30.7,2,No,Southeast,No,No,Hypertension,11,30300.0,1000000,5,54738.19
+39,Female,27.1,1,Yes,Southeast,No,No,Heart Disease,1,24200.0,2000000,0,30428.81
+68,Male,28.6,4,No,Northwest,Yes,No,General,6,26900.0,5000000,2,51692.18
+42,Male,30.5,4,No,Southwest,No,No,General,12,31200.0,100000,3,41752.62
+75,Female,20.2,0,No,Northwest,No,Yes,General,8,32200.0,300000,4,52945.44
+39,Female,29.1,0,No,Northwest,No,No,General,10,26000.0,500000,3,40630.78
+75,Female,41.7,2,No,Northeast,Yes,No,General,9,34500.0,5000000,5,67377.91
+75,Female,18.7,1,No,Southeast,No,No,General,15,51500.0,100000,3,60585.23
+39,Male,27.7,3,No,Southeast,No,No,Hypertension,4,22200.0,1000000,0,24539.36
+66,Male,34.7,0,Yes,Northwest,No,Yes,General,13,60200.0,5000000,1,73056.07
+69,Male,29.8,3,No,Northeast,Yes,Yes,Respiratory,2,31700.0,2000000,5,61966.34
+59,Male,32.1,3,Yes,Northeast,No,Yes,General,11,45100.0,1000000,4,66875.81
+23,Male,16.0,1,No,Northeast,No,No,Diabetes,9,31400.0,1000000,5,43045.55
+32,Female,31.6,2,No,Southwest,Yes,No,General,9,32500.0,5000000,5,47735.69
+71,Male,23.4,1,No,Northwest,No,No,Diabetes,12,35500.0,500000,4,57743.07
+60,Male,29.9,0,No,Southwest,Yes,No,General,8,26800.0,500000,5,51289.77
+54,Male,27.8,3,No,Northeast,Yes,No,Respiratory,3,27800.0,5000000,0,42302.65
+50,Male,41.7,1,No,Northeast,Yes,No,Heart Disease,5,45400.0,5000000,3,58738.52
+25,Male,31.3,1,Yes,Northeast,No,No,Diabetes,2,16400.0,5000000,0,36359.04
+70,Female,27.3,1,Yes,Southeast,No,No,General,14,37600.0,2000000,3,56835.63
+61,Female,18.9,0,No,Northwest,Yes,No,Hypertension,3,19700.0,300000,1,31963.26
+61,Female,28.7,2,Yes,Southeast,Yes,No,Heart Disease,1,27100.0,1000000,5,56176.39
+22,Male,32.9,1,No,Southwest,No,No,General,4,8700.0,5000000,1,26267.79
+56,Female,27.5,0,No,Southeast,Yes,No,Hypertension,5,29900.0,300000,2,49278.24
+21,Female,25.0,3,Yes,Northwest,No,No,Heart Disease,12,54900.0,2000000,3,62532.98
+23,Male,24.6,4,No,Southeast,No,No,Heart Disease,2,23200.0,1000000,0,27707.46
+62,Male,31.2,0,No,Northeast,No,No,Heart Disease,15,65500.0,300000,0,60142.91
+49,Male,32.6,4,No,Southwest,Yes,Yes,Respiratory,15,63000.0,1000000,5,81199.09
+69,Female,36.2,1,No,Southwest,No,No,Respiratory,3,20600.0,500000,0,33546.58
+47,Female,22.0,1,No,Northeast,No,No,Diabetes,12,46400.0,5000000,2,53993.01
+64,Male,31.2,0,No,Northeast,Yes,No,Hypertension,6,29100.0,500000,4,46741.17
+52,Male,27.3,4,Yes,Northeast,No,Yes,Heart Disease,6,47800.0,100000,0,50421.95
+72,Female,27.4,1,No,Northwest,No,No,Hypertension,15,56000.0,2000000,5,74670.86
+57,Female,30.4,3,No,Southeast,No,No,Respiratory,7,28200.0,5000000,1,44090.08
+69,Male,30.4,2,No,Southwest,No,No,General,12,32700.0,300000,0,44691.78
+33,Male,31.2,2,No,Southeast,No,No,Diabetes,9,33600.0,1000000,0,44377.11
+30,Female,21.7,1,No,Northeast,Yes,No,General,4,19900.0,100000,0,34628.65
+67,Male,23.5,4,No,Northeast,No,No,General,5,17400.0,2000000,5,31687.25
+59,Female,36.9,1,Yes,Southeast,Yes,Yes,General,11,41600.0,2000000,4,69084.39
+47,Female,26.7,4,Yes,Southwest,No,Yes,Heart Disease,2,31900.0,2000000,0,48339.94
+36,Female,29.8,3,No,Northwest,No,No,General,6,22100.0,300000,4,30832.87
+34,Female,34.3,4,Yes,Southeast,No,No,Heart Disease,4,32500.0,5000000,4,41925.81
+73,Male,30.8,1,No,Northeast,No,No,Hypertension,5,19800.0,500000,2,39213.77
+36,Male,31.3,3,Yes,Northeast,No,Yes,General,7,22900.0,100000,1,47514.55
+45,Female,33.4,0,No,Northwest,No,No,General,6,18200.0,300000,0,28062.4
+75,Female,16.0,2,No,Southeast,No,Yes,Hypertension,8,44400.0,1000000,0,47837.71
+72,Female,25.1,1,No,Northwest,No,No,Heart Disease,6,33600.0,300000,0,33367.0
+43,Female,30.8,1,No,Northwest,No,No,Respiratory,10,43500.0,1000000,4,52961.68
+54,Female,36.3,1,No,Southwest,No,Yes,Respiratory,14,60600.0,1000000,3,64195.17
+43,Male,28.4,3,Yes,Southwest,Yes,No,Respiratory,8,38100.0,2000000,1,52806.1
+70,Male,22.9,0,No,Northeast,No,No,Hypertension,13,35900.0,300000,5,61615.5
+40,Male,23.1,4,No,Southeast,No,No,Respiratory,14,37900.0,500000,0,41102.99
+26,Male,33.3,0,No,Southwest,Yes,No,Heart Disease,14,67000.0,1000000,3,71953.71
+29,Female,26.7,3,No,Northeast,Yes,No,Respiratory,4,23600.0,2000000,3,43815.47
+70,Female,28.0,1,No,Southeast,No,No,General,12,40800.0,500000,3,51436.95
+18,Female,31.7,2,No,Northeast,No,No,Respiratory,7,31400.0,300000,1,38896.52
+75,Female,16.0,1,No,Southwest,No,Yes,Diabetes,3,19300.0,500000,3,40465.88
+75,Female,40.0,4,No,Northeast,No,Yes,Heart Disease,1,27100.0,300000,5,49382.89
+18,Male,23.6,2,No,Southeast,Yes,No,General,13,47500.0,1000000,0,53378.29
+64,Female,29.5,1,No,Southeast,Yes,No,Diabetes,9,45000.0,100000,5,58624.22
+51,Male,17.8,2,No,Northeast,No,No,General,9,20400.0,100000,0,30047.32
+49,Male,25.5,0,No,Southeast,Yes,No,General,6,25800.0,5000000,2,42389.86
+71,Male,35.5,3,No,Northeast,No,No,General,15,32800.0,5000000,4,48642.94
+65,Male,16.5,1,No,Southeast,No,Yes,Heart Disease,2,23800.0,1000000,3,27926.19
+42,Female,34.8,4,No,Northeast,Yes,Yes,General,8,36900.0,500000,5,59509.62
+57,Male,26.4,0,No,Northeast,No,No,General,10,39300.0,300000,4,53611.67
+62,Male,30.9,1,No,Northeast,Yes,No,General,6,33700.0,100000,4,52883.5
+70,Male,31.9,0,No,Northwest,Yes,No,Hypertension,7,39200.0,300000,4,50156.73
+18,Female,30.6,4,No,Southeast,No,No,General,13,29300.0,1000000,4,51548.95
+33,Female,22.8,1,No,Southwest,No,No,General,1,5900.0,500000,4,22724.94
+56,Female,25.8,4,Yes,Northeast,No,No,Diabetes,3,19200.0,300000,0,37767.12
+22,Male,19.2,2,Yes,Northwest,No,Yes,Hypertension,15,46100.0,500000,1,54827.07
+39,Male,31.0,4,No,Southwest,No,No,General,1,8600.0,100000,3,26382.53
+46,Female,38.2,2,No,Northeast,No,Yes,General,10,40300.0,300000,3,57502.75
+72,Male,17.1,1,No,Southwest,Yes,No,General,1,12100.0,2000000,0,32143.35
+20,Female,23.4,2,Yes,Northwest,No,No,Respiratory,12,41600.0,100000,5,61756.89
+29,Female,26.9,1,Yes,Southwest,No,Yes,Diabetes,12,38400.0,500000,0,47366.82
+43,Male,29.0,1,No,Northeast,No,Yes,Hypertension,11,37600.0,1000000,4,53738.99
+33,Male,33.3,3,No,Southwest,Yes,No,General,13,43500.0,2000000,1,54074.55
+68,Male,27.1,1,No,Southwest,No,No,Diabetes,1,12500.0,5000000,3,30081.33
+54,Male,26.1,2,No,Northeast,No,Yes,General,4,18100.0,300000,5,33463.96
+39,Female,34.6,3,No,Northwest,Yes,No,General,13,36700.0,5000000,2,48288.44
+74,Female,32.0,3,No,Northwest,No,No,Diabetes,7,26600.0,100000,0,50230.4
+46,Female,31.2,1,Yes,Southwest,No,No,Diabetes,7,24700.0,300000,2,51055.05
+31,Female,28.7,4,No,Southeast,Yes,Yes,General,12,46300.0,300000,3,68197.61
+45,Female,33.9,4,No,Southwest,No,Yes,Hypertension,13,55100.0,2000000,0,62836.0
+22,Male,24.1,3,Yes,Southeast,Yes,Yes,Respiratory,5,26400.0,2000000,3,52062.6
+64,Female,23.2,1,Yes,Southwest,No,No,Diabetes,12,50900.0,2000000,0,61877.83
+66,Female,32.5,4,No,Northwest,No,No,Hypertension,6,26500.0,2000000,5,54341.1
+47,Female,18.2,1,No,Southwest,Yes,No,Respiratory,2,17500.0,1000000,3,32499.7
+63,Male,28.6,1,No,Southwest,No,Yes,Respiratory,5,27000.0,500000,2,38723.69
+69,Male,26.1,3,No,Southeast,Yes,No,Diabetes,7,34100.0,2000000,1,49189.63
+22,Male,19.6,3,Yes,Northwest,Yes,No,Heart Disease,14,66300.0,100000,5,81587.86
+29,Male,22.4,0,Yes,Southeast,Yes,No,General,9,36400.0,300000,5,55985.21
+33,Female,27.3,4,No,Southwest,Yes,No,Diabetes,6,27700.0,5000000,0,36797.12
+43,Female,34.2,4,No,Northeast,No,Yes,General,12,32600.0,2000000,2,57013.56
+43,Male,24.1,4,No,Southwest,Yes,No,General,14,53400.0,100000,3,62501.12
+65,Male,35.3,2,Yes,Southwest,No,Yes,Diabetes,10,26000.0,1000000,2,58737.95
+38,Female,28.4,1,No,Southeast,No,No,General,4,21200.0,100000,5,41116.27
+56,Female,35.9,3,No,Northeast,Yes,Yes,Hypertension,3,34900.0,5000000,0,55980.78
+53,Male,24.4,4,No,Northeast,No,Yes,Diabetes,9,30400.0,5000000,2,56270.97
+50,Male,27.7,0,No,Southeast,No,No,Hypertension,7,30100.0,100000,3,43657.05
+47,Male,30.2,4,No,Northwest,No,Yes,General,11,37900.0,1000000,4,65274.15
+54,Male,26.9,1,No,Northeast,No,No,General,14,51000.0,5000000,5,66095.56
+40,Female,33.7,1,Yes,Northeast,Yes,Yes,Hypertension,13,43000.0,1000000,1,65898.74
+75,Female,16.0,3,Yes,Southeast,No,Yes,Respiratory,6,23900.0,300000,1,44772.11
+27,Female,42.5,2,No,Northwest,No,Yes,General,7,32100.0,2000000,5,48090.06
+71,Male,33.1,3,No,Northwest,Yes,No,General,15,63200.0,5000000,4,82406.52
+22,Male,27.0,4,No,Southwest,No,No,Respiratory,8,34300.0,100000,0,43267.76
+53,Female,24.7,0,No,Southwest,No,No,General,5,19800.0,500000,2,26003.36
+51,Female,22.8,3,No,Southeast,No,No,Respiratory,3,13800.0,500000,2,39808.29
+69,Female,31.9,2,Yes,Northwest,No,Yes,Diabetes,3,18600.0,300000,4,52537.29
+48,Female,34.0,3,No,Southeast,No,Yes,Diabetes,13,57100.0,500000,4,66490.14
+27,Male,27.0,1,No,Southwest,Yes,Yes,General,2,15400.0,300000,3,37650.54
+75,Female,34.6,4,Yes,Southeast,No,No,General,8,21600.0,2000000,3,47913.69
+36,Female,22.6,4,Yes,Southeast,Yes,Yes,General,1,22100.0,300000,1,41640.78
+75,Female,21.5,4,No,Northeast,Yes,Yes,Respiratory,12,47900.0,1000000,0,62428.3
+49,Female,38.9,4,No,Northeast,No,Yes,Heart Disease,8,52700.0,1000000,0,59446.21
+18,Female,31.5,4,No,Northeast,No,No,Hypertension,3,18500.0,1000000,4,27243.99
+73,Female,36.4,4,No,Southwest,No,No,Heart Disease,9,35500.0,5000000,1,59617.33
+22,Female,22.9,0,No,Southeast,No,No,General,12,43000.0,1000000,1,41042.05
+62,Male,22.5,2,No,Northeast,Yes,No,Hypertension,14,48600.0,1000000,3,67655.72
+21,Male,25.8,4,Yes,Northeast,No,No,Diabetes,12,46600.0,1000000,2,52915.12
+33,Male,23.1,2,No,Northeast,No,Yes,Heart Disease,11,46900.0,1000000,0,50434.91
+41,Male,32.2,4,No,Southwest,No,No,General,2,12400.0,5000000,1,27111.67
+33,Female,23.5,3,No,Southwest,No,No,Hypertension,10,41200.0,1000000,3,49490.1
+72,Male,21.0,4,No,Southeast,No,No,Respiratory,9,40800.0,1000000,3,53467.19
+19,Male,28.9,1,Yes,Southeast,No,Yes,Diabetes,6,29700.0,2000000,3,43685.86
+66,Female,20.3,0,No,Southeast,No,Yes,General,1,15500.0,5000000,2,26987.12
+45,Female,17.2,3,No,Northeast,No,Yes,Diabetes,5,22000.0,1000000,1,36804.95
+49,Male,28.8,3,No,Northwest,No,No,General,10,30600.0,300000,4,43799.72
+44,Male,17.5,1,No,Southwest,Yes,No,Hypertension,9,28400.0,2000000,4,45026.71
+37,Female,32.7,4,No,Northeast,No,Yes,Respiratory,13,57000.0,5000000,3,63430.51
+41,Male,19.6,0,No,Northeast,No,No,Diabetes,6,30700.0,500000,3,37516.59
+29,Female,16.0,3,No,Southeast,No,No,Diabetes,7,33200.0,100000,2,32053.84
+67,Female,26.2,0,No,Southeast,No,No,Hypertension,4,18100.0,5000000,3,28139.02
+52,Female,28.9,3,No,Northeast,Yes,No,General,1,16900.0,2000000,5,42130.78
+50,Female,30.9,4,Yes,Southwest,No,No,General,5,22500.0,1000000,1,41132.01
+50,Male,29.0,3,Yes,Southwest,No,No,Respiratory,2,19700.0,2000000,3,39328.08
+68,Female,21.6,3,No,Northeast,Yes,No,Hypertension,8,40200.0,100000,3,62246.35
+60,Female,32.3,2,No,Northwest,Yes,No,General,4,26000.0,100000,1,37444.02
+54,Male,33.8,4,No,Northwest,No,No,General,1,5600.0,5000000,0,12680.24
+29,Female,20.8,1,No,Southwest,No,No,Hypertension,10,35000.0,1000000,5,51107.88
+20,Male,26.9,1,No,Southeast,Yes,No,Heart Disease,7,50900.0,1000000,5,52150.54
+18,Male,26.4,4,Yes,Northwest,No,No,Respiratory,12,34600.0,300000,4,52351.01
+50,Male,29.3,1,Yes,Northwest,Yes,No,General,11,40300.0,100000,3,62840.91
+57,Female,26.8,4,No,Southeast,Yes,No,Respiratory,2,26100.0,1000000,1,48917.56
+27,Male,27.6,1,No,Northwest,Yes,No,Hypertension,3,27000.0,100000,4,39097.98
+60,Male,31.9,2,Yes,Northeast,No,No,Hypertension,14,49000.0,300000,2,61913.2
+61,Female,21.3,1,No,Northwest,Yes,No,Hypertension,9,35100.0,500000,0,50133.81
+46,Male,32.4,3,No,Southeast,No,Yes,General,15,56500.0,100000,3,70586.0
+30,Male,34.8,4,No,Northeast,Yes,No,Respiratory,13,52800.0,300000,0,59083.71
+29,Male,37.8,0,No,Northwest,No,No,General,9,31800.0,300000,3,44607.19
+48,Male,16.0,0,No,Southwest,No,No,General,2,12200.0,300000,3,21733.43
+63,Male,26.9,4,No,Northeast,No,Yes,Heart Disease,3,37700.0,2000000,3,51272.0
+19,Female,16.2,2,No,Northeast,No,No,Hypertension,11,49200.0,5000000,0,38434.47
+68,Male,16.0,1,No,Southwest,No,No,Respiratory,12,51500.0,1000000,5,75725.17
+67,Male,28.9,2,No,Southwest,Yes,No,Diabetes,9,38600.0,100000,2,58491.79
+52,Female,25.6,0,No,Northwest,No,Yes,Diabetes,1,15400.0,5000000,5,30135.78
+40,Female,29.8,4,No,Northwest,Yes,Yes,Respiratory,2,22700.0,2000000,1,38068.38
+34,Female,30.9,4,No,Southeast,No,No,General,11,36800.0,100000,1,40742.77
+43,Male,35.5,2,Yes,Southeast,No,No,Respiratory,2,17200.0,5000000,5,36451.07
+25,Female,28.3,2,No,Northeast,No,No,General,10,40500.0,2000000,2,47121.49
+46,Male,45.0,1,No,Southwest,No,Yes,Respiratory,14,37900.0,1000000,2,63402.16
+43,Male,29.8,3,Yes,Southwest,Yes,No,General,3,16500.0,300000,3,40793.73
+27,Female,39.1,3,No,Southeast,No,No,Hypertension,10,43300.0,5000000,3,43785.98
+43,Female,16.0,1,No,Northeast,No,Yes,Respiratory,3,20600.0,5000000,1,27582.45
+51,Male,36.1,3,No,Northeast,No,Yes,Diabetes,10,47300.0,100000,3,57491.45
+68,Female,26.9,0,No,Southeast,Yes,Yes,Heart Disease,13,61000.0,300000,3,76177.16
+58,Male,16.3,3,No,Southeast,No,Yes,Heart Disease,2,37500.0,1000000,2,42959.52
+24,Female,30.5,1,Yes,Southeast,No,Yes,Heart Disease,8,48200.0,100000,0,43656.92
+21,Female,26.2,3,No,Northwest,No,No,Respiratory,8,41500.0,500000,5,46273.76
+75,Female,31.5,4,No,Northeast,No,Yes,Diabetes,8,29000.0,500000,4,47311.3
+70,Male,34.1,2,Yes,Northeast,No,Yes,General,2,15500.0,500000,4,46801.44
+67,Female,19.1,0,No,Northeast,Yes,No,General,15,39500.0,1000000,3,58820.44
+62,Male,34.1,4,No,Southeast,No,No,General,13,50500.0,500000,3,53359.25
+28,Male,28.0,4,No,Southeast,No,Yes,General,9,36300.0,5000000,5,48457.2
+46,Male,36.1,1,No,Southeast,No,No,Hypertension,11,39900.0,100000,4,59449.1
+73,Male,26.8,2,No,Southeast,No,Yes,General,7,33700.0,5000000,2,45522.93
+53,Female,25.2,2,No,Southwest,No,No,General,12,43400.0,500000,4,52908.83
+42,Male,28.2,0,No,Southeast,Yes,No,General,5,12800.0,100000,4,36089.66
+38,Male,28.6,1,No,Northwest,Yes,No,Respiratory,7,34600.0,5000000,4,52228.22
+74,Female,24.0,0,No,Southwest,Yes,No,Hypertension,8,37900.0,1000000,3,54252.75
+53,Male,25.0,3,No,Southwest,Yes,No,Diabetes,9,32900.0,300000,3,56484.18
+27,Female,20.6,4,No,Southeast,No,No,Respiratory,2,23300.0,5000000,5,34446.04
+54,Male,25.4,0,No,Northeast,No,No,General,6,22300.0,2000000,4,41451.19
+26,Female,32.1,4,No,Southeast,No,No,Respiratory,9,26000.0,500000,3,42108.09
+41,Male,27.2,1,Yes,Northeast,No,No,Hypertension,13,36300.0,2000000,5,52262.5
+52,Female,34.1,3,No,Southeast,No,No,General,6,14100.0,300000,4,44316.85
+66,Male,26.9,1,No,Southeast,No,Yes,Hypertension,2,16700.0,1000000,2,38647.57
+52,Male,19.4,3,No,Northeast,No,No,Heart Disease,1,22900.0,5000000,3,30751.5
+65,Female,31.6,3,No,Northeast,Yes,No,Diabetes,12,55100.0,1000000,0,63517.94
+53,Female,24.0,4,No,Northeast,Yes,No,Respiratory,3,28600.0,300000,5,50903.37
+35,Female,26.6,1,No,Northeast,Yes,No,General,11,28000.0,2000000,3,48848.12
+66,Female,35.4,1,Yes,Northwest,No,No,General,5,20000.0,5000000,2,41223.76
+56,Male,21.0,0,No,Northeast,No,No,General,7,24100.0,500000,2,38430.2
+49,Male,29.0,1,No,Southeast,No,Yes,General,10,39300.0,100000,3,54555.59
+41,Female,27.8,0,No,Southeast,No,Yes,General,10,35800.0,1000000,1,47525.07
+40,Male,32.2,2,No,Northwest,No,Yes,Respiratory,3,22100.0,300000,5,41687.09
+49,Female,33.1,2,No,Northeast,No,No,General,9,35800.0,5000000,4,52903.05
+54,Female,29.6,2,No,Southeast,No,No,Diabetes,10,37500.0,2000000,4,53151.59
+29,Male,25.8,1,Yes,Northwest,No,No,Hypertension,12,42600.0,500000,2,54610.65
+66,Male,30.8,1,No,Southeast,No,No,Respiratory,4,21500.0,2000000,3,43950.89
+72,Male,36.0,0,No,Northwest,No,Yes,Respiratory,10,35300.0,500000,1,53410.51
+30,Male,27.8,3,No,Northwest,No,No,Heart Disease,2,26400.0,5000000,5,40086.48
+40,Male,26.4,0,No,Southwest,No,No,Respiratory,3,31200.0,100000,0,28537.45
+42,Male,30.3,2,No,Southwest,No,No,Heart Disease,5,33900.0,100000,4,41391.12
+52,Male,28.2,0,No,Northeast,No,Yes,Respiratory,3,22700.0,300000,5,46763.67
+58,Female,20.0,3,No,Southwest,No,Yes,Heart Disease,5,37100.0,300000,5,54707.89
+47,Female,29.4,1,No,Northwest,Yes,No,General,4,15900.0,500000,1,37556.03
+34,Female,19.9,0,No,Southeast,Yes,Yes,Diabetes,13,58700.0,500000,5,72911.51
+66,Female,30.2,2,No,Southeast,No,No,Hypertension,11,48600.0,500000,4,62424.69
+37,Female,23.2,2,Yes,Northeast,No,Yes,Diabetes,10,39600.0,500000,3,55215.12
+65,Male,28.2,1,No,Southwest,No,Yes,General,13,45500.0,5000000,4,62530.73
+42,Female,30.3,0,No,Northeast,No,Yes,Hypertension,3,22500.0,5000000,0,29443.48
+39,Female,42.7,3,Yes,Northwest,No,No,Respiratory,12,53700.0,100000,3,72777.76
+30,Female,32.5,1,No,Southwest,No,No,General,6,22000.0,300000,2,30196.86
+36,Female,36.2,0,No,Northeast,No,No,Heart Disease,8,44000.0,300000,1,49044.94
+66,Female,39.2,4,No,Southeast,No,No,Heart Disease,13,43400.0,1000000,4,62066.12
+53,Female,30.9,2,Yes,Southeast,Yes,Yes,Respiratory,12,55700.0,300000,3,79865.14
+29,Female,29.7,3,No,Northeast,No,No,Respiratory,4,19800.0,300000,5,37515.38
+58,Male,21.6,3,No,Northeast,Yes,No,Heart Disease,9,48900.0,2000000,3,63494.75
+36,Male,27.3,3,No,Northeast,No,Yes,Diabetes,6,28000.0,2000000,4,45093.1
+29,Female,23.7,2,No,Northwest,No,No,General,5,19600.0,1000000,2,25361.24
+26,Male,25.6,0,No,Northwest,Yes,No,Hypertension,3,22800.0,500000,4,40894.63
+24,Male,39.2,1,No,Southeast,Yes,No,Heart Disease,5,38100.0,1000000,2,48019.62
+45,Male,28.7,0,No,Northwest,No,No,Respiratory,5,31500.0,1000000,5,41089.73
+31,Male,22.7,1,No,Northwest,No,No,Heart Disease,14,51500.0,100000,4,53557.17
+48,Female,36.2,3,No,Southwest,No,Yes,General,15,53700.0,5000000,3,63583.27
+69,Male,33.7,0,No,Northwest,No,No,Hypertension,12,36500.0,300000,0,51409.4
+36,Male,34.0,3,Yes,Southwest,Yes,Yes,General,12,44000.0,100000,0,69918.43
+75,Male,16.0,4,No,Northwest,Yes,No,General,4,21100.0,5000000,5,46017.78
+64,Female,39.7,3,No,Southeast,No,No,General,12,44700.0,300000,3,54675.72
+33,Female,24.6,3,No,Northeast,No,No,General,6,24100.0,1000000,0,32466.71
+70,Female,32.7,1,No,Southeast,No,No,Respiratory,3,21800.0,300000,5,46299.23
+22,Female,43.1,4,Yes,Northwest,No,No,General,10,32000.0,500000,2,57643.55
+52,Female,40.9,3,Yes,Northeast,Yes,No,General,1,17000.0,500000,3,48490.52
+29,Female,22.1,3,Yes,Northeast,Yes,No,Respiratory,7,36000.0,1000000,2,52342.21
+42,Female,19.3,4,No,Northeast,No,No,Diabetes,7,33600.0,2000000,3,45556.85
+69,Male,36.6,4,No,Southwest,No,No,General,12,29500.0,500000,2,46141.25
+38,Male,28.9,0,No,Southeast,No,No,General,4,10800.0,1000000,2,28988.27
+53,Male,25.0,1,No,Southwest,No,Yes,General,9,29400.0,100000,0,45182.88
+70,Female,31.7,4,No,Northeast,Yes,Yes,General,12,41300.0,2000000,3,54183.34
+40,Female,27.0,4,Yes,Southeast,No,No,General,2,13100.0,500000,4,34907.05
+33,Female,32.2,2,No,Southeast,No,No,Hypertension,15,51800.0,1000000,0,61901.39
+74,Female,28.4,4,No,Northwest,No,Yes,General,13,41300.0,1000000,2,55886.45
+56,Female,32.3,1,No,Southwest,Yes,No,Diabetes,1,18200.0,100000,2,26204.34
+62,Male,22.6,3,Yes,Southwest,No,Yes,Respiratory,15,44000.0,100000,4,67958.49
+70,Male,36.5,3,No,Northwest,Yes,No,Diabetes,3,21900.0,2000000,4,51182.18
+59,Female,32.2,3,No,Southwest,Yes,Yes,Respiratory,7,36500.0,5000000,2,57328.75
+75,Female,31.9,3,Yes,Northeast,Yes,No,Diabetes,9,28500.0,500000,4,59763.22
+56,Female,21.3,2,No,Northeast,No,Yes,Diabetes,2,18400.0,1000000,1,26683.61
+31,Female,38.2,4,No,Southwest,No,No,Heart Disease,6,39900.0,2000000,0,38023.9
+48,Male,27.9,3,No,Northwest,No,No,General,3,10700.0,2000000,3,29139.47
+75,Female,32.4,0,No,Southeast,No,No,General,5,16700.0,100000,4,37953.62
+22,Female,26.1,3,Yes,Southwest,No,No,Hypertension,12,33100.0,1000000,4,55679.28
+52,Female,29.6,4,No,Southeast,No,Yes,Diabetes,9,35500.0,300000,1,50250.71
+40,Female,29.8,3,No,Northwest,No,No,Heart Disease,3,27300.0,5000000,3,34610.21
+46,Male,16.0,2,No,Southeast,Yes,Yes,Respiratory,1,25500.0,5000000,1,38602.6
+60,Female,31.5,1,No,Northwest,No,No,Diabetes,5,27900.0,100000,3,41746.9
+28,Female,39.8,1,No,Northwest,No,Yes,Hypertension,1,12900.0,1000000,0,17130.47
+35,Male,31.2,4,No,Northeast,Yes,No,Diabetes,8,29100.0,2000000,4,48109.91
+64,Male,22.3,1,No,Northeast,Yes,Yes,Respiratory,7,39400.0,5000000,0,51909.29
+29,Male,31.9,1,No,Northwest,Yes,Yes,Respiratory,15,56500.0,2000000,3,70661.84
+26,Female,34.4,0,No,Southwest,Yes,No,Respiratory,11,56900.0,500000,4,67752.83
+27,Female,31.1,4,No,Northeast,Yes,Yes,General,2,20700.0,300000,1,36575.58
+75,Male,27.6,4,No,Northwest,No,Yes,Heart Disease,14,55100.0,100000,2,70031.09
+61,Male,26.5,1,No,Southeast,No,No,General,11,28400.0,5000000,1,43010.92
+34,Male,26.5,1,Yes,Southeast,No,No,General,9,26700.0,500000,2,42480.47
+55,Male,32.2,1,No,Southwest,No,No,Respiratory,5,26100.0,500000,1,37243.95
+24,Male,19.6,2,No,Southeast,No,Yes,General,7,38900.0,300000,3,44076.09
+63,Male,25.8,3,No,Southeast,No,No,Respiratory,4,17900.0,100000,0,27953.41
+30,Female,37.6,2,No,Northwest,No,No,General,12,34000.0,100000,2,47110.8
+57,Female,37.8,4,No,Southeast,No,No,Heart Disease,13,67100.0,2000000,3,63633.38
+59,Female,19.1,0,No,Southeast,No,No,General,1,11400.0,100000,0,18519.23
+26,Male,21.2,3,Yes,Southeast,Yes,Yes,Diabetes,14,53500.0,500000,0,62708.23
+67,Male,26.4,0,No,Southeast,No,Yes,General,8,35800.0,2000000,4,48648.28
+44,Male,33.4,4,No,Northwest,Yes,No,Hypertension,13,62100.0,100000,4,72578.49
+75,Male,17.0,4,No,Southeast,No,No,General,1,9000.0,300000,4,22978.5
+19,Male,27.7,0,No,Southwest,Yes,No,Hypertension,3,25300.0,500000,2,34333.97
+22,Male,25.2,0,Yes,Northeast,Yes,No,General,6,23800.0,1000000,2,42806.97
+46,Female,36.0,0,No,Southwest,No,No,General,8,32800.0,300000,0,44466.89
+54,Female,17.9,4,No,Northeast,No,No,General,8,32200.0,300000,2,52008.28
+55,Male,28.6,1,No,Southwest,No,No,Diabetes,2,14100.0,100000,0,16299.52
+36,Female,25.6,0,No,Northeast,Yes,No,Heart Disease,9,43900.0,2000000,3,51495.39
+25,Male,36.8,3,No,Northeast,Yes,Yes,Respiratory,4,28400.0,2000000,1,41920.82
+65,Female,31.6,4,No,Northeast,Yes,No,General,4,18000.0,500000,0,37010.21
+62,Male,24.5,2,No,Northeast,No,Yes,Hypertension,15,45100.0,100000,0,58245.42
+18,Male,33.1,2,Yes,Northwest,No,No,Heart Disease,14,67300.0,2000000,3,69212.45
+39,Female,25.7,3,No,Southwest,Yes,No,General,2,18700.0,5000000,4,26266.45
+69,Female,34.0,1,No,Northeast,No,Yes,Diabetes,1,17100.0,1000000,5,44585.72
+34,Male,26.6,0,No,Southwest,No,No,Diabetes,10,43900.0,5000000,4,54349.99
+24,Male,34.3,4,No,Southeast,No,No,General,7,18000.0,100000,4,39563.55
+42,Female,30.6,0,No,Northeast,Yes,No,General,11,42900.0,100000,0,51077.07
+62,Female,45.0,4,No,Southwest,No,No,General,10,38600.0,2000000,0,51250.23
+21,Male,27.7,2,No,Northwest,No,Yes,Hypertension,3,20000.0,300000,2,22257.55
+53,Female,30.3,0,No,Southwest,No,No,General,4,18000.0,100000,2,26597.32
+23,Male,25.1,3,Yes,Northeast,Yes,No,General,11,43200.0,300000,1,61662.16
+48,Male,28.0,1,No,Southeast,No,No,General,9,30500.0,500000,1,40464.11
+36,Male,16.0,3,No,Southwest,No,No,General,6,16600.0,500000,5,42691.77
+61,Male,30.8,1,No,Southeast,No,Yes,General,14,36100.0,2000000,2,50382.82
+71,Female,36.1,0,No,Northwest,Yes,Yes,Respiratory,1,26100.0,500000,0,53382.66
+56,Female,30.4,0,No,Southwest,Yes,No,General,9,32800.0,5000000,3,63861.2
+44,Female,20.1,1,Yes,Southwest,Yes,No,Hypertension,9,30300.0,5000000,2,47460.86
+27,Female,23.2,2,No,Northwest,No,No,Diabetes,5,29300.0,5000000,0,29561.05
+43,Female,16.0,4,Yes,Northwest,Yes,No,Hypertension,8,41300.0,2000000,2,61339.01
+36,Female,33.9,3,No,Northwest,No,Yes,Hypertension,7,27000.0,2000000,4,43039.5
+56,Female,22.0,3,No,Northeast,No,No,General,11,42600.0,5000000,2,49964.77
+20,Male,27.8,3,No,Northeast,No,No,Respiratory,8,36000.0,300000,5,44279.58
+62,Female,27.1,0,No,Southwest,No,Yes,Diabetes,9,40500.0,5000000,4,52589.74
+30,Female,36.9,3,No,Southwest,Yes,No,Respiratory,14,50600.0,300000,0,60877.85
+67,Male,28.5,4,Yes,Southwest,No,No,Diabetes,2,7400.0,500000,4,33783.72
+45,Female,32.9,4,Yes,Southeast,No,No,Respiratory,10,33400.0,300000,2,41915.17
+75,Female,31.3,1,Yes,Northwest,No,Yes,Heart Disease,5,38000.0,100000,4,65193.9
+37,Male,36.2,0,No,Southwest,No,Yes,Respiratory,8,35700.0,1000000,5,60113.05
+45,Female,26.6,4,No,Northwest,No,No,Diabetes,3,23000.0,100000,3,37518.78
+25,Female,39.2,2,No,Northeast,No,No,Diabetes,11,37200.0,100000,4,51756.93
+58,Female,16.1,0,No,Northwest,No,Yes,Heart Disease,15,76300.0,2000000,5,76736.64
+56,Male,33.1,0,No,Southeast,No,No,Respiratory,11,48700.0,1000000,4,57609.61
+18,Female,22.8,4,No,Southeast,No,No,Respiratory,6,17900.0,2000000,1,32735.22
+20,Female,25.0,2,No,Northwest,Yes,Yes,General,6,40100.0,300000,3,54145.64
+30,Male,31.4,1,No,Southeast,No,Yes,Heart Disease,7,44400.0,5000000,0,48995.77
+45,Female,31.4,4,No,Southeast,Yes,No,General,13,59100.0,300000,5,75897.02
+74,Male,31.6,2,No,Northeast,Yes,No,Hypertension,11,51900.0,1000000,4,73944.22
+66,Male,19.7,0,No,Southwest,Yes,No,General,3,19300.0,500000,3,42287.21
+42,Female,36.7,2,No,Southeast,No,No,General,8,32500.0,300000,0,43023.33
+73,Male,22.6,0,No,Southwest,No,Yes,Respiratory,8,33300.0,100000,3,48300.88
+50,Male,23.4,4,No,Northwest,Yes,No,General,9,31200.0,1000000,5,61451.7
+55,Female,31.8,4,No,Northwest,No,Yes,Hypertension,8,25400.0,1000000,1,40261.87
+70,Male,26.3,3,No,Southeast,No,No,Hypertension,3,15100.0,300000,5,33029.58
+23,Male,29.8,3,No,Northwest,No,No,General,6,14600.0,300000,5,31566.96
+75,Female,16.0,3,No,Northeast,No,No,General,9,24000.0,2000000,0,31369.51
+61,Female,29.7,4,No,Southeast,Yes,Yes,Hypertension,1,20000.0,2000000,0,39842.09
+62,Female,29.3,1,No,Southeast,No,No,General,3,10400.0,100000,4,31122.97
+49,Male,24.9,4,No,Southeast,No,No,Heart Disease,2,28600.0,1000000,2,41595.93
+62,Female,16.0,2,No,Northwest,No,No,Respiratory,12,42600.0,500000,5,46366.3
+64,Male,26.7,4,No,Northwest,No,No,General,8,20400.0,500000,0,35755.03
+38,Male,27.8,4,No,Southeast,No,No,General,6,18500.0,1000000,5,36883.07
+33,Male,25.8,0,No,Southwest,No,No,Diabetes,10,30400.0,100000,5,44643.78
+71,Male,17.0,0,No,Northwest,Yes,No,Heart Disease,11,55400.0,2000000,0,56391.97
+38,Male,37.6,0,No,Northwest,No,No,General,11,30300.0,2000000,1,42389.32
+28,Male,24.2,4,No,Southeast,Yes,No,General,8,26700.0,2000000,1,37359.8
+54,Male,26.7,1,No,Southwest,No,No,Hypertension,2,15800.0,500000,5,40714.53
+53,Female,16.0,2,No,Southeast,No,No,Respiratory,11,41200.0,500000,1,50246.8
+52,Female,37.6,2,Yes,Northwest,No,No,Diabetes,6,27400.0,100000,5,54969.43
+36,Male,25.2,1,No,Southeast,No,No,Diabetes,7,28000.0,500000,4,33149.39
+37,Male,28.6,1,No,Southeast,Yes,Yes,Respiratory,8,36400.0,300000,0,52768.38
+74,Female,34.7,2,No,Southeast,Yes,No,Hypertension,9,31500.0,500000,5,62062.22
+35,Male,23.9,3,No,Southwest,No,No,Heart Disease,5,35500.0,2000000,1,37173.57
+64,Female,33.8,0,Yes,Southeast,No,No,Hypertension,11,41700.0,100000,1,54810.03
+58,Female,16.0,0,No,Northwest,Yes,Yes,Respiratory,3,33000.0,1000000,3,43292.62
+66,Female,31.3,2,No,Southeast,No,No,Hypertension,2,16800.0,1000000,3,32059.97
+31,Male,37.4,1,Yes,Southwest,No,No,Respiratory,8,31000.0,100000,1,47017.82
+32,Male,24.5,3,No,Northeast,Yes,No,Hypertension,1,13100.0,300000,4,29842.96
+48,Female,34.7,2,No,Southwest,No,No,Heart Disease,10,57400.0,1000000,2,60663.52
+18,Female,39.0,0,Yes,Southeast,Yes,Yes,General,15,56700.0,2000000,5,89820.31
+70,Female,26.5,4,No,Northeast,No,Yes,General,6,17700.0,1000000,3,36200.41
+71,Female,26.0,1,No,Southeast,Yes,No,Heart Disease,2,31900.0,1000000,5,52514.61
+71,Female,22.6,4,No,Southwest,No,Yes,General,3,16800.0,2000000,3,32175.83
+20,Male,24.9,2,No,Northeast,No,Yes,Hypertension,8,31300.0,500000,0,31062.32
+33,Female,23.1,0,No,Northeast,No,No,General,1,3000.0,300000,0,16764.83
+40,Male,22.6,3,Yes,Southeast,No,No,Heart Disease,6,25500.0,2000000,1,37437.07
+74,Female,35.2,4,No,Southeast,No,No,General,3,14600.0,2000000,0,37043.2
+28,Male,23.3,3,No,Southwest,No,No,Respiratory,6,24300.0,5000000,0,33049.39
+29,Male,29.6,0,Yes,Southeast,No,No,Hypertension,3,17300.0,100000,2,28336.89
+27,Male,28.2,4,No,Northeast,Yes,No,General,11,49000.0,300000,4,57819.69
+49,Male,37.0,3,No,Northwest,No,Yes,Hypertension,11,31800.0,500000,1,51772.74
+33,Male,25.0,3,No,Northwest,No,Yes,General,8,36000.0,5000000,2,40871.92
+25,Male,30.3,4,Yes,Southwest,No,No,General,5,17000.0,2000000,1,27639.7
+55,Female,32.7,0,No,Southeast,No,No,Diabetes,4,25000.0,5000000,4,32174.57
+29,Male,36.9,3,No,Southwest,No,Yes,General,9,31500.0,500000,1,46702.25
+41,Female,24.9,2,No,Northwest,No,Yes,Respiratory,15,56300.0,5000000,5,66048.7
+45,Male,24.3,4,No,Northwest,Yes,Yes,General,5,32400.0,5000000,5,55112.72
+70,Male,21.6,1,Yes,Southeast,No,No,Hypertension,12,28800.0,5000000,5,49667.9
+25,Female,41.4,1,No,Northeast,No,No,Diabetes,14,36900.0,2000000,0,39199.52
+75,Male,36.3,0,No,Southeast,Yes,No,Hypertension,4,31400.0,2000000,4,55092.97
+45,Female,27.7,2,Yes,Northwest,Yes,Yes,Diabetes,8,41600.0,100000,2,59927.69
+53,Female,39.6,3,No,Northeast,No,No,Hypertension,8,43600.0,1000000,2,49016.09
+43,Female,27.4,1,No,Southwest,Yes,Yes,Heart Disease,8,59900.0,300000,3,65922.96
+25,Female,32.3,0,No,Northwest,No,No,Hypertension,4,15100.0,100000,2,24896.0
+75,Male,28.1,2,No,Southwest,Yes,Yes,General,13,47700.0,500000,5,81847.21
+67,Male,30.4,2,No,Northeast,No,No,Hypertension,1,9700.0,5000000,5,33391.44
+45,Female,29.8,0,Yes,Southwest,No,No,General,2,11500.0,2000000,3,31914.47
+45,Male,25.5,0,No,Northwest,Yes,No,General,4,20200.0,5000000,0,29309.31
+54,Male,34.6,3,No,Southeast,No,No,Diabetes,10,35100.0,2000000,2,52078.65
+58,Female,32.3,0,No,Southwest,No,No,Diabetes,2,11000.0,300000,4,25513.65
+53,Male,34.2,3,No,Northwest,No,No,Diabetes,11,36600.0,100000,3,54205.08
+44,Female,29.9,3,No,Northwest,No,No,Heart Disease,10,50800.0,100000,2,58235.43
+71,Female,22.6,4,No,Northeast,No,No,General,14,58400.0,500000,0,65786.92
+34,Male,38.3,2,Yes,Northwest,No,Yes,General,14,38000.0,100000,4,53515.7
+26,Male,26.4,2,No,Southeast,No,No,General,3,11300.0,100000,4,32259.6
+50,Male,30.2,2,No,Southeast,No,No,Hypertension,9,34100.0,1000000,0,43333.14
+70,Female,31.8,4,No,Southwest,No,Yes,Hypertension,15,60400.0,300000,2,68199.58
+37,Female,30.1,3,Yes,Southwest,No,No,General,9,28900.0,5000000,1,33986.56
+30,Male,33.5,3,No,Southwest,No,Yes,Heart Disease,14,50800.0,100000,2,59616.91
+45,Male,34.4,0,No,Southwest,Yes,No,Hypertension,15,57000.0,500000,3,70932.73
+65,Male,26.7,4,No,Southeast,No,No,Diabetes,11,38200.0,5000000,3,46350.33
+46,Male,37.8,0,Yes,Northeast,No,No,Diabetes,9,41500.0,2000000,2,50394.49
+30,Female,26.4,4,No,Southwest,Yes,No,Hypertension,7,33600.0,100000,5,46096.43
+63,Male,30.0,0,No,Northeast,Yes,No,Hypertension,15,57000.0,100000,3,69503.56
+52,Female,25.7,1,No,Northwest,No,No,General,4,19900.0,5000000,1,25163.78
+23,Female,24.0,2,No,Northwest,Yes,No,General,1,14000.0,2000000,5,43146.16
+35,Male,34.3,2,No,Southwest,No,No,General,3,10500.0,1000000,1,27735.59
+68,Male,45.0,3,No,Northwest,Yes,No,Hypertension,15,57700.0,300000,4,73019.94
+22,Male,25.8,1,No,Northeast,No,No,Respiratory,14,48700.0,1000000,3,51224.28
+64,Female,35.3,2,Yes,Northeast,No,No,Diabetes,8,34200.0,500000,5,50454.95
+42,Male,26.0,3,Yes,Northwest,No,No,General,4,12700.0,5000000,2,31278.52
+19,Male,27.9,1,No,Southwest,Yes,No,Heart Disease,10,48600.0,100000,5,69495.24
+27,Female,38.5,2,Yes,Northeast,No,No,Respiratory,10,44700.0,1000000,4,64668.09
+73,Male,21.6,0,No,Northeast,No,No,Respiratory,2,21900.0,300000,1,32309.12
+47,Female,20.0,4,No,Southeast,No,No,Hypertension,14,40200.0,500000,4,53976.18
+67,Male,27.5,1,No,Southwest,Yes,No,Respiratory,8,46000.0,1000000,0,56946.49
+62,Female,32.0,3,No,Southeast,Yes,No,General,7,34100.0,100000,3,53964.17
+22,Male,30.8,1,No,Northwest,No,No,General,11,31900.0,300000,2,44027.28
+72,Male,30.2,3,No,Northwest,No,No,General,10,24700.0,100000,1,42899.17
+73,Female,28.2,1,No,Southeast,No,No,Heart Disease,9,43800.0,100000,4,59202.65
+50,Female,32.7,3,No,Southwest,No,No,General,2,12500.0,500000,2,21318.29
+71,Male,16.0,2,No,Northeast,Yes,No,Diabetes,15,63800.0,300000,3,73923.51
+18,Female,23.5,0,No,Northwest,No,No,Diabetes,5,22900.0,2000000,2,31010.84
+35,Female,27.4,2,Yes,Southwest,No,Yes,General,6,30900.0,100000,3,45669.26
+49,Female,32.2,0,No,Southwest,No,Yes,Respiratory,13,43700.0,300000,3,53321.07
+64,Female,36.9,2,No,Northwest,No,No,General,2,9300.0,100000,3,29860.51
+66,Male,22.7,2,No,Northwest,No,No,Diabetes,15,65800.0,1000000,4,91136.53
+28,Male,36.7,1,No,Southwest,No,No,Heart Disease,2,25200.0,1000000,3,31297.05
+38,Female,25.3,4,Yes,Northeast,No,Yes,General,13,39600.0,300000,2,56953.83
+43,Female,27.2,3,No,Southeast,No,No,Hypertension,15,41800.0,500000,0,56022.23
+42,Female,31.5,3,No,Northwest,No,Yes,Heart Disease,14,73100.0,2000000,2,82769.06
+39,Female,26.8,3,No,Southeast,No,No,Respiratory,14,39400.0,1000000,4,52524.2
+44,Male,34.7,0,No,Southwest,No,No,Respiratory,10,47700.0,500000,3,59626.77
+66,Male,25.6,3,Yes,Southeast,Yes,No,General,14,49600.0,2000000,0,69518.63
+30,Female,25.7,3,No,Northeast,No,No,Hypertension,4,18000.0,1000000,4,30447.53
+50,Female,34.3,1,No,Southwest,No,No,General,15,38800.0,2000000,1,54476.32
+51,Female,23.4,2,No,Northeast,Yes,No,General,8,35500.0,5000000,1,46778.18
+58,Male,29.5,3,No,Southwest,No,No,General,15,43000.0,100000,1,51949.5
+52,Female,18.0,4,No,Northeast,No,Yes,General,14,62100.0,300000,0,70870.79
+18,Male,38.9,3,No,Southwest,No,No,Respiratory,15,46300.0,1000000,2,58823.99
+38,Female,35.2,0,No,Northeast,No,No,General,13,41400.0,1000000,0,40297.9
+65,Male,44.5,0,No,Southwest,No,No,Hypertension,11,28800.0,100000,0,43725.25
+72,Female,36.0,0,Yes,Northeast,No,No,Diabetes,5,27300.0,1000000,0,39672.3
+23,Male,21.2,3,No,Southwest,Yes,No,Diabetes,9,46200.0,1000000,1,50363.09
+45,Female,32.0,1,No,Northeast,Yes,No,Respiratory,4,26500.0,5000000,5,49631.81
+34,Female,22.5,4,No,Northwest,No,No,General,3,13100.0,1000000,2,26855.32
+22,Female,37.5,3,No,Southeast,No,No,Hypertension,10,29600.0,1000000,5,53923.34
+48,Male,21.4,1,No,Southwest,No,No,Diabetes,15,43400.0,1000000,5,64705.33
+22,Female,21.1,1,No,Northeast,No,No,General,8,30700.0,500000,0,27910.46
+55,Male,18.3,3,No,Northwest,No,Yes,Diabetes,1,19300.0,1000000,2,31491.59
+20,Male,25.1,3,No,Southwest,Yes,No,Heart Disease,9,56000.0,100000,5,56232.45
+70,Female,23.9,1,No,Southwest,No,No,General,4,17300.0,5000000,3,29581.91
+40,Female,20.4,1,No,Southwest,Yes,No,General,11,43300.0,1000000,0,41106.86
+54,Female,39.9,1,No,Southeast,Yes,Yes,General,9,35900.0,2000000,0,45801.02
+70,Male,31.2,3,No,Northeast,Yes,No,Heart Disease,8,52400.0,5000000,0,66511.46
+54,Female,30.5,1,Yes,Northeast,No,No,Heart Disease,3,27800.0,5000000,3,47222.19
+27,Male,37.5,0,Yes,Southwest,No,No,Hypertension,3,17300.0,2000000,3,37631.77
+27,Male,29.5,3,No,Southwest,No,No,Diabetes,14,41200.0,100000,1,54824.02
+36,Female,23.5,0,No,Southwest,No,Yes,Respiratory,9,45600.0,500000,4,57812.18
+34,Female,17.8,2,No,Northwest,No,No,Heart Disease,3,27000.0,100000,2,32377.52
+38,Female,23.2,3,No,Southwest,No,Yes,Heart Disease,4,31800.0,500000,4,42048.97
+31,Female,37.0,2,Yes,Southeast,No,No,Heart Disease,9,50400.0,300000,0,62655.42
+26,Female,20.5,1,No,Northeast,No,No,Hypertension,12,38500.0,2000000,5,56763.74
+63,Female,30.1,1,No,Southeast,Yes,Yes,Diabetes,4,26300.0,5000000,0,41780.42
+18,Male,34.2,4,No,Southwest,No,No,Respiratory,11,55700.0,5000000,5,65813.38
+68,Male,29.7,1,No,Northwest,No,No,Respiratory,3,18400.0,5000000,1,19041.79
+62,Male,30.4,2,No,Southwest,No,No,General,14,40200.0,2000000,4,61686.05
+30,Female,31.9,1,No,Southwest,Yes,No,General,7,23000.0,2000000,0,34388.45
+21,Male,30.3,3,No,Southwest,No,No,Respiratory,6,22500.0,500000,4,49330.19
+18,Male,37.7,1,No,Southwest,No,Yes,General,1,12200.0,5000000,1,29383.8
+66,Male,21.8,4,No,Southwest,No,Yes,Respiratory,14,58200.0,100000,4,62301.92
+57,Male,29.4,1,No,Northeast,Yes,No,Diabetes,10,53400.0,500000,5,65026.15
+49,Male,17.1,2,No,Southeast,Yes,No,General,8,33400.0,5000000,2,47100.61
+51,Female,16.0,2,No,Northwest,No,No,General,1,8900.0,2000000,1,19604.03
+45,Female,27.5,1,No,Southwest,No,No,General,4,17400.0,2000000,4,33175.77
+48,Male,31.3,2,Yes,Northwest,No,No,General,6,21300.0,2000000,0,40640.29
+25,Male,37.8,2,Yes,Northeast,No,No,Diabetes,6,18200.0,5000000,3,36255.5
+56,Male,42.5,4,Yes,Southeast,No,No,Heart Disease,7,41300.0,2000000,3,57984.51
+43,Female,35.9,3,No,Southwest,Yes,No,Respiratory,14,61700.0,300000,1,76499.32
+75,Female,32.4,4,No,Northeast,Yes,No,Diabetes,11,48000.0,2000000,3,73246.99
+51,Male,29.0,0,No,Northeast,No,No,Diabetes,12,52000.0,5000000,2,61614.82
+71,Female,18.8,4,Yes,Southeast,No,Yes,Diabetes,14,63400.0,500000,1,71375.23
+71,Female,27.1,1,Yes,Southwest,No,No,Hypertension,5,23900.0,2000000,0,35460.04
+20,Male,35.7,3,Yes,Southeast,Yes,No,Diabetes,5,26500.0,1000000,0,41640.18
+67,Female,33.4,1,No,Southeast,Yes,No,General,4,21800.0,300000,1,39920.03
+29,Female,20.3,0,Yes,Northwest,No,No,General,6,21700.0,5000000,3,36710.02
+18,Male,31.7,3,No,Northwest,No,No,General,7,27500.0,2000000,3,40744.33
+71,Female,31.2,2,No,Southeast,No,No,General,10,30600.0,1000000,0,44789.0
+61,Female,30.1,4,No,Northwest,No,Yes,Heart Disease,15,72700.0,5000000,2,79283.08
+22,Male,27.8,1,No,Northeast,Yes,No,General,10,39700.0,500000,5,53728.65
+47,Female,32.0,0,No,Southeast,No,No,Respiratory,1,12300.0,300000,3,22194.78
+47,Female,32.2,2,No,Southwest,Yes,No,Respiratory,9,41800.0,2000000,2,58576.89
+74,Male,24.2,4,No,Southwest,No,Yes,Respiratory,15,44000.0,500000,3,64134.11
+34,Male,30.7,2,No,Northeast,Yes,Yes,Respiratory,14,52200.0,5000000,5,74080.65
+65,Male,26.9,4,Yes,Southwest,No,Yes,General,8,29300.0,1000000,1,51122.25
+64,Female,19.1,3,No,Southwest,Yes,No,Diabetes,7,36400.0,5000000,4,44942.34
+40,Male,24.6,2,No,Southeast,No,Yes,General,9,22900.0,5000000,0,43869.8
+32,Female,18.6,2,No,Northeast,No,No,Heart Disease,3,25600.0,300000,1,27550.04
+54,Male,33.9,2,Yes,Southeast,No,No,Respiratory,10,34900.0,2000000,3,60684.75
+38,Female,30.1,3,No,Northeast,No,Yes,Respiratory,4,26100.0,500000,5,46018.95
+31,Male,25.9,0,No,Southeast,No,Yes,Diabetes,7,37300.0,300000,0,36218.43
+19,Male,36.5,4,No,Southeast,No,No,Heart Disease,6,35400.0,1000000,4,42760.63
+28,Male,28.4,2,No,Northwest,Yes,No,General,14,49500.0,2000000,4,61095.95
+68,Male,19.4,3,No,Southwest,No,No,General,13,44900.0,300000,5,57754.76
+56,Female,25.4,0,Yes,Northeast,Yes,No,Heart Disease,2,41600.0,1000000,5,50634.9
+55,Male,37.8,4,No,Southwest,Yes,No,Diabetes,2,19600.0,1000000,3,37565.92
+51,Male,24.0,3,No,Northwest,No,Yes,Respiratory,10,28300.0,500000,0,46533.22
+55,Female,29.7,4,Yes,Northeast,No,No,General,7,21600.0,5000000,3,48739.9
+67,Male,32.5,2,Yes,Northwest,No,Yes,Respiratory,9,39800.0,1000000,4,59361.84
+51,Female,31.5,0,No,Southwest,No,Yes,Diabetes,11,40500.0,1000000,1,43212.09
+35,Male,42.7,3,Yes,Southeast,No,No,Respiratory,15,62800.0,5000000,1,73240.13
+47,Male,20.9,0,No,Northwest,Yes,Yes,Heart Disease,12,60500.0,100000,2,64347.68
+32,Male,21.5,2,No,Northwest,No,No,Respiratory,9,35600.0,1000000,4,41911.88
+44,Female,21.0,0,No,Southeast,No,No,General,7,25600.0,2000000,4,37867.25
+68,Male,26.2,0,No,Southwest,No,No,Respiratory,11,33900.0,300000,3,48251.89
+51,Male,34.6,1,No,Northwest,Yes,No,General,8,41300.0,5000000,2,50659.11
+69,Male,21.8,0,No,Southwest,No,Yes,General,10,25100.0,5000000,5,46361.71
+74,Female,34.7,4,No,Southeast,No,Yes,Diabetes,3,20200.0,5000000,2,37552.27
+55,Female,28.2,3,No,Northeast,No,No,Respiratory,1,13500.0,2000000,0,20963.06
+50,Male,21.3,1,No,Northwest,No,Yes,Diabetes,7,31800.0,5000000,3,42319.11
+41,Female,17.5,3,No,Southwest,Yes,No,Respiratory,8,47800.0,2000000,5,58859.22
+32,Male,18.8,3,No,Southeast,Yes,Yes,Heart Disease,2,32800.0,500000,5,50829.11
+47,Male,24.0,2,No,Southeast,No,No,General,15,53800.0,100000,1,59170.74
+72,Male,27.0,2,No,Northwest,No,No,Respiratory,9,43300.0,5000000,0,46800.23
+59,Male,36.1,1,No,Northeast,No,No,General,4,14000.0,100000,2,29902.88
+68,Male,32.8,2,No,Northwest,No,No,Respiratory,10,44000.0,5000000,1,58938.57
+34,Male,23.0,2,No,Southwest,No,No,General,11,41500.0,2000000,4,55784.85
+22,Male,30.5,2,No,Southeast,No,Yes,Diabetes,9,38900.0,300000,3,52066.98
+46,Female,37.9,3,Yes,Northeast,No,No,Diabetes,13,52800.0,100000,2,57136.01
+21,Female,39.2,1,No,Southwest,Yes,Yes,General,3,18400.0,100000,4,41427.73
+27,Female,26.1,3,No,Northwest,No,No,Diabetes,8,35300.0,2000000,5,44438.37
+73,Female,33.7,4,No,Southeast,Yes,No,General,11,48300.0,100000,2,59986.7
+34,Female,36.3,3,Yes,Northwest,No,No,General,2,12400.0,500000,1,27465.4
+27,Female,19.0,4,No,Northeast,No,No,General,15,59000.0,2000000,0,61221.84
+34,Female,24.9,0,No,Northeast,Yes,No,Diabetes,14,57700.0,100000,1,67069.25
+37,Male,41.3,0,No,Northeast,No,No,Heart Disease,3,23600.0,100000,3,33791.19
+41,Male,26.2,4,No,Northeast,No,No,Hypertension,1,8400.0,100000,3,25086.79
+22,Male,16.0,4,No,Northeast,No,No,Respiratory,5,30600.0,2000000,2,33077.98
+51,Male,27.3,3,No,Northwest,No,Yes,Hypertension,4,24800.0,300000,1,35793.7
+23,Female,34.7,4,No,Northeast,Yes,No,Hypertension,13,43000.0,1000000,0,58495.0
+70,Female,28.0,1,No,Northeast,Yes,No,Hypertension,1,15300.0,5000000,5,40070.8
+19,Male,32.3,0,No,Southeast,No,No,Diabetes,10,36100.0,100000,3,37316.66
+30,Male,33.6,0,No,Northeast,No,Yes,Hypertension,9,45700.0,1000000,0,49257.1
+60,Female,25.9,4,No,Southeast,No,Yes,General,6,21700.0,1000000,4,51470.66
+60,Male,24.9,2,No,Southeast,No,No,Respiratory,6,31100.0,100000,2,38462.01
+65,Male,28.9,2,Yes,Southeast,No,No,Heart Disease,14,54100.0,100000,0,71150.44
+28,Male,29.1,4,Yes,Northwest,No,No,General,11,41300.0,5000000,2,55991.59
+68,Male,28.3,1,No,Northwest,No,No,Heart Disease,2,22900.0,1000000,4,44117.17
+64,Female,28.6,2,No,Southwest,No,No,General,15,50500.0,300000,0,61242.49
+74,Male,23.5,4,No,Southwest,No,Yes,General,14,53500.0,1000000,0,62835.08
+40,Male,32.5,1,No,Southeast,No,No,General,7,18100.0,300000,5,35995.4
+72,Female,31.6,1,No,Northwest,No,No,Heart Disease,12,53000.0,500000,4,66243.53
+33,Female,20.0,3,Yes,Northeast,Yes,Yes,Heart Disease,12,59000.0,300000,1,71334.32
+48,Male,25.7,1,No,Southwest,Yes,No,Heart Disease,15,59500.0,5000000,0,70458.02
+28,Female,28.6,2,No,Northwest,No,No,General,9,27400.0,2000000,5,33748.45
+71,Male,24.8,2,No,Northeast,No,No,Diabetes,6,24600.0,100000,0,29054.58
+33,Male,31.8,4,No,Northeast,Yes,No,Heart Disease,11,44500.0,500000,5,64647.36
+25,Female,27.6,4,No,Northwest,Yes,Yes,General,8,35200.0,1000000,3,53825.29
+21,Male,29.0,1,No,Southwest,Yes,No,Hypertension,12,49800.0,300000,1,52427.48
+57,Male,25.6,0,No,Northwest,No,No,General,5,20000.0,500000,0,31055.75
+21,Male,16.0,3,Yes,Southwest,Yes,No,General,2,11200.0,2000000,4,37162.6
+73,Male,16.0,0,No,Southeast,No,Yes,Diabetes,13,37500.0,300000,2,52563.81
+42,Female,31.5,1,Yes,Northwest,Yes,No,Hypertension,15,57100.0,5000000,4,82348.0
+20,Female,29.6,1,Yes,Northwest,Yes,No,General,4,25900.0,1000000,1,47497.0
+49,Male,30.6,0,No,Southwest,No,Yes,General,12,36700.0,1000000,3,53821.03
+20,Female,28.8,3,No,Southwest,Yes,No,General,1,12100.0,300000,3,33372.93
+44,Male,29.3,0,No,Northwest,No,No,General,1,6500.0,2000000,3,15295.37
+46,Male,33.8,4,Yes,Northeast,Yes,No,General,6,17300.0,100000,5,54249.17
+49,Male,30.7,2,No,Northeast,No,No,Diabetes,15,69700.0,100000,4,80612.94
+67,Male,34.2,4,No,Northeast,Yes,No,Hypertension,2,20000.0,1000000,2,35676.69
+75,Male,29.0,2,No,Southeast,No,No,Diabetes,6,35200.0,2000000,2,48930.25
+68,Female,26.2,1,No,Southeast,Yes,No,Heart Disease,1,23700.0,1000000,5,36855.03
+36,Male,29.2,3,Yes,Southwest,No,No,Heart Disease,11,62000.0,100000,0,59210.52
+38,Female,23.0,0,No,Southeast,No,No,General,10,34700.0,1000000,5,45943.56
+22,Female,25.7,3,No,Northeast,No,No,General,3,16700.0,300000,2,19664.61
+35,Male,29.1,0,No,Northwest,Yes,No,Respiratory,14,60000.0,5000000,2,66192.04
+45,Male,29.0,4,Yes,Southeast,No,Yes,General,9,40000.0,300000,0,50752.17
+59,Male,27.4,4,No,Southeast,No,No,General,2,10400.0,5000000,4,33407.5
+39,Male,19.7,0,No,Northeast,No,Yes,General,8,21800.0,2000000,4,33303.46
+38,Male,31.8,3,No,Southeast,Yes,No,Hypertension,6,28100.0,100000,1,45044.04
+23,Female,33.0,0,No,Southwest,No,No,Hypertension,12,32500.0,2000000,4,43773.74
+18,Male,37.9,1,No,Northwest,No,No,Respiratory,6,28900.0,2000000,3,33398.7
+22,Male,30.7,4,No,Northeast,No,Yes,Respiratory,7,32000.0,100000,3,44107.24
+58,Female,28.0,1,No,Southwest,No,Yes,Diabetes,5,22900.0,500000,1,40507.34
+29,Female,21.9,4,No,Northeast,No,No,Diabetes,12,35000.0,500000,2,43168.06
+43,Male,37.0,4,No,Southwest,No,Yes,General,11,46700.0,1000000,1,58417.58
+63,Female,29.5,2,No,Northwest,Yes,No,General,4,24800.0,500000,0,40065.08
+51,Male,29.2,1,No,Northwest,Yes,No,General,6,25600.0,300000,1,55111.99
+66,Female,26.5,1,Yes,Southwest,No,Yes,General,8,40500.0,5000000,1,52908.36
+31,Female,26.1,2,Yes,Southwest,No,Yes,General,4,25800.0,2000000,5,45158.79
+43,Male,32.1,3,No,Southwest,No,Yes,General,5,25900.0,1000000,3,46618.65
+62,Female,21.9,1,No,Southwest,No,No,General,7,15000.0,2000000,0,28549.3
+44,Female,37.8,0,No,Southwest,Yes,No,Respiratory,6,32700.0,100000,5,54223.44
+26,Female,36.4,2,No,Southwest,No,No,Hypertension,13,35500.0,500000,0,36442.09
+43,Female,25.9,1,No,Northwest,No,No,Respiratory,4,23500.0,100000,1,31073.38
+74,Female,22.8,3,No,Southwest,No,Yes,Diabetes,13,51200.0,1000000,5,65596.06
+64,Female,16.0,1,No,Southeast,Yes,No,Diabetes,4,24700.0,5000000,5,43312.22
+74,Male,20.5,4,Yes,Northwest,No,No,General,10,44400.0,300000,0,55544.42
+39,Male,32.4,0,No,Northeast,No,No,General,4,16100.0,500000,0,25219.91
+64,Female,29.9,2,No,Northwest,No,No,General,1,3900.0,100000,4,29981.73
+73,Male,31.0,4,No,Northeast,Yes,No,Respiratory,5,26900.0,5000000,0,47952.93
+47,Male,16.9,3,No,Northeast,Yes,No,Respiratory,8,41200.0,500000,5,56419.6
+60,Male,25.6,4,No,Southeast,No,Yes,General,7,29000.0,2000000,2,45905.66
+65,Female,36.2,4,No,Southwest,No,No,General,5,21900.0,300000,0,25609.48
+34,Male,27.4,3,No,Southwest,Yes,Yes,Diabetes,3,26200.0,5000000,3,45362.61
+43,Female,20.4,4,No,Northwest,No,No,General,15,50500.0,500000,4,65945.56
+53,Male,27.3,2,Yes,Southwest,No,No,Diabetes,15,41700.0,300000,3,57090.12
+18,Female,23.4,1,No,Southeast,No,No,General,11,28900.0,5000000,3,43816.79
+25,Female,30.0,4,No,Northwest,No,Yes,Diabetes,1,17100.0,2000000,2,27546.12
+66,Male,28.1,2,No,Northwest,No,No,General,13,46400.0,2000000,4,58002.91
+52,Male,31.3,1,No,Northwest,Yes,No,Diabetes,7,34900.0,100000,1,54302.85
+69,Female,20.7,1,No,Southwest,No,No,General,13,52200.0,1000000,5,64117.98
+32,Male,25.3,4,No,Southwest,No,No,Diabetes,15,37300.0,100000,5,59584.67
+64,Male,34.5,2,Yes,Southwest,Yes,Yes,Respiratory,11,54600.0,300000,0,61858.22
+73,Male,19.9,4,Yes,Northwest,No,Yes,General,3,14900.0,100000,5,40892.73
+39,Female,22.0,3,No,Northwest,No,No,Respiratory,4,24500.0,5000000,2,36692.19
+31,Female,29.2,1,Yes,Northeast,No,No,Respiratory,14,60500.0,500000,5,72385.84
+43,Male,29.7,4,No,Northeast,Yes,Yes,Respiratory,5,37300.0,5000000,2,51318.6
+45,Male,25.1,1,No,Southwest,Yes,No,Heart Disease,13,62900.0,100000,1,70205.9
+40,Male,26.3,2,No,Northwest,Yes,No,Hypertension,15,61900.0,1000000,2,65887.9
+31,Female,31.2,0,Yes,Southwest,Yes,No,Respiratory,12,47100.0,5000000,1,66443.58
+41,Female,33.1,4,No,Southwest,No,No,General,8,24100.0,5000000,1,36076.39
+19,Male,21.6,4,No,Northeast,No,No,Diabetes,13,40600.0,5000000,1,42602.17
+62,Male,30.2,1,No,Southeast,Yes,Yes,Respiratory,7,46200.0,1000000,2,56785.71
+43,Male,37.1,2,No,Southwest,No,No,Heart Disease,9,48000.0,5000000,1,52096.03
+31,Male,27.3,3,No,Southeast,No,No,Respiratory,11,45800.0,300000,2,49579.85
+73,Male,21.5,2,Yes,Southeast,No,Yes,Heart Disease,3,28900.0,2000000,4,52617.72
+68,Male,21.2,4,No,Northwest,No,No,Respiratory,14,41800.0,1000000,1,53682.34
+24,Female,27.0,3,No,Northwest,Yes,No,Heart Disease,11,62500.0,300000,2,64188.08
+20,Male,34.2,2,No,Southwest,No,No,Heart Disease,10,42300.0,1000000,2,50336.27
+64,Female,27.8,0,No,Northeast,No,No,Diabetes,1,13800.0,1000000,2,25266.06
+40,Male,29.1,1,No,Northeast,Yes,Yes,Respiratory,1,25300.0,2000000,0,39039.0
+63,Male,22.0,2,No,Southwest,No,Yes,Respiratory,12,41100.0,500000,0,53218.77
+60,Female,33.9,2,No,Southwest,No,No,Respiratory,10,40400.0,300000,1,51430.59
+64,Female,21.1,0,No,Northeast,No,No,Hypertension,13,45000.0,1000000,5,58067.23
+62,Female,25.0,4,No,Southeast,Yes,No,General,14,51900.0,1000000,4,66851.76
+35,Female,31.8,1,No,Southwest,Yes,Yes,General,1,16900.0,100000,5,44108.18
+75,Male,16.0,2,No,Southeast,Yes,No,Respiratory,2,20800.0,5000000,1,39008.24
+55,Female,29.0,3,No,Southwest,Yes,No,Hypertension,2,13400.0,500000,3,31154.06
+52,Male,21.8,2,Yes,Southwest,No,No,General,7,21500.0,2000000,3,39441.28
+68,Female,28.1,1,No,Southeast,Yes,No,General,9,29200.0,300000,4,58956.7
+32,Male,25.9,2,No,Southeast,Yes,No,Respiratory,8,38600.0,1000000,4,57885.03
+42,Male,40.6,0,No,Northeast,No,No,Respiratory,15,40600.0,5000000,4,53237.9
+72,Male,25.6,2,No,Southwest,No,Yes,Heart Disease,4,41400.0,300000,0,46996.5
+54,Male,39.1,2,Yes,Northwest,Yes,No,Hypertension,2,13700.0,2000000,0,38188.52
+45,Male,31.5,3,No,Northwest,Yes,Yes,Diabetes,3,29500.0,500000,3,52291.36
+27,Male,23.2,0,No,Southwest,Yes,No,General,10,22400.0,100000,4,44508.05
+56,Female,30.0,0,No,Southwest,Yes,No,General,5,25800.0,500000,2,44587.37
+74,Male,26.2,2,No,Southwest,No,Yes,Respiratory,9,39600.0,100000,5,63492.05
+34,Female,29.5,3,No,Southeast,No,No,General,8,29800.0,300000,3,46725.62
+56,Female,23.7,2,No,Northwest,No,Yes,Hypertension,13,45400.0,500000,4,60492.54
+39,Male,38.1,2,No,Northwest,No,Yes,Diabetes,12,37800.0,500000,2,53508.01
+43,Female,33.6,1,No,Northwest,Yes,No,Diabetes,14,48900.0,500000,4,63216.76
+61,Male,28.2,1,No,Southwest,No,No,Respiratory,3,13300.0,2000000,1,26456.92
+42,Female,38.4,3,Yes,Southeast,No,No,General,9,38700.0,300000,2,51153.64
+34,Male,28.4,4,No,Southwest,No,No,Heart Disease,10,54400.0,100000,5,61288.21
+30,Female,34.6,1,No,Northeast,No,No,General,3,17100.0,500000,1,26158.89
+37,Male,28.2,4,No,Northeast,No,No,General,10,27800.0,300000,0,41366.13
+42,Male,30.4,0,No,Northwest,No,No,Diabetes,12,46200.0,5000000,3,56568.95
+21,Male,27.5,1,No,Southwest,No,No,General,14,47700.0,2000000,4,50595.28
+27,Male,28.6,1,No,Northeast,No,No,Heart Disease,8,46500.0,2000000,3,53014.77
+20,Female,29.0,3,No,Northeast,Yes,Yes,Diabetes,1,22500.0,5000000,5,39850.48
+58,Male,24.0,4,No,Southwest,No,No,General,4,9900.0,300000,4,26522.69
+62,Female,25.6,1,No,Southeast,No,No,General,4,9700.0,100000,1,20492.82
+35,Female,26.7,1,Yes,Southwest,No,No,Hypertension,6,23600.0,300000,2,39350.0
+64,Female,29.4,3,No,Southwest,No,Yes,Heart Disease,12,56700.0,300000,2,71006.14
+53,Male,27.8,3,No,Southeast,No,Yes,Diabetes,12,34400.0,1000000,4,54260.35
+64,Female,35.0,4,No,Northwest,Yes,No,Hypertension,2,21200.0,2000000,1,43107.7
+39,Female,33.1,0,No,Northwest,Yes,Yes,Heart Disease,7,43600.0,100000,4,60628.53
+51,Female,26.8,0,No,Northwest,No,No,Hypertension,5,29300.0,1000000,4,31808.75
+64,Male,36.3,2,Yes,Southeast,No,Yes,General,10,29100.0,5000000,4,59873.67
+25,Male,39.2,1,No,Northeast,Yes,No,Hypertension,6,28200.0,300000,2,40726.21
+57,Female,16.0,4,No,Southeast,Yes,No,Hypertension,11,40700.0,5000000,5,57007.58
+66,Male,33.6,1,No,Southwest,No,No,Heart Disease,14,50000.0,2000000,4,68023.51
+61,Male,23.8,4,No,Southeast,No,No,Hypertension,6,28700.0,1000000,2,41141.37
+36,Female,32.8,4,No,Northeast,No,Yes,Respiratory,14,59300.0,1000000,0,62661.29
+59,Female,35.4,4,No,Northeast,No,No,General,14,62000.0,100000,1,66288.74
+58,Male,22.7,1,No,Southwest,No,Yes,Respiratory,12,57200.0,300000,0,55969.09
+54,Female,16.9,3,No,Northwest,No,No,Hypertension,14,54600.0,100000,4,71116.82
+23,Male,33.0,1,No,Northeast,No,No,Hypertension,11,35300.0,1000000,2,45491.59
+69,Male,28.8,4,No,Northeast,No,No,General,6,16700.0,1000000,1,34462.88
+43,Male,18.0,2,No,Northeast,Yes,No,Diabetes,10,44800.0,100000,3,56123.29
+51,Male,43.2,0,No,Southwest,Yes,Yes,Heart Disease,12,59300.0,1000000,1,63961.58
+73,Male,31.7,4,No,Northeast,No,No,Heart Disease,8,51300.0,500000,1,53670.45
+62,Male,32.0,2,No,Northwest,Yes,No,General,10,34100.0,2000000,4,51348.02
+23,Female,36.2,3,No,Southwest,No,No,Hypertension,4,21600.0,300000,0,22617.54
+54,Female,24.5,4,No,Northwest,Yes,No,General,10,41100.0,2000000,0,44957.97
+74,Male,28.8,2,No,Northeast,No,Yes,Respiratory,8,43300.0,300000,3,54445.56
+50,Male,20.1,4,No,Northeast,No,No,Respiratory,9,36400.0,1000000,4,49555.18
+70,Male,24.4,1,No,Northwest,No,Yes,General,13,42400.0,100000,1,49062.13
+39,Female,30.3,2,No,Southwest,No,No,Respiratory,13,45800.0,100000,5,62998.3
+38,Male,18.0,1,No,Southwest,Yes,No,Respiratory,4,29400.0,1000000,0,37883.57
+23,Female,24.2,1,Yes,Northwest,No,Yes,Diabetes,1,12400.0,300000,0,24518.31
+23,Male,22.4,2,No,Northeast,No,No,Heart Disease,3,32200.0,1000000,2,44856.42
+72,Male,28.9,0,No,Southeast,No,No,Diabetes,1,12800.0,300000,1,25374.31
+65,Female,31.4,2,No,Northwest,No,No,Hypertension,7,19600.0,1000000,4,44773.95
+21,Female,32.5,0,No,Northwest,No,No,General,12,42900.0,1000000,0,46207.6
+47,Male,34.0,4,No,Northwest,No,Yes,General,1,14900.0,1000000,4,41429.32
+28,Male,36.2,4,No,Northeast,Yes,No,Diabetes,11,53600.0,100000,1,65711.63
+47,Male,31.6,2,No,Southwest,Yes,Yes,General,4,23900.0,300000,1,40222.99
+48,Female,39.3,4,No,Northeast,Yes,No,Respiratory,13,60100.0,5000000,0,66427.44
+41,Female,28.7,3,No,Northwest,No,No,General,14,52600.0,1000000,3,54529.63
+72,Female,27.0,1,No,Northeast,Yes,No,Diabetes,1,18000.0,2000000,4,40746.8
+26,Female,31.6,1,No,Northeast,No,No,Respiratory,13,43200.0,2000000,4,57888.88
+72,Female,26.7,0,No,Northwest,No,Yes,Diabetes,13,51300.0,100000,2,62557.58
+20,Female,39.1,4,No,Northeast,No,No,Hypertension,2,13100.0,500000,1,30695.73
+68,Male,34.8,0,No,Southeast,Yes,No,Respiratory,11,35000.0,5000000,1,54652.0
+48,Male,32.5,1,No,Northeast,Yes,Yes,Respiratory,15,75900.0,100000,0,84443.35
+57,Female,28.8,1,No,Northeast,Yes,Yes,General,14,55100.0,500000,0,65544.86
+54,Male,25.6,4,No,Southwest,Yes,No,Diabetes,1,21800.0,100000,0,28535.08
+53,Male,32.2,3,No,Southwest,Yes,Yes,Respiratory,13,41200.0,2000000,2,59978.54
+41,Female,21.2,3,Yes,Northwest,Yes,No,Diabetes,5,26100.0,1000000,3,46771.11
+48,Male,37.2,4,Yes,Northwest,No,No,Diabetes,7,33400.0,300000,0,42528.04
+23,Female,26.9,4,No,Southwest,No,No,General,3,14000.0,1000000,0,14454.2
+19,Female,29.8,0,No,Southeast,No,No,General,14,48100.0,2000000,5,49188.49
+37,Male,22.5,4,No,Northeast,No,No,Heart Disease,8,48100.0,300000,0,51732.58
+45,Female,32.3,3,No,Southeast,No,No,Heart Disease,14,60100.0,500000,2,66878.0
+28,Female,25.3,4,No,Southeast,No,No,Respiratory,15,45600.0,500000,4,59459.46
+21,Female,31.9,0,No,Southwest,No,Yes,Heart Disease,5,37200.0,2000000,3,46004.61
+32,Female,32.5,0,Yes,Northwest,Yes,Yes,General,5,33700.0,300000,4,52961.54
+23,Female,24.1,0,No,Northeast,Yes,Yes,General,13,52200.0,1000000,5,71082.5
+71,Female,21.3,0,No,Northwest,No,No,Respiratory,5,25900.0,2000000,1,28197.25
+66,Female,37.2,2,No,Southeast,No,No,General,8,26100.0,500000,1,31792.58
+47,Female,26.8,4,Yes,Southeast,No,No,General,2,8600.0,2000000,0,24486.58
+73,Male,29.3,1,No,Northwest,No,No,Respiratory,2,16000.0,1000000,5,37692.64
+55,Male,30.9,4,No,Northwest,Yes,No,Hypertension,15,39800.0,100000,4,60423.49
+68,Male,20.5,2,No,Southwest,No,No,General,14,36800.0,5000000,2,44320.02
+74,Female,30.8,0,No,Northwest,No,No,Respiratory,12,37400.0,5000000,3,56976.99
+19,Female,28.6,2,No,Northwest,Yes,No,Respiratory,8,34100.0,5000000,4,48056.57
+32,Male,24.1,3,Yes,Southwest,Yes,No,General,9,32700.0,100000,5,59936.4
+28,Male,21.1,3,No,Northwest,No,No,Respiratory,11,42600.0,1000000,5,59538.67
+25,Male,31.6,4,No,Southeast,Yes,No,Diabetes,12,30500.0,300000,4,46021.87
+43,Female,34.8,4,No,Northwest,No,No,Diabetes,10,39500.0,2000000,3,52783.93
+68,Male,29.1,1,No,Northeast,No,No,Respiratory,10,49700.0,1000000,4,61531.17
+62,Male,19.4,1,No,Southeast,No,No,Respiratory,2,16900.0,100000,4,36051.92
+61,Female,21.7,3,Yes,Southwest,No,No,General,4,19300.0,500000,3,36490.64
+22,Male,25.4,0,No,Southeast,No,No,General,8,31500.0,5000000,2,38088.24
+23,Female,37.4,2,No,Southwest,No,Yes,General,2,14900.0,5000000,5,37988.51
+43,Female,26.5,1,No,Northeast,No,Yes,Hypertension,4,20600.0,1000000,3,38329.88
+71,Female,25.2,1,No,Northeast,Yes,No,General,10,30200.0,5000000,0,54031.26
+21,Male,18.0,0,No,Southeast,No,No,Diabetes,13,40600.0,5000000,0,38756.96
+36,Male,24.1,0,No,Northwest,No,No,General,13,52500.0,1000000,0,52664.61
+37,Female,20.6,4,No,Southeast,Yes,No,Diabetes,1,18100.0,1000000,0,28389.73
+50,Male,22.0,2,No,Southeast,No,No,General,2,16100.0,100000,1,24685.68
+37,Male,28.7,0,Yes,Northeast,Yes,No,Respiratory,7,34200.0,100000,2,54087.62
+66,Male,25.6,1,No,Southwest,No,No,General,1,5100.0,5000000,1,21403.4
+29,Male,38.2,1,No,Southeast,No,Yes,General,12,32600.0,1000000,4,47339.22
+64,Female,34.5,3,No,Northwest,No,Yes,Respiratory,1,23800.0,1000000,4,46542.18
+18,Male,24.3,0,No,Northeast,No,No,Heart Disease,2,26300.0,5000000,3,34480.17
+43,Female,22.5,4,No,Southeast,No,No,General,4,20300.0,300000,0,34511.11
+31,Female,36.3,2,No,Southeast,No,No,General,7,28400.0,500000,3,44046.04
+55,Male,38.0,4,Yes,Northwest,No,No,Heart Disease,4,34200.0,2000000,4,51614.15
+54,Female,16.0,1,No,Southeast,No,Yes,Diabetes,5,32700.0,2000000,0,37143.6
+28,Male,28.6,4,No,Southeast,No,No,Heart Disease,4,34600.0,5000000,5,49824.1
+53,Male,26.5,1,Yes,Southeast,No,No,Diabetes,4,17700.0,2000000,2,32338.0
+30,Female,31.9,1,No,Southeast,No,Yes,General,9,33000.0,100000,4,44570.01
+60,Female,39.7,1,No,Northwest,No,Yes,Diabetes,15,50200.0,100000,5,71672.69
+20,Female,25.1,1,No,Southeast,No,Yes,Heart Disease,6,38300.0,300000,3,39034.62
+50,Female,16.0,1,Yes,Southeast,No,No,Respiratory,12,37300.0,5000000,5,58739.17
+23,Male,31.5,3,No,Southeast,Yes,No,General,3,21300.0,100000,3,39408.58
+67,Male,36.3,4,No,Northeast,No,No,Diabetes,6,28700.0,5000000,4,46125.23
+73,Male,26.2,3,No,Northwest,Yes,No,General,13,43800.0,5000000,1,66452.19
+27,Female,23.8,3,Yes,Northeast,No,Yes,Diabetes,7,46400.0,1000000,2,59444.88
+22,Female,25.4,0,No,Northeast,No,No,Respiratory,7,36900.0,500000,5,42430.05
+40,Female,33.1,0,No,Northwest,No,Yes,Diabetes,8,25100.0,500000,5,49588.93
+27,Male,25.3,0,No,Northeast,Yes,No,Respiratory,13,55300.0,5000000,4,70164.44
+61,Female,30.0,2,Yes,Northeast,No,Yes,Hypertension,4,26100.0,500000,4,49197.46
+19,Male,28.2,0,Yes,Northeast,No,No,Respiratory,1,6900.0,500000,3,23132.85
+30,Female,27.5,4,Yes,Northwest,No,Yes,Heart Disease,6,42000.0,2000000,0,44585.46
+57,Male,32.2,3,No,Southeast,No,No,General,8,32600.0,2000000,0,38803.98
+19,Male,25.1,4,No,Southwest,No,No,General,5,22800.0,1000000,0,22848.71
+37,Female,25.4,0,No,Southwest,No,Yes,Diabetes,13,44500.0,300000,3,60568.1
+18,Female,32.8,2,Yes,Northwest,No,No,General,3,12900.0,100000,0,24410.87
+54,Male,22.1,2,No,Southwest,No,No,Diabetes,4,22500.0,100000,4,39555.43
+26,Male,22.7,3,No,Northwest,No,Yes,Diabetes,8,42200.0,2000000,1,52012.36
+34,Female,20.4,4,No,Northwest,Yes,No,Respiratory,6,33800.0,5000000,1,44521.81
+26,Female,33.1,1,No,Southwest,Yes,No,Diabetes,13,57000.0,500000,1,67949.84
+28,Male,27.4,4,No,Northeast,No,No,Heart Disease,15,56400.0,1000000,0,56259.48
+32,Female,20.1,0,No,Southeast,No,Yes,Respiratory,13,58800.0,300000,1,61162.05
+41,Male,33.1,1,No,Southwest,Yes,No,Respiratory,5,28700.0,2000000,5,50062.33
+55,Male,24.7,2,No,Southwest,No,No,General,13,46900.0,5000000,0,48584.18
+72,Female,22.8,3,No,Southwest,No,No,Diabetes,9,40400.0,1000000,5,54596.98
+52,Female,26.8,3,No,Southwest,Yes,No,General,10,26900.0,5000000,4,57477.35
+47,Female,36.9,2,No,Northwest,No,No,Diabetes,3,16300.0,1000000,5,34970.08
+48,Female,25.6,0,No,Northwest,No,No,Diabetes,7,30700.0,2000000,4,36146.13
+66,Female,31.5,2,No,Southeast,Yes,No,Respiratory,9,34400.0,1000000,3,53776.94
+22,Male,32.4,0,No,Southeast,No,No,Diabetes,11,33200.0,500000,3,41518.82
+61,Male,30.7,1,No,Southwest,Yes,No,Diabetes,13,47900.0,1000000,5,70667.65
+67,Female,35.6,2,No,Southwest,Yes,No,Respiratory,11,37600.0,300000,2,60719.57
+31,Female,23.8,0,No,Southwest,Yes,No,General,12,33900.0,1000000,4,54260.58
+70,Female,21.7,1,No,Southeast,No,No,Diabetes,4,20700.0,100000,0,28673.36
+73,Male,21.6,2,Yes,Southwest,No,No,Heart Disease,10,45400.0,1000000,2,59309.33
+28,Female,27.1,3,No,Northeast,No,No,General,10,30500.0,5000000,4,43344.28
+26,Female,22.3,2,No,Southeast,No,No,Hypertension,3,19200.0,2000000,0,17333.26
+51,Male,28.9,4,No,Northeast,No,No,General,1,9700.0,100000,4,28152.54
+29,Male,28.5,2,No,Southwest,No,No,Respiratory,9,46000.0,2000000,4,64899.98
+52,Female,34.1,4,No,Northwest,No,No,General,13,38700.0,5000000,0,44631.37
+52,Female,29.7,1,No,Northeast,No,No,General,1,5600.0,300000,4,17269.2
+18,Female,25.5,2,No,Southeast,No,No,Hypertension,2,12800.0,500000,4,32647.75
+57,Male,30.5,1,No,Northeast,Yes,Yes,General,9,42800.0,300000,4,64538.94
+39,Female,21.8,1,Yes,Southeast,Yes,No,General,5,18000.0,100000,3,42594.73
+46,Female,27.8,0,No,Southwest,Yes,No,Diabetes,4,30000.0,5000000,1,39185.4
+25,Female,29.9,1,No,Northeast,No,No,Diabetes,9,28400.0,5000000,4,43545.14
+28,Male,28.8,1,No,Northwest,Yes,No,Diabetes,9,38100.0,500000,0,46556.95
+58,Male,30.5,2,No,Northeast,Yes,No,Hypertension,2,18400.0,1000000,5,48218.45
+54,Female,24.1,2,Yes,Northwest,No,No,Hypertension,3,18900.0,100000,4,43189.28
+31,Female,34.9,3,No,Southeast,No,Yes,Hypertension,12,56100.0,500000,3,66567.08
+47,Male,38.9,0,Yes,Southwest,No,No,General,3,9700.0,2000000,3,30004.76
+52,Male,18.4,1,No,Southwest,No,No,General,5,22100.0,500000,5,39087.32
+38,Male,20.7,0,No,Northwest,No,No,Heart Disease,13,54200.0,2000000,4,57851.64
+54,Male,28.3,4,No,Southeast,No,No,Respiratory,3,24700.0,2000000,2,41512.1
+22,Male,26.5,1,No,Southwest,Yes,No,General,10,35700.0,5000000,5,50177.58
+36,Male,39.4,0,No,Southeast,No,No,Diabetes,6,36200.0,500000,1,40791.7
+31,Male,29.3,3,No,Northwest,No,No,Diabetes,2,18000.0,5000000,0,19728.58
+43,Male,36.4,3,No,Northwest,Yes,No,Hypertension,6,26600.0,5000000,0,38800.39
+21,Male,16.0,1,No,Northeast,No,Yes,Hypertension,6,35600.0,300000,0,34187.57
+42,Female,32.9,4,No,Southwest,Yes,No,General,2,7300.0,300000,0,25489.76
+62,Female,23.7,3,No,Southwest,No,Yes,Heart Disease,6,44900.0,5000000,3,50827.67
+59,Female,23.6,3,No,Northeast,Yes,No,General,6,31800.0,5000000,1,50538.33
+42,Male,26.5,4,No,Northwest,No,No,Diabetes,6,20400.0,2000000,4,37063.21
+35,Female,19.5,0,No,Northwest,No,Yes,Respiratory,12,41900.0,5000000,4,52478.71
+57,Male,30.7,3,No,Northwest,No,No,Diabetes,13,40500.0,100000,2,57329.59
+25,Male,29.1,2,Yes,Northwest,Yes,Yes,General,14,53000.0,500000,4,83118.8
+56,Female,29.6,3,Yes,Southeast,Yes,No,Respiratory,5,33300.0,100000,1,49018.94
+57,Male,33.3,0,No,Southwest,No,No,Respiratory,7,24800.0,300000,4,41995.81
+31,Female,37.1,0,Yes,Southwest,Yes,No,Heart Disease,13,51800.0,100000,3,66290.68
+49,Female,25.8,1,No,Northwest,No,No,Diabetes,15,63900.0,1000000,5,74373.13
+68,Female,30.9,2,No,Northwest,No,Yes,General,12,52100.0,1000000,4,70876.17
+55,Male,29.8,0,No,Northwest,Yes,Yes,Respiratory,5,33400.0,300000,0,46250.3
+50,Female,30.3,4,No,Southwest,No,No,Hypertension,11,30900.0,100000,0,40526.35
+40,Male,30.4,2,No,Southwest,No,No,Respiratory,1,19200.0,500000,5,36959.82
+32,Female,37.5,2,No,Northwest,Yes,No,General,12,40800.0,300000,0,55858.52
+50,Female,25.2,4,No,Southeast,Yes,No,General,9,27400.0,1000000,0,50099.19
+42,Female,18.8,3,No,Northeast,Yes,No,Respiratory,3,24000.0,300000,3,36777.6
+34,Male,23.8,4,No,Northeast,Yes,No,Diabetes,2,21100.0,100000,3,40779.51
+50,Male,32.5,4,Yes,Northeast,No,No,General,10,23200.0,100000,3,47886.02
+64,Male,28.1,3,No,Southwest,Yes,No,General,6,14400.0,100000,4,34503.74
+72,Female,25.2,3,No,Southwest,No,Yes,Diabetes,8,34900.0,2000000,5,62345.92
+19,Female,21.5,3,No,Northeast,Yes,Yes,General,2,18300.0,100000,0,31403.66
+31,Male,29.3,3,No,Northeast,No,Yes,Diabetes,4,25900.0,5000000,2,40094.62
+70,Male,31.9,3,No,Southeast,No,Yes,Diabetes,2,19900.0,1000000,5,47070.43
+57,Male,29.8,4,No,Southwest,No,No,Heart Disease,12,51100.0,1000000,2,62416.25
+57,Male,26.5,1,No,Southwest,No,No,Diabetes,12,43700.0,2000000,0,45318.53
+68,Male,28.9,1,No,Northeast,No,No,Respiratory,9,34300.0,1000000,1,48638.05
+56,Male,28.8,0,No,Southeast,Yes,Yes,General,10,51300.0,1000000,5,71353.84
+68,Female,29.1,1,No,Southeast,Yes,Yes,Hypertension,13,50000.0,300000,4,63883.72
+23,Male,20.9,1,No,Northeast,No,No,General,15,47400.0,100000,2,60039.17
+23,Female,29.2,4,No,Northeast,Yes,Yes,Heart Disease,2,35100.0,5000000,5,49948.04
+20,Female,25.4,3,Yes,Southwest,No,No,Respiratory,10,41400.0,5000000,5,60897.05
+24,Male,34.2,3,No,Northeast,No,No,Heart Disease,2,24300.0,300000,3,32764.0
+68,Male,28.8,4,Yes,Northwest,No,No,Hypertension,14,60300.0,5000000,1,67159.55
+25,Female,33.0,1,No,Southeast,Yes,No,Diabetes,13,42000.0,300000,3,57509.85
+59,Male,26.2,4,Yes,Northeast,Yes,No,Respiratory,5,32500.0,5000000,1,60043.76
+69,Male,26.4,0,No,Northwest,No,No,Respiratory,12,42700.0,1000000,1,61300.25
+32,Female,37.0,3,No,Southeast,No,No,Respiratory,5,23200.0,500000,4,36729.6
+64,Female,30.6,2,Yes,Northwest,No,No,Diabetes,12,48100.0,100000,5,73131.04
+46,Female,23.7,0,No,Northwest,No,No,Respiratory,7,32800.0,500000,3,42756.15
+50,Male,33.4,0,No,Northeast,No,No,General,1,8600.0,1000000,3,34624.42
+69,Female,24.8,4,No,Southeast,No,No,General,12,41500.0,2000000,2,59056.92
+47,Male,29.4,1,No,Northwest,No,No,General,2,4400.0,300000,5,28257.75
+56,Female,39.0,3,Yes,Southwest,Yes,No,General,11,29300.0,5000000,0,53671.22
+44,Female,19.4,2,No,Southeast,No,Yes,Heart Disease,11,51600.0,5000000,0,57114.75
+53,Female,26.9,0,No,Southwest,No,No,Respiratory,6,28600.0,1000000,2,41232.78
+46,Male,30.4,2,No,Northeast,No,No,Heart Disease,2,22900.0,5000000,1,26550.14
+55,Male,32.6,1,No,Southwest,Yes,Yes,Hypertension,4,29300.0,1000000,2,48318.16
+74,Female,20.6,1,No,Southeast,Yes,Yes,Diabetes,10,36700.0,500000,2,54165.43
+50,Female,18.8,2,No,Northwest,Yes,Yes,Heart Disease,6,46900.0,2000000,3,56420.38
+54,Female,34.5,3,No,Northwest,No,No,Diabetes,13,51800.0,300000,2,65420.48
+44,Male,23.7,1,No,Southeast,Yes,No,Respiratory,12,59200.0,5000000,1,64597.87
+72,Female,23.4,2,Yes,Northwest,No,No,Hypertension,7,32300.0,2000000,0,42821.66
+50,Male,37.3,0,No,Southwest,No,No,Hypertension,10,37200.0,2000000,4,46670.59
+21,Female,28.4,2,No,Northwest,No,Yes,Hypertension,5,25300.0,2000000,5,38004.79
+39,Female,28.5,2,No,Northwest,No,No,Respiratory,8,40700.0,100000,2,46552.51
+19,Female,26.9,4,No,Southwest,Yes,No,General,6,28100.0,2000000,5,53963.37
+27,Female,20.7,1,No,Southwest,Yes,No,Diabetes,5,26000.0,1000000,2,33370.16
+22,Female,32.1,3,Yes,Southwest,No,No,Heart Disease,4,32300.0,100000,5,49284.44
+27,Female,30.5,3,No,Northeast,No,No,Diabetes,6,29800.0,100000,3,41677.04
+50,Male,29.0,4,Yes,Southwest,No,No,Respiratory,6,28000.0,2000000,3,51946.88
+71,Female,27.3,3,No,Southwest,No,Yes,General,6,22100.0,5000000,5,47100.95
+55,Male,26.2,2,No,Northeast,No,Yes,Diabetes,1,14300.0,5000000,2,32091.9
+30,Female,33.5,4,No,Northwest,Yes,No,Respiratory,6,32700.0,5000000,2,51959.44
+48,Female,27.2,0,No,Southwest,Yes,No,Diabetes,1,14800.0,5000000,1,26374.21
+64,Male,27.6,1,No,Southeast,No,No,Diabetes,5,14000.0,1000000,0,31633.42
+53,Female,31.2,1,Yes,Southwest,Yes,No,General,7,21300.0,5000000,0,36568.14
+62,Male,29.2,1,No,Southwest,No,Yes,General,1,4900.0,300000,4,29629.87
+41,Male,37.9,2,Yes,Northeast,No,No,Hypertension,13,37400.0,2000000,0,50893.93
+69,Female,17.4,0,No,Southeast,No,No,General,1,3300.0,100000,4,20577.55
+73,Male,29.8,4,No,Northwest,No,No,Respiratory,13,35600.0,300000,3,59704.77
+32,Male,23.8,4,No,Northwest,Yes,No,Heart Disease,13,60800.0,5000000,4,75617.3
+46,Female,22.3,1,No,Southeast,No,No,General,15,48400.0,300000,4,64514.62
+25,Male,25.3,0,Yes,Southwest,No,No,Hypertension,6,18500.0,100000,0,32087.83
+22,Female,28.3,0,No,Northeast,No,No,Hypertension,15,32700.0,5000000,2,40022.39
+46,Female,28.6,0,No,Southeast,Yes,No,General,7,23500.0,300000,3,41812.61
+64,Female,18.9,3,No,Southeast,No,No,General,6,23000.0,1000000,1,39008.46
+21,Female,24.8,3,No,Northwest,Yes,Yes,Diabetes,5,29200.0,1000000,4,51636.1
+29,Male,29.7,1,No,Northeast,Yes,No,Hypertension,6,30700.0,2000000,4,52296.13
+62,Female,22.7,0,No,Southeast,No,No,Hypertension,13,39900.0,2000000,5,58334.41
+19,Female,21.3,0,No,Northeast,No,No,Hypertension,14,40400.0,300000,4,50065.33
+44,Male,16.0,4,No,Southwest,Yes,No,Heart Disease,3,29500.0,100000,2,32365.36
+48,Female,24.0,4,No,Northwest,No,Yes,Heart Disease,9,41600.0,1000000,1,54766.91
+68,Female,21.1,1,No,Southwest,Yes,Yes,Hypertension,15,67500.0,500000,5,82736.85
+68,Male,22.1,0,No,Northeast,No,No,Heart Disease,5,32100.0,2000000,0,32276.0
+53,Male,26.4,1,No,Southwest,No,No,General,2,13500.0,1000000,3,32019.28
+53,Male,24.4,4,No,Northwest,Yes,No,Respiratory,14,50500.0,5000000,2,71139.99
+43,Male,21.0,4,No,Northeast,Yes,No,Hypertension,14,41200.0,300000,1,59552.72
+60,Male,16.0,3,No,Southeast,Yes,No,Respiratory,12,40100.0,1000000,3,61047.15
+44,Male,29.8,1,No,Southwest,No,Yes,Hypertension,10,39400.0,1000000,0,51614.32
+22,Male,32.5,1,No,Northwest,Yes,No,General,10,34400.0,300000,3,37872.16
+37,Female,25.6,0,No,Southeast,Yes,No,Hypertension,7,32400.0,2000000,5,58163.23
+28,Male,26.4,0,No,Northwest,Yes,No,Diabetes,3,20700.0,2000000,4,34209.18
+27,Male,28.0,3,No,Northeast,No,No,Hypertension,1,17500.0,500000,4,26637.03
+57,Male,37.5,2,No,Northeast,No,No,Diabetes,3,15300.0,500000,2,29760.04
+55,Female,18.6,2,No,Southwest,Yes,No,Respiratory,9,36600.0,2000000,3,51297.56
+23,Female,25.5,2,No,Northwest,No,No,Hypertension,5,18700.0,2000000,4,39536.83
+25,Male,17.7,1,No,Northwest,No,No,Hypertension,7,19800.0,2000000,2,32523.25
+40,Male,30.2,1,No,Northwest,No,No,General,3,13000.0,2000000,2,23482.73
+64,Male,27.1,4,No,Northeast,No,Yes,Respiratory,4,22000.0,1000000,5,42410.81
+43,Female,29.2,1,No,Southwest,No,No,Respiratory,1,14600.0,500000,2,37645.66
+63,Female,28.9,1,No,Northwest,No,No,Heart Disease,3,23700.0,300000,0,34060.66
+60,Male,33.9,1,No,Northwest,Yes,No,General,7,31000.0,100000,4,50258.79
+29,Female,31.2,3,No,Southeast,No,No,Hypertension,4,13600.0,300000,4,23877.6
+43,Male,33.0,1,No,Northwest,No,No,General,15,57100.0,5000000,1,53114.38
+30,Female,21.6,0,No,Southwest,No,No,Hypertension,2,12200.0,100000,0,13722.01
+57,Female,35.2,0,No,Southeast,No,Yes,General,14,49900.0,1000000,4,66352.27
+35,Male,23.7,4,No,Southeast,No,Yes,Hypertension,5,20600.0,5000000,5,45438.36
+42,Male,24.0,3,Yes,Southeast,Yes,No,Hypertension,15,53900.0,500000,4,76277.34
+50,Male,29.6,0,No,Northeast,No,No,Diabetes,5,28600.0,100000,1,41516.27
+64,Male,29.8,3,No,Southeast,Yes,No,Diabetes,15,55200.0,2000000,3,74274.99
+57,Female,21.6,3,No,Northwest,No,No,Respiratory,2,12200.0,5000000,3,23296.7
+60,Female,27.0,4,Yes,Northeast,No,No,General,15,40200.0,1000000,0,57981.85
+29,Female,36.9,3,No,Northeast,No,No,Heart Disease,15,57100.0,100000,2,65406.3
+61,Male,19.2,1,No,Northeast,No,No,General,11,38300.0,2000000,1,45850.56
+53,Female,36.9,3,No,Northeast,Yes,Yes,General,6,22000.0,5000000,1,42975.11
+65,Male,26.5,4,No,Northeast,Yes,No,General,10,30900.0,1000000,4,54497.8
+21,Female,16.0,4,Yes,Northeast,No,Yes,Heart Disease,4,39300.0,5000000,5,45181.12
+22,Male,19.8,4,No,Northeast,No,No,Diabetes,14,36400.0,100000,4,44304.26
+73,Male,22.2,0,No,Southeast,No,No,Respiratory,1,16800.0,2000000,5,46458.94
+54,Female,24.3,1,Yes,Southwest,No,No,Diabetes,3,15400.0,500000,1,25917.38
+25,Male,27.4,0,No,Northwest,Yes,No,General,14,50600.0,1000000,2,52012.24
+59,Male,16.0,2,No,Northwest,No,No,Heart Disease,9,47800.0,100000,3,50833.5
+66,Female,29.1,1,No,Southeast,Yes,No,General,10,35000.0,2000000,0,51824.08
+45,Male,21.7,3,No,Southeast,No,No,Heart Disease,7,35600.0,500000,5,51386.33
+48,Male,36.3,4,No,Northeast,No,Yes,General,13,35100.0,5000000,3,50991.21
+75,Male,26.4,2,No,Southwest,No,No,General,6,20300.0,2000000,0,33951.62
+26,Female,33.7,1,No,Northeast,No,No,Heart Disease,14,71200.0,500000,2,66070.27
+71,Female,34.7,0,No,Southeast,Yes,No,Respiratory,1,17000.0,100000,1,36297.32
+68,Male,34.5,4,Yes,Northeast,No,No,Diabetes,9,26400.0,2000000,2,48045.34
+46,Female,24.6,0,No,Northwest,Yes,No,Respiratory,13,44800.0,2000000,5,60789.81
+31,Male,24.5,1,Yes,Northwest,No,No,General,9,37600.0,300000,1,43138.91
+57,Male,26.7,1,No,Northeast,Yes,No,Heart Disease,1,22200.0,1000000,4,31534.91
+58,Male,31.8,2,No,Southwest,No,Yes,Hypertension,14,47200.0,2000000,0,56697.1
+39,Male,24.9,3,Yes,Northeast,Yes,No,General,13,33800.0,500000,4,59858.04
+28,Male,27.3,0,No,Northeast,Yes,No,General,13,39500.0,1000000,1,45160.76
+40,Female,29.6,2,No,Southwest,Yes,No,General,15,51500.0,100000,0,59137.83
+18,Male,22.6,4,No,Southwest,No,Yes,Diabetes,6,28700.0,1000000,0,33539.34
+63,Female,22.2,3,No,Southwest,Yes,Yes,General,7,36100.0,300000,4,48620.36
+54,Female,27.1,2,No,Northwest,No,No,Hypertension,2,9300.0,100000,0,18251.1
+38,Male,27.8,0,Yes,Northeast,No,No,Respiratory,10,30000.0,2000000,1,40875.43
+43,Male,30.6,1,No,Southeast,No,No,General,8,13200.0,5000000,5,37786.82
+63,Female,32.0,4,No,Southwest,No,Yes,Hypertension,8,29000.0,100000,5,58223.51
+53,Female,21.4,0,No,Southwest,Yes,No,Hypertension,6,32500.0,100000,1,43749.46
+71,Female,23.1,3,No,Northeast,No,No,Respiratory,9,30800.0,300000,4,54311.14
+40,Male,22.2,3,No,Southeast,No,Yes,Diabetes,3,21900.0,500000,2,33064.87
+74,Female,36.5,1,No,Northeast,No,No,Hypertension,2,13600.0,100000,1,31300.59
+18,Male,27.3,1,No,Northeast,No,Yes,Diabetes,2,23300.0,500000,5,37214.59
+71,Male,28.1,4,No,Southwest,No,No,General,6,21200.0,1000000,1,47189.48
+72,Male,28.3,4,Yes,Southwest,No,No,General,7,15300.0,5000000,0,36163.42
+68,Female,23.7,1,No,Northwest,No,No,Diabetes,6,33500.0,300000,0,42997.15
+57,Male,37.4,1,No,Southeast,No,No,General,11,44600.0,2000000,1,53564.26
+32,Male,30.5,3,No,Southeast,Yes,No,Hypertension,3,21000.0,100000,4,45145.26
+38,Male,28.2,1,No,Southwest,Yes,No,General,5,27600.0,5000000,2,44110.66
+64,Male,21.4,2,No,Southwest,Yes,No,Hypertension,8,30600.0,5000000,0,46045.33
+26,Male,21.0,0,Yes,Southwest,No,No,General,6,19600.0,500000,5,33942.58
+70,Female,26.1,1,No,Southeast,No,No,Respiratory,2,17000.0,100000,0,22982.02
+26,Male,23.8,4,Yes,Northwest,No,No,Respiratory,15,55700.0,5000000,5,66791.4
+27,Male,21.6,2,No,Southeast,No,No,General,7,21500.0,300000,2,30736.69
+69,Female,25.8,4,Yes,Southwest,No,No,General,8,25100.0,2000000,0,42829.16
+74,Male,26.7,2,No,Southwest,No,No,Hypertension,4,11700.0,1000000,4,31609.21
+70,Female,28.9,1,Yes,Northwest,No,No,General,12,41900.0,1000000,5,54899.59
+43,Male,25.0,0,No,Northeast,No,Yes,Diabetes,1,12400.0,500000,0,27878.19
+58,Female,22.0,4,No,Northeast,Yes,Yes,General,2,18400.0,5000000,0,37252.87
+52,Female,22.2,2,Yes,Southeast,No,No,Respiratory,4,19700.0,1000000,1,35067.13
+69,Male,35.3,3,No,Northeast,No,Yes,Respiratory,7,30100.0,500000,4,57506.36
+42,Male,20.5,1,No,Northeast,No,Yes,Hypertension,2,18400.0,2000000,4,30333.52
+43,Male,30.2,0,No,Southeast,No,Yes,Diabetes,6,25900.0,100000,1,37326.95
+28,Female,31.1,1,Yes,Southwest,No,No,Respiratory,2,19800.0,300000,5,39340.94
+55,Female,27.3,3,No,Northeast,No,No,Respiratory,12,45300.0,2000000,3,54935.74
+19,Female,38.6,0,No,Southwest,No,No,Respiratory,7,36100.0,2000000,2,38527.51
+24,Male,31.0,3,No,Southeast,Yes,No,General,2,17400.0,1000000,4,40016.46
+35,Female,39.1,1,No,Southwest,Yes,No,General,3,20900.0,1000000,3,40461.04
+44,Female,24.1,2,No,Southwest,No,No,Hypertension,9,23000.0,300000,5,45626.07
+51,Male,24.2,1,No,Southeast,No,No,Hypertension,13,38400.0,100000,2,46289.67
+44,Female,31.2,1,No,Southwest,No,No,General,15,42800.0,2000000,4,61720.9
+34,Female,26.4,1,Yes,Northeast,Yes,No,General,4,16500.0,5000000,0,31552.28
+60,Male,38.1,4,No,Northeast,No,No,Respiratory,14,45200.0,1000000,4,64355.49
+61,Female,30.1,3,No,Northeast,No,Yes,Respiratory,5,27000.0,2000000,2,51771.15
+68,Male,21.7,3,No,Northeast,No,No,Diabetes,9,26400.0,100000,3,47845.35
+71,Male,17.6,3,No,Southwest,No,No,Respiratory,7,28600.0,500000,0,39419.49
+41,Male,27.5,4,No,Northeast,Yes,No,Hypertension,8,29100.0,100000,2,52402.23
+42,Male,27.5,2,No,Southwest,No,No,Heart Disease,15,55700.0,2000000,5,64886.52
+24,Male,29.9,1,No,Northwest,No,No,Diabetes,11,31900.0,2000000,2,44739.9
+69,Female,35.3,2,No,Southwest,No,Yes,General,3,19700.0,300000,4,37825.67
+23,Female,34.5,4,No,Northeast,No,No,Diabetes,11,28200.0,2000000,5,46027.14
+70,Male,24.5,3,No,Northwest,Yes,No,Diabetes,11,37200.0,1000000,1,61553.22
+41,Male,20.2,1,No,Southeast,Yes,Yes,Hypertension,4,27100.0,5000000,1,41692.49
+50,Female,20.6,0,No,Southwest,No,No,General,7,27100.0,300000,0,39745.25
+66,Male,23.6,0,No,Northeast,No,No,Respiratory,4,19300.0,2000000,2,32646.27
+46,Male,25.8,2,No,Northeast,No,No,General,2,7000.0,100000,3,29907.61
+60,Male,29.8,3,No,Northeast,No,No,General,14,52300.0,2000000,0,57711.77
+39,Female,23.2,0,No,Southeast,No,No,Diabetes,10,41000.0,100000,5,52883.03
+43,Female,29.7,2,No,Northwest,No,No,Hypertension,6,24200.0,100000,0,32774.86
+45,Male,30.2,4,No,Northwest,No,No,Diabetes,9,42800.0,2000000,4,55573.58
+67,Male,28.9,2,No,Northeast,No,Yes,Heart Disease,2,26500.0,100000,5,44777.09
+38,Female,21.2,2,No,Southwest,No,No,Diabetes,1,10000.0,5000000,3,17500.08
+66,Female,30.8,2,Yes,Northeast,Yes,Yes,Hypertension,8,36700.0,500000,2,60738.31
+24,Male,40.5,1,Yes,Northeast,No,No,Heart Disease,1,24000.0,300000,5,42340.83
+34,Male,29.5,2,No,Southwest,Yes,No,General,1,5800.0,2000000,2,33136.9
+37,Female,16.0,2,No,Northeast,No,No,Hypertension,3,18600.0,500000,2,17127.86
+58,Female,35.4,1,No,Southeast,No,No,Respiratory,5,27300.0,100000,0,43600.09
+66,Female,23.8,1,No,Northeast,Yes,No,General,13,42200.0,100000,4,67381.2
+37,Male,41.6,4,No,Southeast,No,No,Diabetes,12,43600.0,300000,0,54068.27
+71,Female,28.7,3,No,Northeast,Yes,Yes,Respiratory,9,46100.0,500000,1,62310.12
+39,Male,17.9,0,No,Northwest,No,No,Diabetes,11,43600.0,500000,1,41865.65
+45,Female,16.0,0,No,Southwest,No,No,Diabetes,10,39700.0,2000000,2,54368.67
+57,Female,37.2,2,No,Northwest,No,Yes,Respiratory,2,20500.0,100000,4,46191.89
+66,Female,34.6,4,No,Northeast,No,No,General,12,30300.0,1000000,5,55641.5
+24,Female,41.4,2,No,Northeast,No,No,General,12,39300.0,2000000,2,50832.49
+18,Male,28.1,0,No,Southeast,No,No,Respiratory,1,9400.0,2000000,5,24923.33
+49,Male,27.7,1,No,Northeast,No,No,Respiratory,1,14900.0,2000000,2,29710.79
+30,Female,25.7,3,No,Northeast,No,No,Diabetes,8,44400.0,300000,0,43571.4
+47,Male,24.1,4,No,Northeast,No,No,Diabetes,10,35300.0,300000,2,47653.56
+40,Female,25.6,1,No,Northwest,No,No,Respiratory,10,35800.0,2000000,2,47143.99
+68,Female,29.3,3,No,Southeast,No,No,Heart Disease,10,50800.0,5000000,4,73185.37
+73,Female,22.9,4,No,Northwest,No,No,General,2,13300.0,1000000,4,29001.17
+36,Female,18.0,4,No,Southeast,Yes,Yes,General,13,63100.0,500000,5,76084.89
+49,Male,29.0,0,Yes,Northwest,Yes,Yes,Diabetes,9,31100.0,500000,4,64903.5
+47,Female,22.8,1,No,Northeast,No,No,Respiratory,9,30600.0,100000,2,45469.04
+46,Female,16.0,4,No,Northwest,Yes,No,Respiratory,2,23600.0,500000,4,43453.51
+66,Male,31.3,4,No,Northwest,No,Yes,Respiratory,3,23900.0,500000,4,57674.94
+62,Female,21.4,3,Yes,Southeast,Yes,No,Respiratory,2,19900.0,1000000,3,48507.59
+46,Female,32.0,0,No,Southeast,Yes,No,Hypertension,6,31600.0,500000,3,44898.55
+47,Female,31.8,2,Yes,Northwest,Yes,No,Diabetes,15,43800.0,1000000,1,61000.94
+33,Male,29.7,0,No,Southeast,No,Yes,Heart Disease,7,41900.0,300000,0,45103.5
+57,Female,43.0,2,No,Southeast,No,No,Heart Disease,12,51900.0,1000000,0,56286.96
+36,Male,27.2,1,Yes,Southeast,No,Yes,Hypertension,6,34200.0,300000,4,51583.03
+35,Female,26.3,1,No,Southwest,Yes,No,General,3,22200.0,1000000,1,35514.99
+18,Female,32.1,4,No,Southeast,No,No,Respiratory,12,49900.0,2000000,1,53738.23
+31,Male,27.7,1,No,Southwest,Yes,No,Diabetes,15,48100.0,5000000,5,55328.3
+68,Female,35.0,4,No,Southwest,No,No,Diabetes,3,16300.0,300000,3,32399.73
+64,Female,20.4,0,No,Southeast,Yes,Yes,Hypertension,12,52800.0,300000,1,67464.06
+67,Male,20.5,1,No,Northwest,No,Yes,Hypertension,2,21200.0,500000,2,42286.34
+19,Male,32.6,0,No,Southeast,No,No,General,2,14300.0,300000,5,27496.32
+71,Male,21.0,0,No,Northeast,No,Yes,Respiratory,11,45300.0,1000000,4,58645.2
+45,Male,31.7,1,Yes,Northwest,No,Yes,General,12,44400.0,2000000,2,59874.83
+66,Male,30.2,0,No,Southwest,No,No,General,5,20300.0,2000000,0,39281.95
+67,Female,23.8,1,No,Southwest,Yes,No,Diabetes,11,53300.0,500000,3,65905.72
+47,Male,30.2,1,No,Northwest,No,No,Heart Disease,11,49200.0,1000000,2,45523.17
+55,Female,20.6,1,No,Northwest,No,No,Respiratory,8,26300.0,1000000,4,50692.38
+68,Female,22.0,2,No,Southeast,Yes,No,Heart Disease,6,40900.0,100000,2,56552.37
+21,Female,26.6,0,Yes,Southwest,No,No,Respiratory,9,42800.0,300000,2,44354.33
+18,Male,28.5,3,No,Northeast,Yes,No,General,11,36600.0,500000,1,45869.63
+25,Male,26.2,1,No,Southeast,Yes,Yes,General,5,29100.0,2000000,3,41390.87
+46,Female,30.6,0,No,Northwest,No,Yes,Hypertension,10,45500.0,5000000,0,49862.74
+72,Male,30.3,4,No,Southwest,No,No,General,4,18300.0,100000,4,45550.99
+56,Male,37.2,1,Yes,Northwest,No,No,Respiratory,9,35500.0,1000000,5,49614.31
+20,Male,27.4,1,No,Northwest,Yes,No,Hypertension,12,39900.0,300000,5,56131.66
+49,Male,35.2,3,No,Northwest,No,No,Respiratory,10,39200.0,2000000,4,54651.18
+27,Female,33.5,2,No,Southeast,No,No,General,11,30500.0,100000,0,38832.65
+27,Female,41.8,2,No,Northeast,Yes,No,Diabetes,14,40100.0,1000000,4,58108.86
+36,Male,27.2,1,No,Northeast,No,No,Diabetes,5,24500.0,2000000,1,37570.69
+63,Female,25.5,0,No,Southwest,Yes,No,General,1,10600.0,2000000,5,35165.45
+51,Male,35.5,4,No,Northwest,Yes,No,Hypertension,5,17100.0,1000000,5,43772.56
+50,Male,30.3,4,No,Northeast,No,No,Diabetes,15,44000.0,1000000,2,58586.67
+40,Female,35.7,0,No,Northwest,Yes,Yes,Diabetes,5,28200.0,500000,1,43149.72
+72,Female,32.3,1,Yes,Southwest,Yes,Yes,Diabetes,5,29500.0,2000000,5,57912.39
+45,Female,16.0,4,Yes,Northwest,No,No,General,13,37600.0,1000000,1,46695.16
+49,Male,30.3,2,No,Northeast,No,No,Diabetes,2,13400.0,5000000,1,35734.28
+67,Female,29.9,0,No,Northwest,No,No,General,13,39900.0,5000000,0,53136.61
+24,Male,28.8,3,No,Northeast,No,No,General,6,17500.0,100000,5,33918.56
+46,Female,27.2,1,No,Southwest,Yes,No,General,5,29200.0,300000,3,50447.08
+25,Female,18.4,0,No,Northwest,No,No,General,2,12900.0,5000000,0,20062.66
+18,Male,33.2,4,No,Northeast,No,Yes,Diabetes,12,35600.0,500000,0,45964.31
+74,Male,30.2,1,Yes,Southwest,No,No,General,10,39200.0,1000000,1,49395.26
+72,Male,34.6,2,Yes,Northwest,No,Yes,Diabetes,15,47600.0,300000,3,67297.94
+20,Male,18.8,1,No,Southwest,Yes,No,Hypertension,15,52100.0,500000,0,60897.13
+41,Male,31.0,1,No,Northeast,Yes,No,Hypertension,14,55000.0,2000000,3,70735.09
+40,Male,26.6,2,No,Northwest,No,No,Heart Disease,8,40500.0,300000,5,46209.63
+25,Male,28.9,2,No,Northwest,No,No,Diabetes,6,24300.0,5000000,1,30507.54
+71,Male,26.7,1,No,Northwest,No,No,Diabetes,11,38300.0,500000,0,50575.82
+74,Female,31.3,2,No,Southwest,No,No,Heart Disease,10,49200.0,1000000,3,65304.8
+64,Male,27.0,0,Yes,Southwest,No,No,Diabetes,12,39200.0,1000000,4,61789.92
+54,Male,21.7,2,No,Northeast,No,No,Heart Disease,11,45900.0,500000,0,47802.52
+20,Female,28.5,2,No,Southeast,Yes,No,Diabetes,3,21700.0,2000000,0,32302.01
+68,Male,26.7,1,No,Northwest,No,Yes,Diabetes,9,28900.0,5000000,0,42237.51
+50,Female,27.5,0,No,Northwest,Yes,No,Heart Disease,13,71700.0,500000,3,78328.98
+45,Female,16.0,3,No,Northeast,No,No,General,11,40500.0,100000,2,54256.43
+64,Male,32.1,3,Yes,Northwest,No,No,General,11,28000.0,500000,5,52287.95
+25,Female,26.1,4,No,Southwest,Yes,Yes,General,14,49600.0,500000,0,61242.46
+51,Male,19.9,2,No,Southwest,No,No,Diabetes,4,19900.0,5000000,4,34586.7
+52,Female,33.5,2,No,Northwest,Yes,No,General,3,19500.0,1000000,4,40412.34
+49,Female,31.8,0,No,Northwest,No,No,Hypertension,7,22600.0,2000000,1,34254.74
+41,Female,26.0,3,Yes,Southwest,No,No,Heart Disease,12,56100.0,500000,2,69941.16
+31,Male,21.1,4,No,Northwest,Yes,No,Heart Disease,13,66500.0,300000,2,72525.84
+49,Male,29.1,0,Yes,Southwest,No,Yes,Diabetes,15,56300.0,1000000,3,69201.83
+73,Female,28.7,2,No,Southeast,Yes,Yes,Respiratory,14,60100.0,1000000,1,76629.35
+63,Female,33.5,3,No,Southeast,Yes,No,Hypertension,8,33900.0,500000,3,51620.47
+60,Male,25.3,4,No,Northwest,No,No,Diabetes,7,27500.0,5000000,1,31202.44
+33,Male,35.2,1,No,Northwest,No,No,Respiratory,1,18800.0,300000,5,23640.18
+21,Female,24.8,3,No,Northwest,No,No,Heart Disease,1,21400.0,500000,2,30182.52
+69,Female,19.9,4,No,Southwest,No,Yes,Heart Disease,13,53700.0,300000,5,68842.1
+54,Male,21.2,0,No,Southeast,Yes,No,General,5,25900.0,1000000,3,46929.5
+71,Male,27.6,1,No,Southeast,No,No,Diabetes,15,43800.0,300000,1,57845.05
+38,Male,27.6,4,No,Northeast,No,No,Respiratory,14,46400.0,500000,2,56945.39
+31,Male,30.0,4,No,Northeast,Yes,Yes,Diabetes,8,36000.0,100000,2,50465.97
+48,Male,27.5,2,No,Northwest,No,No,Hypertension,14,56600.0,100000,0,60237.4
+72,Female,33.9,3,No,Southwest,Yes,No,Hypertension,10,37000.0,300000,3,65774.98
+65,Male,26.4,2,No,Northwest,No,No,Respiratory,11,30300.0,5000000,0,33855.3
+35,Female,16.0,1,No,Southeast,Yes,No,General,3,21400.0,500000,2,32825.94
+24,Male,27.3,4,No,Northwest,No,Yes,Hypertension,8,28500.0,2000000,3,49272.32
+27,Female,16.0,2,No,Northwest,No,No,General,3,15100.0,100000,3,20570.32
+24,Male,29.6,3,No,Southeast,No,No,Hypertension,4,19200.0,1000000,5,35768.8
+50,Male,34.3,1,No,Southeast,No,No,Heart Disease,10,43400.0,500000,4,53144.02
+40,Female,22.1,0,Yes,Southeast,Yes,Yes,General,7,23600.0,500000,1,44153.73
+38,Female,36.5,2,No,Southeast,No,No,Hypertension,3,16300.0,100000,4,25465.55
+36,Male,33.1,1,No,Northeast,Yes,No,Diabetes,4,23700.0,2000000,4,47269.29
+65,Male,35.2,0,No,Southwest,No,No,General,8,25000.0,1000000,2,41863.69
+36,Male,29.1,2,No,Southwest,No,No,Diabetes,4,23300.0,2000000,5,32048.14
+53,Male,22.0,1,Yes,Southeast,No,No,General,9,33100.0,1000000,1,47658.8
+46,Male,32.7,1,No,Southwest,No,Yes,Diabetes,4,27800.0,100000,4,44657.0
+35,Female,24.3,2,Yes,Southwest,No,No,Diabetes,13,51000.0,500000,4,60499.29
+19,Female,28.7,1,Yes,Southwest,No,No,Heart Disease,14,54500.0,1000000,3,72752.9
+18,Male,27.0,4,No,Southwest,Yes,Yes,Heart Disease,4,48700.0,500000,2,56852.43
+64,Female,34.7,2,No,Southeast,No,No,Hypertension,13,45800.0,300000,4,67271.99
+22,Female,32.4,1,No,Northwest,No,No,General,5,18900.0,300000,1,27291.92
+37,Female,27.5,0,No,Northwest,No,No,Respiratory,1,9200.0,100000,0,11162.42
+28,Male,16.3,0,No,Northwest,No,No,Hypertension,7,24700.0,100000,0,18472.8
+59,Female,24.2,4,No,Northeast,Yes,No,General,9,28900.0,5000000,2,43868.55
+19,Male,32.2,2,No,Southwest,No,Yes,Heart Disease,12,55100.0,100000,0,62571.42
+20,Female,29.7,1,No,Southeast,No,Yes,General,9,30700.0,300000,3,41686.7
+40,Male,19.0,1,No,Southeast,No,No,Hypertension,1,18200.0,1000000,3,32315.39
+72,Female,17.2,0,Yes,Northeast,No,No,Diabetes,15,59300.0,2000000,1,61777.0
+29,Male,29.2,4,No,Southeast,No,No,Diabetes,6,22000.0,100000,5,36529.38
+37,Male,21.7,0,Yes,Northwest,No,No,Respiratory,3,18800.0,2000000,2,30277.79
+22,Female,22.2,0,No,Northeast,No,No,Diabetes,4,23500.0,2000000,2,30649.21
+54,Male,32.0,4,No,Southeast,No,No,General,8,24400.0,300000,0,30675.16
+55,Male,35.2,2,No,Northeast,Yes,Yes,Respiratory,15,53900.0,5000000,4,72031.33
+47,Male,23.5,1,No,Northeast,No,Yes,Respiratory,4,23100.0,1000000,4,38800.82
+26,Male,27.7,2,No,Southeast,Yes,No,Hypertension,8,36500.0,300000,5,47288.03
+51,Male,27.6,3,No,Northwest,No,No,Diabetes,4,16900.0,100000,4,27189.83
+70,Male,27.0,3,No,Southeast,Yes,No,General,9,25600.0,300000,5,53618.53
+61,Male,28.2,3,No,Southwest,No,Yes,Heart Disease,6,39100.0,300000,1,42802.31
+52,Male,32.5,4,No,Southwest,No,No,General,1,10700.0,300000,2,31840.72
+69,Female,24.0,0,Yes,Southeast,No,No,General,13,40400.0,100000,0,59109.45
+75,Female,18.8,2,No,Northwest,No,No,Hypertension,10,33400.0,100000,1,42378.53
+39,Male,38.1,1,No,Southwest,No,Yes,General,2,20900.0,300000,3,38792.08
+61,Male,34.5,3,No,Southwest,No,Yes,General,7,24700.0,300000,3,45675.66
+41,Female,21.4,2,Yes,Southeast,No,No,Diabetes,10,30900.0,2000000,3,53047.12
+34,Female,28.8,3,No,Southeast,No,Yes,General,7,19500.0,1000000,5,39776.8
+27,Female,34.1,3,No,Southeast,No,No,General,3,10600.0,2000000,5,32754.95
+47,Male,32.5,1,No,Northeast,Yes,No,General,1,20100.0,5000000,2,36798.04
+73,Female,30.8,4,No,Northeast,No,Yes,General,8,41200.0,1000000,3,57637.64
+63,Male,27.0,0,No,Northeast,No,Yes,Heart Disease,13,66500.0,5000000,5,73548.43
+40,Male,38.4,4,Yes,Southeast,No,No,Heart Disease,13,37500.0,1000000,5,67897.68
+49,Female,29.3,2,No,Northwest,No,No,Diabetes,10,27400.0,300000,4,44163.17
+34,Male,24.9,4,No,Southwest,No,Yes,Diabetes,14,34500.0,2000000,5,54548.45
+67,Male,33.2,2,No,Northeast,Yes,Yes,General,11,47400.0,1000000,3,63845.28
+68,Male,28.6,2,No,Northwest,No,Yes,General,15,38100.0,5000000,1,52794.01
+34,Male,30.1,0,Yes,Southeast,No,No,General,11,31900.0,1000000,3,48264.23
+31,Female,29.2,1,No,Northeast,No,Yes,Hypertension,10,28300.0,100000,4,48864.87
+26,Female,31.0,0,No,Southeast,No,Yes,Heart Disease,15,74100.0,1000000,3,78505.09
+57,Male,22.1,4,No,Northwest,Yes,No,Hypertension,7,34500.0,300000,0,46321.88
+19,Male,19.3,2,No,Northeast,Yes,Yes,Diabetes,10,44800.0,500000,4,65042.22
+62,Female,36.6,3,No,Northeast,No,No,General,8,24600.0,100000,2,42437.52
+42,Male,29.5,3,No,Northeast,No,No,Heart Disease,1,23200.0,500000,3,26005.03
+56,Female,32.6,2,No,Northeast,No,No,Diabetes,14,53500.0,300000,5,61992.93
+26,Male,17.4,0,No,Northwest,No,No,Heart Disease,3,27800.0,500000,1,32817.1
+71,Male,34.4,1,No,Northeast,No,No,Diabetes,13,43500.0,1000000,3,57497.89
+39,Female,24.9,0,No,Southwest,Yes,Yes,Heart Disease,2,32200.0,500000,1,40825.17
+60,Female,23.2,2,No,Southwest,No,No,Respiratory,1,7500.0,2000000,0,15885.91
+63,Female,27.6,2,No,Southeast,No,No,Respiratory,5,19200.0,300000,2,33211.85
+21,Female,22.1,1,No,Northeast,No,Yes,Hypertension,3,18200.0,2000000,5,32573.65
+43,Male,28.0,4,Yes,Southwest,Yes,No,Diabetes,10,43800.0,500000,4,66972.69
+75,Female,27.2,4,No,Southwest,No,No,General,15,48800.0,2000000,4,64235.15
+46,Male,34.4,1,Yes,Southwest,Yes,No,Respiratory,8,42100.0,100000,2,64886.25
+62,Female,37.1,4,Yes,Northwest,No,No,Diabetes,6,25300.0,500000,0,39260.73
+51,Female,36.9,3,No,Northeast,No,No,General,10,35100.0,5000000,0,45536.94
+40,Male,16.0,4,No,Northwest,Yes,Yes,Diabetes,14,65800.0,2000000,3,67194.03
+54,Female,22.4,4,Yes,Northwest,Yes,No,General,9,34100.0,1000000,0,54232.44
+28,Female,16.0,4,No,Southwest,No,Yes,Diabetes,9,40300.0,500000,3,42786.46
+23,Female,20.8,3,No,Southwest,No,No,Hypertension,11,36500.0,5000000,1,44644.11
+35,Female,24.1,4,No,Southeast,Yes,No,General,6,26400.0,100000,2,33175.13
+38,Male,30.5,3,No,Northeast,No,No,General,2,3800.0,1000000,1,14639.09
+59,Male,24.9,1,No,Northeast,No,No,Respiratory,9,34000.0,500000,1,47407.43
+53,Female,25.0,0,No,Southwest,Yes,No,Heart Disease,2,27100.0,1000000,1,45529.46
+58,Female,29.1,1,No,Southwest,No,No,Respiratory,3,19400.0,500000,1,18619.61
+55,Female,17.7,0,No,Northeast,No,No,Diabetes,6,18600.0,500000,4,30586.77
+51,Male,23.0,1,No,Southeast,No,No,Heart Disease,2,24500.0,300000,0,37742.93
+34,Male,25.0,0,No,Southwest,No,No,Diabetes,5,17900.0,2000000,2,30039.09
+54,Male,26.8,0,No,Southeast,No,No,General,2,9800.0,500000,2,19949.38
+42,Male,28.5,2,Yes,Northwest,No,No,General,12,42700.0,100000,5,67801.63
+55,Female,37.0,0,No,Southwest,No,Yes,General,4,22200.0,5000000,1,39004.39
+75,Female,33.5,0,No,Northwest,No,No,General,15,48200.0,2000000,2,61635.08
+29,Female,23.4,2,No,Southwest,No,No,Respiratory,11,32200.0,300000,3,35899.81
+40,Male,26.4,4,No,Northwest,No,No,General,11,44700.0,2000000,2,60968.94
+70,Female,26.0,4,No,Southwest,Yes,No,Diabetes,3,28100.0,2000000,1,43990.71
+59,Male,24.9,2,Yes,Southeast,No,Yes,Diabetes,5,23400.0,500000,2,42213.53
+39,Male,29.6,3,No,Southeast,Yes,No,General,6,22500.0,100000,0,43410.84
+38,Female,16.8,0,Yes,Southeast,No,No,Hypertension,13,43300.0,500000,1,48023.91
+44,Female,33.3,0,No,Northwest,Yes,Yes,General,7,32000.0,100000,4,48453.0
+74,Female,38.2,2,No,Southeast,No,No,Heart Disease,10,39000.0,100000,0,46151.52
+48,Male,26.4,2,No,Northwest,No,No,General,8,25200.0,1000000,2,36662.41
+23,Male,26.3,3,Yes,Southwest,Yes,No,Hypertension,9,38100.0,500000,4,57669.47
+44,Female,28.9,4,No,Northwest,Yes,No,Heart Disease,14,56100.0,300000,5,76342.64
+57,Female,34.1,1,No,Southwest,No,Yes,Respiratory,4,23100.0,5000000,0,30128.31
+51,Male,26.1,4,Yes,Northeast,Yes,Yes,Respiratory,4,27300.0,2000000,5,57322.78
+29,Female,33.6,0,No,Northeast,No,No,Hypertension,7,32800.0,1000000,3,39306.48
+62,Male,30.9,2,No,Northeast,Yes,Yes,Diabetes,12,52300.0,300000,0,64155.87
+74,Male,42.2,3,Yes,Northwest,No,No,Diabetes,15,53100.0,5000000,4,80247.15
+70,Female,26.0,4,No,Northeast,No,No,Heart Disease,10,47600.0,5000000,5,64502.86
+24,Female,16.1,3,No,Northeast,No,Yes,Respiratory,10,48600.0,500000,3,56675.48
+27,Female,19.4,4,No,Northeast,No,No,General,11,45100.0,100000,5,51564.5
+62,Female,28.1,0,No,Southwest,Yes,No,Diabetes,9,37400.0,500000,2,61807.62
+34,Male,34.2,1,No,Southeast,No,No,Heart Disease,11,55200.0,5000000,1,59295.36
+43,Male,24.1,3,No,Northwest,No,No,Diabetes,2,21400.0,500000,5,34081.35
+38,Male,26.6,3,No,Northeast,No,No,General,13,30500.0,1000000,2,50107.91
+45,Female,32.1,1,No,Southwest,No,No,Diabetes,11,39400.0,300000,1,50333.25
+75,Male,22.2,3,Yes,Southeast,No,No,Hypertension,6,23300.0,5000000,1,35627.45
+63,Female,24.3,3,Yes,Southeast,No,No,Respiratory,10,40400.0,1000000,4,59929.11
+19,Female,21.0,4,No,Southeast,Yes,Yes,Diabetes,10,43100.0,300000,3,52583.24
+71,Female,35.1,4,No,Southwest,No,Yes,General,8,33900.0,1000000,3,43802.84
+60,Female,37.3,1,Yes,Northeast,No,No,General,13,32200.0,2000000,0,48726.89
+18,Female,18.5,0,No,Southeast,Yes,Yes,General,5,18800.0,100000,2,40033.17
+68,Female,27.1,3,No,Southwest,No,No,Hypertension,5,22000.0,100000,4,47272.61
+70,Male,36.4,0,Yes,Southwest,Yes,No,Hypertension,8,46300.0,100000,5,67068.74
+53,Female,30.4,1,No,Northwest,Yes,No,General,1,8400.0,2000000,2,28017.65
+68,Male,25.1,1,No,Southwest,No,No,Hypertension,6,25400.0,5000000,5,50430.61
+43,Male,18.7,4,No,Southeast,No,No,Heart Disease,10,56000.0,5000000,5,65368.92
+46,Female,34.9,3,No,Southeast,No,No,General,13,38500.0,2000000,5,59429.63
+38,Female,30.2,2,No,Southwest,No,No,General,9,32000.0,100000,0,39523.64
+28,Female,19.2,1,No,Southeast,Yes,No,Respiratory,12,39000.0,100000,0,51302.53
+57,Male,35.1,3,No,Southwest,No,Yes,Diabetes,6,26000.0,300000,4,46848.67
+28,Female,18.4,0,No,Southeast,No,No,Heart Disease,15,60700.0,300000,0,64064.81
+53,Male,26.7,4,No,Northwest,No,Yes,Diabetes,7,41000.0,500000,4,53953.04
+66,Female,26.4,0,No,Northeast,No,Yes,Heart Disease,4,32500.0,1000000,0,40162.68
+56,Female,37.7,1,No,Northwest,No,No,Heart Disease,12,59400.0,300000,3,57101.12
+57,Male,26.4,1,No,Northwest,Yes,No,Hypertension,10,42700.0,300000,4,64638.44
+52,Male,26.4,0,Yes,Northeast,No,No,Respiratory,1,14800.0,300000,3,28724.69
+71,Female,19.8,1,No,Southeast,No,Yes,Respiratory,9,27200.0,300000,3,36353.85
+51,Male,24.2,3,No,Northeast,No,No,Hypertension,12,43300.0,2000000,4,55286.04
+72,Male,23.1,1,No,Southwest,Yes,No,General,6,15400.0,500000,2,37095.79
+64,Male,23.4,4,No,Northeast,No,No,Diabetes,3,28300.0,300000,1,38256.32
+41,Male,28.0,3,No,Northwest,Yes,No,Heart Disease,4,32900.0,5000000,0,44751.12
+71,Male,16.0,2,No,Northeast,No,Yes,Hypertension,10,32900.0,1000000,5,50220.16
+39,Female,18.9,1,No,Southeast,Yes,No,General,12,33000.0,300000,0,57621.6
+22,Female,27.3,1,No,Northwest,No,Yes,General,6,24300.0,2000000,5,40262.99
+73,Male,28.7,4,Yes,Southwest,No,No,Hypertension,6,21700.0,5000000,2,35914.1
+50,Female,26.6,4,No,Southeast,No,No,General,12,44400.0,100000,1,58830.68
+75,Female,27.8,0,No,Northwest,No,Yes,Diabetes,9,32000.0,100000,2,52456.83
+53,Male,25.5,0,No,Southwest,No,No,Heart Disease,4,24200.0,500000,1,35124.88
+64,Female,27.9,0,No,Southeast,No,Yes,Hypertension,5,25400.0,100000,4,42163.13
+37,Male,30.6,4,Yes,Southwest,No,No,General,5,16200.0,300000,4,39164.2
+36,Male,30.6,0,No,Northeast,No,No,General,3,8900.0,2000000,5,19164.4
+52,Female,23.9,0,No,Northeast,Yes,No,General,2,14000.0,500000,3,32222.27
+69,Male,33.5,2,No,Southwest,No,Yes,General,8,39600.0,5000000,3,65945.53
+60,Male,28.9,0,No,Northeast,Yes,Yes,Hypertension,10,44100.0,300000,5,61612.42
+34,Male,35.4,1,No,Southwest,No,No,Diabetes,15,45800.0,100000,4,60362.48
+62,Male,36.6,4,No,Southeast,No,No,General,9,32600.0,1000000,5,45375.98
+60,Male,19.3,3,Yes,Northwest,No,No,General,10,30000.0,300000,3,47280.84
+51,Female,22.8,2,No,Southwest,No,No,General,11,46600.0,1000000,5,52260.64
+26,Female,32.9,4,No,Northwest,Yes,No,Respiratory,13,40900.0,5000000,4,62384.94
+43,Male,18.0,4,No,Northwest,No,No,Diabetes,9,27800.0,1000000,2,40636.25
+19,Male,36.5,1,No,Southwest,Yes,Yes,Respiratory,14,60900.0,5000000,0,61056.6
+70,Female,25.9,0,No,Northeast,Yes,No,Respiratory,5,21400.0,500000,4,45554.29
+26,Male,31.5,1,No,Southeast,No,Yes,Diabetes,11,40300.0,2000000,5,56636.93
+26,Female,27.3,0,No,Northwest,Yes,No,Heart Disease,9,41700.0,100000,4,56181.15
+57,Male,19.6,0,No,Southeast,No,No,General,4,11700.0,100000,4,33945.69
+34,Male,34.3,4,Yes,Northwest,Yes,Yes,Hypertension,2,22400.0,300000,3,53966.7
+18,Male,44.5,0,No,Southwest,Yes,No,General,3,21600.0,100000,5,38987.7
+42,Male,24.9,2,Yes,Northeast,No,Yes,Respiratory,1,15900.0,500000,3,34513.4
+60,Male,26.1,2,No,Southeast,Yes,Yes,General,5,30200.0,100000,5,52928.32
+57,Male,16.0,2,No,Northwest,No,No,Heart Disease,1,29400.0,300000,3,30655.52
+59,Male,36.1,4,No,Southwest,No,No,General,12,48600.0,100000,3,55872.93
+42,Female,33.5,1,No,Southwest,No,No,Respiratory,11,42200.0,2000000,2,53789.59
+56,Female,17.6,3,Yes,Northwest,No,No,General,1,11100.0,5000000,4,40805.3
+52,Female,16.0,0,No,Northwest,No,No,Hypertension,14,46700.0,1000000,2,49076.63
+20,Male,16.3,3,No,Northwest,Yes,No,Diabetes,11,47100.0,1000000,3,66283.43
+67,Male,31.9,1,No,Northeast,No,No,Diabetes,11,39900.0,5000000,2,49903.41
+54,Male,32.5,1,No,Northwest,No,No,Hypertension,13,47600.0,1000000,4,65963.55
+61,Male,22.5,4,No,Northwest,No,No,Respiratory,7,26500.0,2000000,4,45902.17
+61,Male,31.0,2,No,Northeast,No,No,General,2,6600.0,500000,3,27806.49
+68,Male,29.0,2,No,Southwest,Yes,No,Respiratory,15,49000.0,300000,4,68433.46
+47,Male,25.8,1,No,Northwest,Yes,No,Hypertension,8,39700.0,2000000,2,51590.3
+55,Female,33.8,4,No,Southeast,Yes,No,Heart Disease,6,49900.0,300000,1,54654.87
+51,Male,20.8,4,No,Southwest,No,No,Diabetes,4,21700.0,500000,4,41129.54
+29,Female,34.9,0,Yes,Southeast,No,No,Diabetes,9,26100.0,2000000,2,48222.39
+36,Female,23.6,2,No,Northwest,Yes,No,Respiratory,15,46600.0,100000,2,57695.75
+54,Male,38.7,1,Yes,Northeast,Yes,Yes,Diabetes,10,48700.0,500000,2,61673.89
+61,Male,22.0,3,Yes,Northeast,No,No,Hypertension,8,38400.0,1000000,4,53624.68
+66,Female,25.9,2,No,Northeast,No,No,General,13,43700.0,2000000,1,62265.05
+34,Female,28.4,0,No,Northwest,Yes,Yes,General,10,39800.0,500000,3,57525.8
+27,Male,28.3,4,No,Northwest,Yes,Yes,Hypertension,3,28100.0,500000,3,49729.55
+74,Male,30.9,1,No,Southeast,No,No,Heart Disease,3,22100.0,2000000,4,36296.87
+72,Female,20.3,2,No,Northeast,Yes,No,Hypertension,4,23900.0,1000000,4,43001.08
+66,Male,27.8,3,No,Northwest,No,No,General,14,36100.0,5000000,0,47530.74
+64,Male,28.8,0,No,Southwest,No,No,Diabetes,9,34700.0,1000000,5,46654.06
+29,Male,24.8,0,Yes,Northwest,No,Yes,Diabetes,9,42000.0,500000,1,52069.86
+33,Female,30.4,2,No,Northwest,No,No,Diabetes,5,13300.0,300000,2,24739.1
+41,Female,19.9,3,No,Southwest,No,Yes,Respiratory,12,53300.0,5000000,5,69062.24
+36,Female,26.0,0,No,Northeast,No,No,Heart Disease,9,31800.0,5000000,2,42216.44
+25,Male,23.5,1,Yes,Southwest,No,Yes,General,6,32000.0,500000,5,56243.98
+48,Male,26.1,0,No,Northeast,Yes,No,Respiratory,8,38300.0,2000000,3,45199.73
+38,Female,36.7,3,No,Southwest,Yes,No,Diabetes,11,53700.0,2000000,5,66636.13
+34,Female,36.8,4,No,Southeast,No,No,Heart Disease,8,45200.0,2000000,4,53155.63
+40,Female,35.6,4,No,Northeast,No,No,General,12,39300.0,1000000,1,51407.46
+54,Male,25.2,2,No,Northwest,Yes,No,Hypertension,10,32500.0,100000,3,50341.89
+71,Female,33.4,3,No,Southeast,No,Yes,General,15,51700.0,2000000,5,79767.86
+33,Female,28.7,0,No,Northeast,Yes,No,Diabetes,7,34000.0,2000000,1,43472.57
+23,Male,28.3,0,No,Northeast,Yes,Yes,General,4,23300.0,5000000,4,38394.62
+25,Male,27.5,4,No,Northeast,No,No,General,4,17400.0,300000,2,27895.79
+42,Male,38.6,4,Yes,Southwest,Yes,No,General,6,27900.0,300000,0,45167.65
+35,Female,36.2,1,No,Northeast,Yes,Yes,General,14,58200.0,500000,1,72653.12
+42,Male,32.5,4,Yes,Northwest,No,No,General,9,31700.0,500000,2,46571.87
+29,Male,27.0,1,No,Northeast,No,No,Hypertension,7,24400.0,500000,1,26118.18
+32,Female,28.2,0,No,Northwest,No,No,General,5,21900.0,2000000,1,30559.84
+43,Male,31.2,1,No,Northwest,No,No,Hypertension,5,26200.0,300000,1,31657.17
+58,Female,24.9,1,No,Northwest,No,Yes,General,8,37300.0,500000,4,47010.56
+62,Female,33.6,2,No,Southeast,No,No,Respiratory,6,30300.0,300000,3,44879.62
+43,Male,22.5,4,No,Northwest,No,No,Respiratory,1,10500.0,2000000,1,21615.47
+64,Male,30.4,1,No,Southwest,Yes,Yes,General,1,12400.0,5000000,4,38430.49
+49,Male,16.0,0,No,Northeast,No,No,Hypertension,9,31500.0,2000000,0,38106.9
+27,Male,24.7,3,No,Southwest,No,No,General,8,30200.0,500000,3,37841.01
+33,Male,40.5,1,Yes,Southeast,No,Yes,Respiratory,6,35500.0,2000000,4,54871.72
+24,Male,34.2,4,No,Northeast,No,No,Diabetes,13,46000.0,2000000,0,47657.86
+34,Female,37.2,2,No,Northwest,No,Yes,General,1,6700.0,300000,3,30661.12
+40,Female,24.0,0,No,Northeast,No,No,General,14,43400.0,100000,4,55183.08
+43,Male,28.6,2,No,Southeast,No,Yes,General,2,17600.0,1000000,0,35861.92
+38,Female,35.7,3,No,Southeast,Yes,Yes,Diabetes,10,50800.0,500000,4,65324.02
+39,Male,31.8,1,No,Southwest,Yes,No,Hypertension,3,15000.0,100000,0,31561.21
+75,Female,31.1,1,No,Northeast,No,No,Diabetes,10,39000.0,5000000,1,55156.69
+24,Female,37.8,4,No,Northeast,No,No,Diabetes,12,42800.0,500000,1,52511.99
+31,Female,21.8,1,No,Northeast,No,No,General,3,15100.0,100000,3,27530.99
+32,Male,26.9,0,No,Southwest,Yes,No,General,2,12400.0,2000000,0,26814.26
+70,Female,17.5,3,No,Southeast,No,No,General,12,35100.0,500000,1,49288.89
+24,Male,21.4,2,Yes,Northwest,Yes,No,Heart Disease,2,31100.0,100000,3,46702.4
+26,Female,34.4,3,No,Northeast,No,Yes,General,6,25700.0,1000000,2,38930.85
+68,Female,22.5,1,No,Southwest,No,No,Hypertension,7,30200.0,2000000,1,43337.16
+65,Female,32.4,2,Yes,Southwest,No,No,General,4,11100.0,500000,1,32455.63
+25,Female,38.0,4,Yes,Northwest,Yes,No,General,1,14200.0,5000000,5,37018.64
+67,Female,26.9,3,No,Southeast,Yes,No,Hypertension,6,25500.0,5000000,4,58070.0
+40,Male,31.1,2,No,Northeast,No,No,Diabetes,7,25300.0,500000,2,41736.56
+46,Male,32.5,2,Yes,Northeast,No,No,Diabetes,4,28000.0,100000,0,34343.16
+35,Female,20.7,2,No,Southwest,No,Yes,Hypertension,6,29200.0,500000,3,40136.27
+48,Female,24.3,0,Yes,Southeast,No,Yes,Diabetes,9,33700.0,2000000,2,48180.3
+47,Female,22.0,3,No,Northeast,Yes,No,General,4,20100.0,300000,0,31063.47
+69,Female,24.8,2,No,Northwest,Yes,No,Hypertension,12,36800.0,5000000,1,58436.0
+56,Male,32.3,3,No,Southeast,Yes,No,Hypertension,15,59400.0,100000,5,75511.69
+52,Female,24.4,2,No,Southeast,Yes,No,General,14,52900.0,1000000,3,75049.43
+35,Male,27.8,4,No,Southwest,No,No,Diabetes,10,32400.0,500000,3,37748.89
+59,Female,21.7,4,Yes,Southwest,Yes,No,General,4,21400.0,2000000,2,43722.44
+56,Male,35.4,4,No,Northeast,Yes,No,General,10,35900.0,500000,4,52445.28
+34,Female,24.7,1,No,Southwest,No,Yes,Hypertension,12,40900.0,1000000,0,49394.63
+31,Female,37.1,2,No,Southeast,Yes,No,Respiratory,5,27700.0,2000000,5,50471.39
+48,Male,28.4,1,No,Northeast,No,No,Respiratory,3,14200.0,1000000,5,37902.61
+41,Female,19.6,3,No,Northeast,Yes,No,General,10,45800.0,2000000,2,49766.49
+52,Female,27.0,1,No,Southeast,No,Yes,Diabetes,2,17400.0,300000,4,37836.25
+61,Female,21.6,3,No,Northeast,No,Yes,Hypertension,15,53800.0,5000000,4,64367.39
+62,Male,31.5,3,No,Northwest,No,No,General,9,33400.0,2000000,4,50761.09
+51,Female,26.4,3,No,Northwest,No,No,Heart Disease,13,52300.0,1000000,3,59423.28
+20,Female,29.0,1,No,Northeast,No,No,Heart Disease,1,26200.0,100000,0,21214.56
+54,Male,25.8,2,Yes,Southwest,No,No,Respiratory,5,24400.0,5000000,0,40619.31
+60,Male,24.7,1,No,Northwest,No,No,General,5,22400.0,300000,2,33752.43
+57,Male,22.2,2,No,Northeast,No,No,General,8,22400.0,500000,1,39215.2
+43,Female,33.0,2,No,Northwest,Yes,No,Respiratory,6,26100.0,300000,2,47960.57
+72,Female,27.0,3,No,Southwest,Yes,No,Hypertension,6,27800.0,300000,0,49390.98
+40,Female,26.1,1,No,Southeast,No,No,Respiratory,6,29800.0,500000,3,37882.39
+61,Male,26.8,2,No,Northeast,Yes,Yes,General,4,27100.0,2000000,2,41768.9
+56,Female,23.9,4,No,Northeast,No,No,Hypertension,15,38800.0,300000,1,57214.99
+32,Female,26.1,2,No,Northeast,Yes,No,Hypertension,1,18400.0,5000000,5,37970.69
+73,Male,29.2,4,No,Northeast,No,No,General,3,13700.0,300000,2,37820.88
+66,Male,21.8,1,No,Northeast,No,No,Diabetes,13,48400.0,100000,4,55266.45
+21,Male,22.7,1,No,Northeast,No,No,Hypertension,13,46100.0,5000000,1,51660.04
+46,Male,36.3,1,No,Southwest,No,No,General,15,51700.0,100000,4,64232.97
+39,Male,25.8,2,No,Southeast,Yes,No,General,10,29800.0,5000000,3,48627.45
+42,Female,24.7,0,No,Southwest,Yes,No,Hypertension,12,49000.0,1000000,0,54038.71
+30,Male,19.9,2,Yes,Southwest,No,No,Diabetes,11,45000.0,500000,2,48509.48
+35,Female,33.1,2,Yes,Southeast,No,No,Respiratory,6,26200.0,5000000,2,44880.08
+50,Female,21.7,3,No,Southwest,Yes,No,General,5,19300.0,5000000,4,39506.74
+33,Male,27.9,3,No,Northwest,Yes,No,General,10,39600.0,2000000,4,56963.59
+62,Male,17.8,2,No,Southwest,No,No,Respiratory,1,9700.0,2000000,0,29399.88
+59,Male,32.9,4,Yes,Northeast,No,No,Respiratory,5,26900.0,1000000,2,42506.12
+61,Female,35.1,3,No,Northwest,No,No,General,2,9800.0,2000000,0,23038.31
+19,Male,30.9,2,No,Northwest,No,No,Heart Disease,1,19700.0,2000000,4,30368.76
+72,Male,18.8,0,No,Southeast,No,Yes,General,4,19500.0,100000,5,39074.67
+52,Male,33.0,4,No,Southwest,No,Yes,General,6,25200.0,2000000,4,43905.25
+59,Male,23.0,1,Yes,Southwest,Yes,No,General,7,29200.0,2000000,1,51369.69
+51,Male,21.0,2,No,Northwest,No,Yes,General,9,28800.0,1000000,4,53195.14
+47,Female,25.7,2,No,Southwest,Yes,No,Heart Disease,5,29500.0,1000000,4,48600.46
+72,Female,25.6,4,No,Southwest,Yes,Yes,Heart Disease,8,57200.0,300000,5,77762.38
+30,Female,25.0,3,No,Southeast,Yes,No,Respiratory,8,41000.0,2000000,0,46747.48
+30,Male,35.6,3,No,Northwest,No,No,Heart Disease,11,56100.0,2000000,1,56347.07
+35,Male,40.1,3,No,Northeast,Yes,No,Diabetes,9,35300.0,5000000,1,48358.57
+49,Male,19.8,1,Yes,Northwest,No,No,Hypertension,3,22600.0,2000000,2,32332.95
+49,Female,23.9,4,No,Southeast,No,No,Respiratory,3,22700.0,100000,5,44455.74
+52,Male,28.9,4,No,Southeast,No,Yes,Heart Disease,9,36900.0,5000000,3,51003.37
+56,Male,25.7,3,Yes,Southeast,No,No,Heart Disease,7,33600.0,2000000,2,51650.71
+63,Male,30.4,3,No,Southwest,Yes,No,Respiratory,15,52400.0,100000,2,64859.95
+69,Female,33.5,0,No,Northwest,Yes,Yes,General,4,20700.0,300000,2,44101.44
+46,Male,32.5,0,No,Southwest,No,No,Heart Disease,15,46500.0,5000000,1,55866.38
+66,Female,31.7,2,Yes,Southwest,No,No,Respiratory,1,12300.0,500000,0,25885.14
+46,Male,38.0,2,No,Northwest,No,No,Respiratory,7,26300.0,2000000,4,42589.67
+70,Female,18.5,4,Yes,Southeast,No,No,General,10,33600.0,5000000,1,44601.42
+61,Female,36.9,4,No,Northeast,Yes,No,Diabetes,6,37700.0,1000000,4,57147.45
+74,Female,25.5,1,No,Northeast,No,No,Hypertension,3,11400.0,5000000,4,24817.44
+33,Male,32.7,1,No,Northwest,Yes,No,General,14,49400.0,1000000,3,63106.06
+73,Male,21.8,0,No,Northwest,No,No,Hypertension,5,24000.0,2000000,2,39663.21
+61,Female,22.5,2,No,Southeast,No,Yes,General,3,14400.0,100000,3,33531.68
+64,Female,32.0,0,No,Northwest,No,No,General,8,24800.0,1000000,2,37229.08
+74,Male,16.4,0,Yes,Northwest,No,No,Diabetes,5,23000.0,5000000,1,35235.15
+27,Male,33.9,2,No,Southeast,No,No,Diabetes,10,33400.0,5000000,4,52923.69
+47,Female,35.6,1,No,Southeast,Yes,No,Diabetes,10,44800.0,1000000,3,60524.9
+42,Male,29.1,2,No,Southwest,Yes,No,Diabetes,6,32800.0,300000,5,55593.62
+56,Male,28.9,3,No,Northwest,No,No,General,2,10200.0,300000,1,28924.11
+37,Male,23.0,3,No,Northeast,No,No,General,8,26600.0,300000,1,33754.21
+22,Male,32.0,3,No,Northwest,No,No,General,9,28800.0,1000000,5,40382.75
+18,Female,30.1,4,No,Northeast,No,No,General,3,14700.0,1000000,2,28770.35
+47,Male,22.5,1,No,Northeast,No,No,Hypertension,13,40700.0,5000000,4,50217.53
+66,Male,25.7,1,No,Northeast,No,No,Heart Disease,15,63100.0,2000000,2,65669.06
+20,Female,27.0,4,No,Southwest,Yes,No,General,6,30600.0,2000000,2,42956.38
+62,Female,25.6,0,No,Southeast,Yes,No,General,6,26500.0,100000,1,40692.68
+31,Male,19.8,3,No,Southeast,Yes,No,Heart Disease,2,33100.0,1000000,2,30650.99
+73,Male,32.2,3,No,Southwest,No,Yes,General,10,42400.0,2000000,0,47870.3
+47,Male,26.5,0,No,Southeast,Yes,No,Respiratory,8,39100.0,2000000,5,61279.32
+67,Male,28.1,2,No,Southwest,No,No,Heart Disease,5,29200.0,300000,5,46617.26
+21,Female,24.5,2,No,Northwest,No,Yes,General,11,33500.0,300000,4,51952.19
+35,Female,30.9,1,No,Southwest,Yes,No,General,11,37100.0,300000,5,53764.75
+54,Female,29.2,4,No,Southeast,No,No,Diabetes,8,31200.0,500000,2,38967.88
+42,Male,35.3,1,No,Southeast,No,No,General,14,52400.0,2000000,2,62513.26
+65,Male,30.9,2,No,Northwest,Yes,No,General,13,40200.0,300000,3,67106.11
+18,Male,26.8,0,No,Southwest,Yes,No,General,14,49600.0,300000,4,58136.87
+70,Male,23.6,1,No,Northwest,Yes,No,Heart Disease,8,52800.0,1000000,4,70142.95
+63,Female,33.2,3,Yes,Northeast,No,No,Diabetes,15,49800.0,5000000,5,67457.16
+32,Female,26.3,3,No,Southwest,No,No,General,12,45700.0,300000,2,44292.69
+26,Male,27.0,0,No,Northwest,Yes,Yes,Hypertension,3,21400.0,1000000,0,36336.31
+32,Female,27.0,2,No,Northwest,No,No,Diabetes,5,19400.0,100000,3,28547.75
+66,Male,25.6,3,Yes,Southeast,No,Yes,Diabetes,7,42100.0,300000,0,47962.08
+74,Male,27.1,3,No,Southwest,No,Yes,General,5,21300.0,5000000,2,34774.65
+41,Female,39.6,4,No,Northeast,No,Yes,Hypertension,6,36600.0,1000000,4,50362.75
+21,Male,21.7,1,Yes,Northeast,No,Yes,Respiratory,2,16700.0,5000000,4,27933.17
+29,Male,23.1,2,No,Southwest,No,No,General,8,36700.0,300000,0,40896.88
+75,Female,36.3,1,No,Southwest,No,No,General,5,20400.0,100000,1,38070.9
+54,Male,25.8,2,No,Northwest,No,No,General,6,23800.0,300000,2,38576.97
+54,Male,25.3,3,No,Southeast,No,No,General,1,10700.0,1000000,4,34003.63
+60,Female,34.2,4,No,Southeast,No,Yes,Diabetes,10,38600.0,100000,5,64229.69
+23,Male,19.5,1,No,Southeast,Yes,Yes,Heart Disease,2,32000.0,100000,1,35860.6
+56,Female,32.9,3,No,Southwest,No,No,Respiratory,11,37100.0,100000,4,57355.59
+73,Male,28.3,2,No,Southeast,No,No,General,4,20800.0,500000,5,46094.53
+63,Female,30.8,1,No,Northwest,Yes,No,Hypertension,11,47500.0,1000000,4,68592.77
+41,Female,30.7,1,No,Southwest,No,No,Hypertension,9,38200.0,500000,1,48456.83
+28,Female,24.2,3,No,Southwest,No,No,Diabetes,6,29100.0,5000000,0,32368.35
+30,Male,34.3,1,Yes,Southeast,No,No,Diabetes,8,33600.0,100000,2,43862.27
+51,Female,24.7,4,No,Northeast,Yes,Yes,General,2,18900.0,500000,1,35905.47
+42,Female,30.5,4,No,Northeast,Yes,No,Diabetes,10,33900.0,300000,1,46606.66
+24,Female,35.4,3,No,Northwest,Yes,Yes,Diabetes,15,55000.0,500000,4,77142.14
+69,Female,36.3,2,No,Southeast,Yes,No,Heart Disease,5,40600.0,2000000,5,61309.0
+21,Female,26.4,3,No,Southeast,No,Yes,Heart Disease,12,58000.0,5000000,1,63153.78
+25,Male,30.8,4,No,Southwest,No,No,General,12,45100.0,100000,2,45129.5
+37,Male,25.8,0,No,Southwest,No,Yes,General,13,50100.0,100000,0,51829.89
+46,Male,43.0,0,No,Southeast,No,No,Respiratory,1,17600.0,5000000,5,31351.41
+71,Male,32.7,1,No,Southwest,Yes,No,Hypertension,4,23100.0,5000000,0,31995.27
+70,Male,28.5,1,No,Southeast,No,No,Respiratory,10,45500.0,1000000,0,52379.57
+68,Male,29.9,0,No,Northwest,No,Yes,General,1,13600.0,300000,2,26231.69
+62,Male,30.4,4,No,Southwest,Yes,No,Diabetes,11,46000.0,5000000,4,63408.48
+63,Female,30.6,1,No,Southeast,No,No,Hypertension,11,28100.0,5000000,5,46151.25
+27,Male,26.6,3,No,Southwest,No,No,Respiratory,9,32200.0,1000000,5,45179.39
+60,Female,25.6,3,No,Northwest,No,No,General,2,11300.0,5000000,2,29622.78
+51,Female,27.1,4,No,Southwest,No,Yes,General,7,26200.0,500000,5,43302.82
+74,Male,21.2,1,No,Southeast,No,No,Diabetes,3,17300.0,2000000,1,27894.29
+43,Female,32.3,3,Yes,Southwest,No,No,Respiratory,14,55900.0,2000000,3,70771.8
+58,Female,23.2,1,No,Southwest,No,Yes,Respiratory,2,22500.0,2000000,3,40253.34
+66,Female,21.6,1,No,Southeast,Yes,Yes,Respiratory,13,53700.0,5000000,3,68645.13
+75,Female,27.9,3,Yes,Northeast,Yes,Yes,Respiratory,4,30300.0,2000000,0,52790.85
+20,Male,27.2,0,No,Southwest,No,No,General,7,20200.0,300000,5,39884.31
+73,Male,29.5,3,No,Southwest,No,No,General,7,18000.0,500000,2,32664.52
+23,Male,24.6,4,No,Northwest,Yes,No,General,9,34500.0,2000000,5,49451.38
+22,Male,25.6,2,No,Northeast,Yes,No,General,12,40400.0,100000,2,50885.68
+22,Male,32.2,3,No,Northwest,No,No,Respiratory,13,46900.0,5000000,5,61116.72
+71,Male,31.8,1,No,Southeast,No,No,Respiratory,3,20300.0,500000,0,32424.88
+64,Male,31.5,1,No,Southeast,Yes,No,General,7,36400.0,300000,1,50110.75
+40,Male,28.2,3,No,Northwest,No,No,Hypertension,6,29700.0,2000000,3,36184.9
+66,Male,29.0,2,No,Southwest,No,Yes,Respiratory,10,43500.0,300000,3,62209.04
+26,Male,29.4,3,No,Northeast,No,No,Diabetes,7,31300.0,5000000,5,42606.83
+52,Female,24.1,2,No,Northwest,No,No,General,7,29200.0,2000000,0,34938.53
+37,Male,36.8,2,No,Northwest,No,Yes,Diabetes,10,41900.0,100000,3,55962.88
+75,Female,36.0,4,No,Southeast,No,No,Diabetes,5,22900.0,500000,5,54728.46
+66,Female,32.8,1,No,Southwest,Yes,No,Hypertension,9,28800.0,100000,4,50678.97
+59,Female,25.4,1,No,Northeast,No,Yes,Diabetes,7,34600.0,2000000,5,49097.42
+52,Female,31.2,2,No,Northwest,No,Yes,General,7,35700.0,1000000,2,45905.46
+67,Male,33.9,1,No,Northeast,No,No,Respiratory,12,35600.0,500000,3,58621.28
+35,Female,20.7,0,No,Northeast,Yes,No,Hypertension,14,59600.0,300000,3,67627.61
+34,Male,38.2,2,No,Northwest,No,No,Diabetes,3,14100.0,2000000,4,33877.51
+41,Male,17.6,1,No,Northeast,No,No,Respiratory,1,17700.0,100000,1,27628.86
+20,Female,32.2,0,No,Southeast,No,No,General,14,51200.0,5000000,5,65529.62
+49,Male,36.7,4,No,Southwest,Yes,No,General,14,40200.0,1000000,1,55382.01
+52,Female,27.3,1,No,Southwest,No,No,Heart Disease,5,35700.0,5000000,5,50616.57
+55,Female,27.1,0,No,Southwest,No,No,General,8,23700.0,2000000,4,46600.03
+30,Male,32.0,3,Yes,Southeast,No,No,Heart Disease,5,39400.0,300000,1,47431.39
+73,Male,39.1,3,No,Southeast,Yes,No,General,10,33300.0,100000,0,48477.88
+64,Female,26.3,0,Yes,Southeast,No,No,General,3,14600.0,500000,4,32777.66
+42,Male,23.3,2,Yes,Southwest,Yes,No,Diabetes,9,35100.0,1000000,5,61247.01
+26,Male,25.5,2,No,Northeast,Yes,No,General,2,13200.0,2000000,2,23881.69
+21,Male,18.7,1,No,Southeast,Yes,No,Heart Disease,15,59200.0,2000000,2,61362.15
+31,Female,33.4,3,No,Northwest,No,No,Hypertension,3,19300.0,2000000,2,28242.69
